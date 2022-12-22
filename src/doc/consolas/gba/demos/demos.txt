@@ -1,0 +1,102 @@
+[FOTOS 1]
+FOTO_CONSOLAS_GBA_DEMOS PALETA_CONSOLAS_GBA_DEMOS 60 12
+Demos en GBA[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues de la misma forma que existe scene en PC, AMIGA, ATARI, Spectrum, MSX,[IZQUIERDA]
+etc..., existe scene en GBA, para bien o para mal.[NO]
+
+
+
+  Desde  antes  de  salir  al  mercado  la  GBA, exist¡a un
+emulador, y muchos programadores se han puesto ha la  labor
+a desarrollar  cosas para esta peque¤a consola. Y claro, la
+scene no iba a ser  menos , a  si que ya han salido intros,
+demos, cracktros, e incluso juegos sceners para GBA. Lo que todav¡a no he[IZQUIERDA]
+visto, han sido las diskmags, como en la SNES y  PSX. Que pena, porque una
+diskmag con la memoria y potencia que tiene la GBA ser¡a perfecta, sobre todo
+la [NO]EXILIUM.[AMARILLO]
+
+
+
+  Pues en la foto adjunta, se puede ver de izquierda a derecha y de arriba[IZQUIERDA BLANCO]
+abajo, un efecto plasma de una intro de 13 KB que muestra una foto pixelada.[NO]
+Esta intro ha sido realizada por exoticorn/icebird, y la imagen es un JPEG. No[IZQUIERDA]
+hace falta decir, que aunque el c¢digo es de 32 bits, al ser un hardware
+empotrado, y al usar buenos compiladores y ensambladores, se puede obtener un
+binario m¡nimo, que muchos PC'ros (de acuario) quedr¡an. Adem s, la imagen que
+se ve, se encuentra en el propio .BIN, que en la m quina real, ser¡a una ROM.[NO]
+Esto me hace recordar una cosa,y es en el mundo de los PC's y otros ordenadores[IZQUIERDA]
+parecidos, ¨por qu‚ los programas est n en RAM?. Claro, aqu¡ muchos estudiosos
+dir n de todo, como ¨qu‚ dice est  persona?, parece mentira que sea
+programador. [NO]8-D)).[AZULCLARO]
+
+  Pero claro, si un programa est  en ROM, ser¡a imposible que un virus lo[IZQUIERDA BLANCO]
+infectase. Claro, cuando me refiero a ROM, me refiero a una especie de FLASH,
+con protecci¢n de escritura, o en definitiva, una ROM a pelo, para casos
+extremos. Los datos de los programas, ya sean de oficina, o juegos, es normal
+que los tengamos en RAM, pero los programas, deben estar en Disco duro, y a la
+hora de pasarlos a RAM, dejarlos en una ROM,nunca en RAM. Ya que si un programa
+ocupa 10 MB en disco duro, para relocalizarlo en RAM, puede ocupar 1 MB, 10 MB,
+20 MB, 100 MB, no se sabe, ya que depende de la relocalizaci¢n del S.O. Pero
+claro, que desperdicio de RAM. Esos [NO]10 MB[AMARILLO] sirven para muchas cosas.[BLANCO]
+
+  Si seguimos con esta teor¡a (puede ser absurda), nos encontramos un verdadero[IZQUIERDA]
+problema, y es que la ROM est  mapeada. Por tanto, un programa s¢lo podr¡a
+entrar en la zona de memoria que venga especificada en el cartucho. Si queremos
+meter otro programa, se solapa. Pero esto puede solucionarse, usando un GAP, o
+un control de RAM, o en este caso de ROM, es decir, que podamos especificar
+otro mapeo de memoria. A su vez, esto puede ser controlado por el S.O. o
+incluso desfasando m s, el S.O. podr¡a tener punteros a zonas ROM's. Pero en
+definitiva, que el Sistema llegar¡a a funcionar, pero har¡a que el sistema de
+RAM de los PC's, de los MACS o de los AMIGA se fuesen a la basura, teniendo
+que reensamblar todo, cosa que casi ninguna compa¤¡a estar¡a dispuesta a
+realizar. Por tanto, mejor dejar las cosas como est n, y mientras la KK no
+salpique demasiado, todav¡a se puede comer. [NO]8-D)))[VERDEFOSFORITO]
+
+
+  Vaya como desfaso. A lo que iba, la segunda intro de la foto es[IZQUIERDA BLANCO]
+"Circlescroll", cuyo coder es Rudeboy, y el GFX Dr. Pirato. La intro se
+present¢ en el 2001. Se trata de una imagen que representa un texto "Un
+mill¢n de chicos", que se sube y baja, al mismo tiempo, que un texto con el
+coder, va haciendo un giro, rebotando contra las paredes de la pantalla. El
+binario ocupa 40 KB. Hay que destacar, que la GBA al igual que la GB, se
+basan en cartuchos de ROM. Por tanto, si una GBA o una GB tuviesen que leer
+los juegos de cinta o de disco, parecer¡an lentas, y necesitar¡an m s RAM. Por
+tanto, un Spectrum, un MSX y otros m s pueden parecer lentos, pero con un
+cartucho, la cosa cambia mucho.[NO]
+
+
+
+  La siguiente demo es Kance de Condense. El m£sico es Med, el programador es[IZQUIERDA]
+No Recess, y el GFX es Yoyo. Es una buen pieza que muestra im genes y efectos,
+algunos similares a la GBC (Game Boy Color), como la pantalla que se va
+cayendo.[NO]
+  Tiene un cubo en 3D. Para lo que no lo sepan, la GBA, no es como la PSX, la[IZQUIERDA]
+PSX2, la XBOX, la GC, etc..., es decir, no tiene un Chip GFX 3D. Por tanto,
+estamos ante una m quina de 32 bits, como los Pentiums en el 1996. No obstante,
+esta m quina es menos veloz, pero su hardware empotrado la hace m s eficiente.[NO]
+Los motores 3D, hay que hacerlos por software y CPU. No obstante, si tiene[IZQUIERDA]
+coprocesador matem tico. Es decir, la GBA es una herramienta apta para hacer
+demos, ya que sigue teniendo importancia el programador, y no la aceleradora.[NO]
+
+
+  Le toca a la demo bruta, la LeonardGBA, que no es m s que un port de una demo[IZQUIERDA]
+de ATARI, que vi hace tiempo, para GBA. El propio autor dice que el hardware de
+la GBA es muy parecido al ATARI ST, por lo que se puso a programar con el
+paquete ARM dev, y la porto. Toda una obra de arte de 3D v¡a software. Sigo
+diciendo lo mismo, es una pena lo que se esta haciendo hoy en d¡a con las
+aceleradoras. Lo £nico que saben hacer bien son las luces, pero ¨y el resto?,
+no creo que a mucha gente le guste ver un queko con pol¡gonos, vale m s usar
+2D [NO AMARILLO]con trucos.[BLANCO]
+
+
+
+  Ya se que hay m s demos, e incluso chiptunes bestiales (m s de 250 melod¡as),[IZQUIERDA]
+pero por ahora esto, que no tengo mucho tiempo, y tengo que piratear, o perd¢n
+quise decir, que tengo que trabajar, como dicen muchos, es decir, tra bajarme
+cosas de INTERNESSssssssssssss (me he quedaooo durmidu ohhhh).[NO]

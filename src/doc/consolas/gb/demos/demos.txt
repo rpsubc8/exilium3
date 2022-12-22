@@ -1,0 +1,226 @@
+[FOTOS 7]
+FOTO_CONSOLAS_GB_DEMOS1 PALETA_CONSOLAS_GB_DEMOS1 60 39
+FOTO_CONSOLAS_GB_DEMOS2 PALETA_CONSOLAS_GB_DEMOS2 60 61
+FOTO_CONSOLAS_GB_DEMOS3 PALETA_CONSOLAS_GB_DEMOS3 60 83
+FOTO_CONSOLAS_GB_DEMOS4 PALETA_CONSOLAS_GB_DEMOS4 60 107
+FOTO_CONSOLAS_GB_DEMOS5 PALETA_CONSOLAS_GB_DEMOS5 60 132
+FOTO_CONSOLAS_GB_DEMOS6 PALETA_CONSOLAS_GB_DEMOS6 60 160
+FOTO_CONSOLAS_GB_DEMOS7 PALETA_CONSOLAS_GB_DEMOS7 60 184
+Demos en GB y GBC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+   Pues si hay demos en GBA, antes las hubo en GB y GBC, y todav¡a las hay. Y[IZQUIERDA]
+espero que por muchos a¤os, ya que si miramos la GBC es lo m s parecido a un
+C64 port til, ya que la GB es en Blanco y Negro. Bueno, eso sin contar la
+calculadora HP.[NO]
+
+
+
+  La ventaja de usar consolas port tiles para ver demos, radica en lo sencillo[IZQUIERDA]
+que resulta verlas, si se tiene un freidor de ROM's, ya que en cualquier sitio,
+y con unas simples pilas, podemos ver una demo. Eso los PDA's tambi‚n pueden
+hacerlo, pero no es lo mismo. Porque:[NO]
+
+
+   No es lo mismo, que tub‚rculo, que ver tu culo.  8-D)))[PC AMARILLO]
+
+
+  Pues sigo inspirado (no seas babayu, y dale al restayu). As¡ que las demos en[IZQUIERDA PCT BLANCO]
+GB molan, pero claro en pantalla incorporada, porque en pantalla grande, no es
+muy interesante.[NO]
+
+
+
+
+
+
+
+Inka Pick Pocket[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Y esta vez, le ha tocado turno a esta.Es toda una obra de
+arte de los 8 bits, y demuestra de nuevo, que en 8 bits, es
+posible las 3D. Los juegos  comerciales  de  GB son buenos,
+pero nunca llegaran a la calidad  de  los  efectos  de  los
+sceners. Por eso,yo sigo teniendo mi GB Pocket bien a punto.
+
+
+  Esta demo, tiene un sonido gracioso, y unos efectos 2D
+fluidos , as¡ como un t£nel muy preciso. En cuanto a las 3D
+s¢lo se muestra una GB de [BLANCO]color rosa.[AMARILLO]
+
+
+  El coder es LAI. En la foto se puede apreciar mejor.[BLANCO]
+
+
+
+
+
+
+
+LGB[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Otra vez de INKA, el coder LAI, trae una demo.
+
+
+  En  tonalidades  azul , contiene una foto de un delf¡n, y
+luego  se van mostrando efectos de deformaci¢n de  terrenos
+en 3D sobre part¡culas, as¡ como [BLANCO]interferencias.[AMARILLO]
+
+
+  La m£sica es agradable, pero no es ca¤era.[BLANCO]
+
+
+
+
+
+
+
+Wired[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues le toca el turno al ganador de  GBdev'2000. Su coder
+es Dark , y  pone de manifiesto una vez m s que la GB puede
+tener [BLANCO]juegos en 3D.[AZULCLARO]
+
+
+  Se ven fotos,as¡ como objetos 3D y transformaciones 3D en[BLANCO]
+modelado al mbrico.
+  La m£sica si  es techno. En definitiva, que es ideal para
+fre¡rlo en ROM y llev rselo uno en su GBC, para ense¤ rselo
+a sus amigos,en lugar de escuchar tanta chorradilla de tono
+de tel‚fonos pijom¢viles, o perd¢n quise decir,mojom¢viles,
+o perd¢n, quise decir, pend¢n, ped¢n, bueno, que los tonos
+de los m¢viles son una lata el trabajar,todos los d¡as ....
+Se me ha ido la Yola, quise decir, la olla. 8-D))))
+
+
+
+
+
+
+Childs play[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues que se  puede  decir  de  esta demo , salvo  que  es
+preciooOOoosa. Por  poco el Word me modifica esta falta  de
+ortograf¡a, pero me reniego  a  usar  las  Starwars Office,
+8-D)),  prefiero el  Abiword ,  porque  las  OpenOffice  se
+cuelgan  como  el Microsoft  Word ,  ya  lo han  conseguido
+emular al 100%.[AMARILLO]
+
+  Pues nada , que  como se ve en las im genes, contiene una[BLANCO]
+serie de  efectos sobre todo de la vieja escuela , as¡ como
+una imagen  de una chica de sacarse los ojos ,  aunque  sea
+en pantalla peque¤a.
+
+  El grupo es [BLANCO]CNCD[AMARILLO], y dominan muy bien el [BLANCO]C64.[AMARILLO]
+
+  Lamentablemente no tira en una GB, s¢lo GBA (no GUS no Play).[BLANCO]
+
+
+
+
+
+
+Dawn[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues esta es otra demo no muy antigua, del 1998,que ten¡a
+guardada  por mi disco duro de hace muchooOOoo  tiempo.  Es
+tambi‚n bastante bonita, y tiene efectos como un bumpmaping
+en tiempo  real  (Z80 power) , as¡ como un tunel  y  alguna
+imagen 2D, acompa¤ado todo de [BLANCO]sonido envolvente.[AMARILLO]
+
+  La verdad que los efectos sceners en la GB disimulan m s,[BLANCO]
+por su peque¤o tama¤o. Hay que destacar , que esta demo  si
+tira en GB.
+
+
+ El coder y SFX es [BLANCO]exoticorn[AMARILLO], y el GFX es [BLANCO]gizmo.[AMARILLO]
+
+ Como an‚cdota , decir, que esta demo ha sido programada en[BLANCO]
+ensamblador (CPU 6502 power),desde un cross assembler de un
+AMIGA 5000. En definitiva, un scener 100%.
+
+
+
+
+
+
+
+
+Space Waste[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues el grupo octarine  ha  presentado  en  la breakpoint
+2003 , una maravilla, sobre todo en cuanto a m£sica , en la
+parte final. Los GFX son tambi‚n buenos, y muy fluidos.
+
+  Como pena, est  que s¢lo tira en GBC , y no en GB. Ya  se
+que muchos me dir‚is, que la Color es mejor , pero la GBC y
+la  GB  son id‚nticas , salvo  en los colores, y sonido. Mi
+primo tiene la GBC, y ya se que arranca m s r pido, pero al
+menos la GB puedes encenderla y apagarla en el acto. 8-D)))
+
+  Adem s la scene consiste en eso,de lo m¡nimo hacer lo que
+parece imposible.
+
+  En la foto  se  puede  ver  alguno  de  los efectos, como
+bumpmapping, 3D, fractales, [AMARILLO]y dem s.[BLANCO]
+
+
+
+
+
+
+
+Some Old Stuff[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  El coder  es quant y dark, el gfx es juge y el sfx es dnk
+y dark. Se trata de toda una demo, en la que la m£sica pasa
+a convertirse en una  especie de  TRANCE ,  como  en  la de
+ORANGE de C64.[AMARILLO]
+
+
+  Por supuesto, vuelven a salir las 3D, que son un lujo.[BLANCO]
+¨Qui‚n dijo que no puede haber un DOOM en una GBC?.
+
+
+  La foto habla por si sola.
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ la secci¢n de demos de GBC y GB. Ya se que hay muchas m s, y[IZQUIERDA]
+que las hay mejores y peores, pero "as¡ han sido las cosas, y as¡ se las hemos
+tirado", o perd¢n, quise decir, "chico, chico, lo que hay, Mario no ta, veni
+Ma¤iana". 8-D)))[NO]
+
+
+  Esto era s¢lo para que vieseis que el C64 no s¢lo no ha muerto, sino que ha[IZQUIERDA]
+evolucionado, o ha seguido en otra rama m s divertida, al estilo de los PDA's,
+es decir, en las consolas port tiles.[NO]
+
+  En pr¢ximos n£mero, m s.

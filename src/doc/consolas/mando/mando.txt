@@ -1,0 +1,275 @@
+[FOTOS 2]
+FOTO_CONSOLAS_PSX_MANDO1 PALETA_CONSOLAS_PSX_MANDO1 70 5
+FOTO_CONSOLAS_PSX_MANDO2 PALETA_CONSOLAS_PSX_MANDO2 50 108
+Mando PSX en PC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues en este art¡culo , voy a explicar como conectar un PAD  de  la
+PSX a nuestro querido PC. ¨El por qu‚?, muy sencillo, porque puedo.
+
+
+  Pues si nos vamos a una tienda para conseguir un PAD para nuestro PC, nos[IZQUIERDA]
+encontraremos con una extensa variedad de ellos, a cada cual el m s caro. Si
+adem s le a¤adimos la posibilidad de usar STICKS, pues claro, la cosa se
+dispara, y si encima queremos FEEDBACK, pues ya entonces, los euros se licuan
+directamente.[NO]
+
+
+
+  Siempre podemos optar por la segunda mano, en donde los precios si est n bien[IZQUIERDA]
+ajustados con respecto a lo que hace el PAD, pero claro una cosa si es clara:[NO]
+
+
+  Los PAD's de los PC's no son de gran calidad, paguemos lo que paguemos, por[IZQUIERDA PC AMARILLO]
+lo que si le metemos horas al METAL SLUG, terminar n por saltar los STICKS por
+un lado y los botones por otro.[NO]
+
+
+
+  En el tema de los joysticks, la cosa cambia, pero en los PAD's es as¡. Por[IZQUIERDA PCT BLANCO]
+tanto, siempre nos queda la opci¢n de adaptar un mando de alguna consola
+antigua, como la SNES, MEGADRIVE, etc..., pero  ¨hasta donde podemos llegar con
+poco dinero?[NO AMARILLO]
+
+
+  Y claro, la respuesta es casi ilimitada. As¡ que esta vez vamos a llegar a[IZQUIERDA BLANCO]
+coger un mando de PSX, que en mi caso se ha tratado de un PSX compatible
+id‚ntico a un PSX original, salvo en el color y logotipo.[NO]
+
+
+  Para aquellos que no sepan como es este mando, se puede ver la foto al[IZQUIERDA]
+principio del art¡culo, en el que salen los 2 STICKS anal¢gicos, el control
+digital y los 13 botones restantes, as¡ como el reset. Pero claro, lo mejor es
+el FEEDBACK, es decir, los 2 motores de [NO]vibraci¢n.[AZULCLARO]
+
+
+
+  Por tanto, las consolas llevan a¤os de adelanto a los PC's, pero por fin[IZQUIERDA BLANCO]
+podemos usar al menos los PAD's. ¨pero como conecto el PAD de PSX al PC?. Y
+claro, viendo el conector, es claro que el PC no tiene nada similar, por lo que
+hay que hacer un conversor. ¨pero funcionar  en el conector MIDI de la tarjeta
+de sonido del PC?, pues lo que voy a comentar ahora no. En concreto, funcionar 
+por medio del puerto paralelo, por lo que incluso un 8086 podr  hacer uso de
+este [NO]PAD.[VERDEFOSFORITO]
+
+
+  Y si alguien cree que el PAD de una PSX es peor que el de PC, sencillamente[IZQUIERDA BLANCO]
+padece una diarrea mental cr¢nica con desprendimiento de tropezones. [NO]8-D))[AZULCLARO]
+
+
+
+  Pero no hay nada bueno que no cueste un peque¤o sacrificio, y deberemos tirar[IZQUIERDA BLANCO]
+de soldador. Si ya sabemos, no hay problema, esto es similar al conversor del
+joystick del ATARI del n£mero anterior.[NO]
+
+
+
+
+
+
+
+Esquema[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+   Pues yo he conseguido varios esquemas de INTERNET hace tiempo, y actualmente[IZQUIERDA]
+hay todav¡a m s, pero el esquema principal sigue siendo el mismo. Normalmente,
+se suele usar un cable extensor del mando de la PSX (el esquema queda en
+espejo), para as¡ poder usar el mando tanto en la PLAY, como en el ordenata,sin
+falta de cortar el [NO]conector del mando.[AMARILLO]
+
+
+  En mi caso, puesto que no tengo PLAY STATION, he decidido cortar el conector[IZQUIERDA BLANCO]
+de la PSX. 8-D)))) Es broma, no hay que ser tan bestia. No he cortado nada, ya
+que he usado ESPADINES de tal forma, que una vez aplastados un poco con las
+tenazas, entran a presi¢n perfectamente en los pines machos del mando. Por
+supuesto, he tenido que ponerles aislante con CELO o cinta aislante, para que
+no se tocasen entre s¡, al estar muy pr¢ximos, y ha quedado perfecto. Es m s,
+he realizado varios mandos para m s gente, al ver como quedaban, entre ellos
+NAVEGANTE y RGS.[NO AMARILLO]
+
+
+  Se necesita:[BLANCO]
+
+   - 5 diodos 1N4148[PC AMARILLO]
+   - 1 conector DB 25 macho
+   - 1 carcasa para el conector DB 25
+   - 8 espadines
+   - 1 portapilas
+   - 1 fuente de alimentaci¢n de 500 mA y 9 V o una pila de 9 V.
+   - Celo y cinta aislante
+
+
+  Por tanto, el esquema que yo sigo es el siguiente:[PCT BLANCO]
+
+
+
+  Una vez realizado, funciona todo perfecto, pero
+eso s¡ , el feedback ,  necesita una alimentaci¢n
+especial, en concreto, necesita 9 V,y un amperaje
+de 100 mA como  m¡nimo , cosa que no da el puerto
+paralelo ni el serie, ni de [BLANCO]broma.[AMARILLO]
+
+
+  Podemos optar por una pila de las rectangulares[BLANCO]
+de 9 V, pero aunque funciona , el problema radica
+en la duraci¢n de la misma, que ser  lo mismo que
+en un ventilador port til, pero para probar,tira.
+Pero id pensando en una fuente [BLANCO]externa.[AMARILLO]
+
+
+
+  As¡   que  en  mi  caso   he   optado  por   un[BLANCO]
+transformador de  corriente alterna a continua de
+500 mA  regulable  de  1.5 V a 12 V, es decir, el
+t¡pico  de  los  CHINOS  para el radiocasete. Con
+1000 mA (1 A) tambi‚n tira, que  lo he probado. Y
+sino ,   pod‚is   tirar   de   una  pila  de  las
+rectangulares de 9 V, o bien de  la fuente de PC,
+sacando la tensi¢n de un conector del disco duro,
+como visteis en art¡culos anteriores,para usar un
+CPC.[AMARILLO]
+
+
+  Para el feedback, aunque se habla de 9 V,yo con 4.5 V creo que es suficiente,[IZQUIERDA BLANCO]
+ya que a 7.5 V empieza a vibrar mucho, y a 9 V, parece PARKINSON, pero esto es
+como el volumen en el DISCMAN, a gusto de cada uno.[NO]
+
+
+   1                 9
+    _________________
+   ³o o o³o o o³o o o³
+   \_____³_____³_____/
+
+
+   PAD PSX  ³ Pin DB25[PC AMARILLO]
+  ÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄ
+      1     ³   10     
+      2     ³    2
+      3     ³    9 V (FEEDBACK)
+      4     ³   18 y 19
+      5     ³   diodos
+      6     ³    3
+      7     ³    4
+      8     ³    No conectado
+      9     ³   12
+
+
+
+  Hay que hacer un puente en el DB 25 entre los pines 18 y 19, que a su vez[IZQUIERDA PCT BLANCO]
+van al pin 4 del PAD. El pin 8 del PAD se deja sin conectar. Y el pin de 9 V
+del Feedback es para la fuente externa, en donde la masa, es el pin 4 del PAD.[NO]
+
+
+
+  Los 5 diodos, son para alimentar el mando, ya que los mandos de la PSX[IZQUIERDA]
+necesitan 3.5 V, pero requieren de un amperaje m¡nimo, cosa que el puerto
+paralelo, aunque da 5 V cada pin de salida, no posee un amperaje alto. As¡ que
+al unir 5 terminales, por la ley de tensiones, tenemos que sigue habiendo 5 V
+(apto para el mando) y de amperaje, 5 veces el amperaje de un [NO]pin.[AMARILLO]
+
+  Sin embargo, puede haber casos, en los que no sea suficiente, y para eso, se[IZQUIERDA BLANCO]
+debe sustituir esos 5 diodos, por una entrada directa de 5 V de una fuente
+externa. Eso se encuentra todo por INTERNET, pero en mi caso ha tirado en
+varios ordenatas, antiguos y nuevos.[NO]
+
+
+  Una vez acabado todo, podemos optar por poner cinta aislante al conector DB[IZQUIERDA]
+25 y el del PAD, de tal forma que queden unidos, y se puede contar al puerto de
+la impresora como uno s¢lo. De esta forma, se evita hacer tirones, como de un
+alargador, y que se suelte algo.[NO]
+
+
+
+
+
+
+
+Prueba del mando[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues una vez hecho el esquema, poco se puede hacer para comprobarlo, ya que[IZQUIERDA]
+el mando no es PLUG & PLAY, y WINDOWS no lo tienen soportado de f brica (una
+pena).[NO]
+
+
+  Para el caso de usar un buen S.O., como el DOS, la cosa cambia, ya que[IZQUIERDA]
+podemos tirar de las librer¡as ALLEGRO, como en el n£mero anterior, y
+configurar el [NO]Joystick para PSX.[AMARILLO]
+
+
+  Si vemos que hay problemas, es todo a prueba y error, es decir, a cambiar el[IZQUIERDA BLANCO]
+puerto a modo SPP, EPP, ECP, y dem s, hasta que tire.[NO]
+
+  Para WINDOWS 9x, existe un driver llamado DIRECTPAD, que ya tiene la versi¢n[IZQUIERDA]
+5. Es bueno, y tira bastante bien. Una vez metido el driver, bien a¤adiendo
+nuevo hardware o en Dispositivos de juegos, debemos comprobar y calibrar el
+mando, probando el control, digital, y los STICKS anal¢gicos (hay que activar
+el bot¢n anal¢gico). Y si todo es correcto, y la luz del anal¢gico se enciende,
+est  acabado.[NO]
+
+
+  Para el caso del FEEDBACK hay que tirar de juegos como el STAR WARS RACER,
+COLIN MAC RALLY, Need For Speed, etc...[NO]
+
+
+  El Direct PAD posee c¢digo fuente para programar en C, igual que en el[IZQUIERDA]
+art¡culo anterior el de ATARI. Por lo que desde el DOS o cualquier sistema que
+permita acceder a puertos, podemos enviar las instrucciones necesarias para
+leer datos del PAD, as¡ como activar el [NO]DUAL SHOCK.[AMARILLO]
+
+
+  Para el caso del XP, existe un driver llamado NTPADXP, cuya versi¢n es la[IZQUIERDA BLANCO]
+2.01, que va muy bien. Posee hasta un chequeador del SHOCK (Feed BACK), de tal
+forma que no hace falta instalar un juego previamente.[NO]
+
+
+  Para LINUX existe tambi‚n software, aunque para BeOS todav¡a no, pero eso no[IZQUIERDA]
+quiere decir que no se pueda, ya que como dije, podemos constuirnos un driver o
+un programa que acceda al puerto paralelo.[NO]
+
+
+
+
+Mando original[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  X ahora hemos visto como poner un mando compatible.Pero, k pasa si keremos[IZQUIERDA]
+probar con uno original.Y claro,aki la cosa se complica un poco. Primero
+necesitamos ponerle x narices tensi¢n para los sticks, ya k el puerto paralelo
+ni con el truco d los diodos,puede alimentarlos.Podemos poner un LM7805 sin
+disipador, y robar tensi¢n d la pila o fuente del feedback.O bien, saltarnos
+el LM, y poner en paralelo, la alimentaci¢n del feedback y los sticks.Para el
+caso d los botones digitales, con los diodos, tira bien.Si no us is el LM
+corr‚is el riesgo d meter mucha tensi¢n, y fastidiar los sticks, as¡ k no.Yo
+he probado con 6 V en una fuente regulable, y va bien el feedback y los
+sticks, pero est is avisados.
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues una vez que hay is realizado el interface, e instalado el software,[IZQUIERDA]
+deb‚is tirar de todos los juegos y reventar el mando.[NO]
+
+
+  Y por supuesto, cargar el emulata de NEO GEO, y jugar sin parar al METAL[IZQUIERDA]
+SLUG 1, 2,3 y 4, hasta que se os caigan los dedos.[NO]
+
+  Si en el driver, todo funciona perfectamente, pero en los juegos, NO, se debe[IZQUIERDA]
+a un error de comunicaci¢n entre el juego y el driver, o que no viene preparado
+para ello, es decir, que est  mal programado el juego. As¡ que a prueba y
+error.[NO]
+
+  Y con esto, todo acabado.

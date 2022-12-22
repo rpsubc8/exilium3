@@ -1,0 +1,179 @@
+[FOTOS 1]
+FOTO_CONSOLAS_GBA_BASIC PALETA_CONSOLAS_GBA_BASIC 60 68
+BASIC en GBA[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Muchos de vosotros estar‚is deseando programar la GBA. ¨Qu‚ no sabes lo que[IZQUIERDA]
+es?, pues lo dir‚ de otra forma:[NO]
+
+
+  La gay boy advanced (chico gay avanzado), o perd¢n es broma 8-D))), la[IZQUIERDA]
+consola [NO]GAME BOY ADVANCED[AMARILLO]. Si segu¡s sin saber lo que es, pues os fastidi is.[BLANCO]
+
+
+  A lo que iba, esta consola es una de las m s ideales para programar de[IZQUIERDA]
+manera econ¢mica, ya que apenas necesitamos ni comprarla, al existir
+emuladores.[NO AZULCLARO]
+
+  Pero recordad, los emuladores no lo hacen todo, y por supuesto no emulan en[IZQUIERDA BLANCO]
+tiempo real, es decir, que un juego que en el emulata, parece que va bien, en
+la consola puede no tirar, o ir muy lento, y viceversa. Muchos demosceners de
+GBA, han realizado demos que al meterlas en una FLASH en la GBA real, no tiran,
+y si no tiran en la GBA no son demos para GBA, sencillamente, ya que esto no
+es como en los PC's, donde cambias una pieza, y puede tirar.[NO]
+
+
+  Seguro que muchos de vosotros hab‚is trabajado de INTERNES muchas cosas, o[IZQUIERDA]
+perd¢n, quise decir BAJADO de INTERNES, es que aqu¡ hasta piratear pelis X sin
+sonido lo llaman trabajar (con un MIDI ya basta).[NO] 8-D)))[AMARILLO]
+
+
+  Y de esas cosas que hab‚is bajado (JPG, AVI's, VIRUS, DIALERS con factura[IZQUIERDA BLANCO]
+de tel‚fono de agarrarse los 8===>), habr  alg£n compilador cruzado (cross
+compiler) de GB, y con un poco de suerte de GBA. Generalmente, son de
+ensamblador, pero a veces, los hay en C, como en el n£mero pasado con las
+librer¡as HAM.[NO AMARILLO]
+
+
+  Pero claro, el C para muchos puede que hasta os provoque urticaria, y por[IZQUIERDA BLANCO]
+tanto, quiz s la opci¢n de usar un BASIC LAMER os haga hasta caer la BABA
+dentro del teclado. 8-D))) Hoy si que no paro de decir chorradas.[NO]
+
+
+
+  Y para este menester, tenemos el DRAGON BASIC. ¨Qu‚ no sabes donde[IZQUIERDA]
+conseguirlo?, pues muy sencillo, en:[NO]
+
+
+
+             http://www.google.com[CHAR14B VERDEFOSFORITO]
+
+
+
+  Sustituimos las palabras "download Silvia Saint film" por esto otro:[PCT BLANCO]
+
+    "download dragon basic for gba", o algo similar, y a descargar. 8-D))[PC AMARILLO]
+
+
+
+
+
+
+
+Manejo[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues en principio, se trata de una herramienta shareware,
+pero que  no caduca , tan s¢lo  nos  limita  el  tama¤o del
+binario  resultante a unos 30 KB, seg£n creo recordar, pero
+no estoy seguro. Que  os  hag is  a  la idea, que limita el
+tama¤o del binario. As¡ que esta herramienta  nos ser  £til
+para hacer intros de la scene para GBA o peque¤os  previews
+de juegos para GBA, para luego terminar  port ndolos al C o
+ensamblador de GBA , o sencillamente registrando la versi¢n
+completa del [BLANCO]DRAGON BASIC (o pirate ndola).[AMARILLO]
+
+
+  El  editor  es  muy  c¢modo ,  y  nos permite remarcar la[BLANCO]
+sintaxis  del  lenguaje, que de por s¡, es BASIC, es decir,
+est  tirado.
+
+  En la p gina web hay una serie de c¢digos de ejemplo, que se pueden[IZQUIERDA]
+descargar. Guantes de ser cargados en el editor, debemos de configurar las
+opciones del DRAGON BASIC, al estilo de las variables de entorno de los
+compiladores. Para ello, debemos de ir a Build --> Options, y elegir donde
+est  el compilador DBC.EXE, y las variables y constantes del archivo GBA.DBC.[NO]
+
+  As¡ mismo podemos elegir el path de donde est  el emulador que ejecutar  el[IZQUIERDA]
+binario resultante al compilar, ya que este compilador no lo trae.[NO]
+
+
+  Esta tool, viene preparada para WIN32, y a su vez, nos podemos saltar el[IZQUIERDA]
+editor, llamando al [NO]DBC.EXE[AZULCLARO], que es el compilador de BASIC.[BLANCO]
+
+  Pues, nada, una vez dicho esto, le dais al F7, que es para compilar, y en[IZQUIERDA]
+el acto, os saldr  el mensaje:[NO]
+
+
+        tutorial .dbc [[error] line 36: Failed to open source file? ../gba.dbc[PC AMARILLO]
+
+
+  Que se soluciona, copiando el gba.dbc, que se encuentra en donde hab‚is[PCT BLANCO IZQUIERDA]
+instalado el DRAGON BASIC, al sitio donde se encuentra el tutorial, y todo
+acabado.[NO]
+
+
+  Le volv‚is a dar a compilar, y se generar  un binario, que por lo general,[IZQUIERDA]
+ocupar  menos de 3 KB. Si lo quer‚is ejecutar, desde el emulata que tenga
+soporte de .BIN, lo carg is, y si ten‚is un flasheador o el cable de la GBA, lo
+envi is a la [NO]GBA real.[AMARILLO]
+
+
+
+  Pero si quer‚is tirar de emulador desde el editor de DRAGON BASIC, le d is[IZQUIERDA BLANCO]
+al F5 (RUN), y si hab‚is configurado bien el path del emulador, saldr  algo.[NO]
+
+
+
+
+
+
+
+Codigo[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Aqu¡ va un trozo de c¢digo:
+
+
+   #title "Ejemplo"[PC AMARILLO]
+   #include "../gba.dbc"
+   font_bmp: #bitmap "font.png" ; imagen tile de 16 colores
+   font_pal: #palette "font.png" ; paleta de 16 colores
+   start:
+    graphics 0,false
+    enabletiles 0,8,0,TEXT_SIZE_256x256 or BG_COLOR_16
+    loadtiles charblock(0),font_bmp,95
+    loadpal16 BG_PALETTE,0,font_pal
+    tile_addr = tile(8,0,0)
+    print tile_addr,"Hola TOC DOC!"
+   end
+
+
+  C¢mo se puede ver, el c¢digo es muy intuitivo. Se necesita la foto de fondo[PCT BLANCO IZQUIERDA]
+"font.png", que debe estar en formato de 16 colores, as¡ como la paleta de
+colores. La imagen se incluye en la ROM posteriormente. La paleta la coge de
+la misma imagen, pero con el comando #palette.[NO]
+
+
+
+  La sintaxis:
+
+
+    start:[PC AMARILLO]
+    end
+
+
+  Representa el cuerpo del programa.[PCT BLANCO]
+  La orden graphics 0, elige el modo de resoluci¢n 0, y con la opci¢n FALSE[IZQUIERDA]
+se le dice que no use [NO]SPRITES.[AMARILLO]
+  El enabletiles es para activar el background.[BLANCO]
+  El loadtiles charblock es para las fuentes de texto.
+  Y el resto de comandos, son funciones, que por su propio nombre se puede ver[IZQUIERDA]
+lo que hacen. Y que hay que decir, del comando PRINT, por dios, si es el de
+siempre del BASIC.[NO]
+
+  No he comentado m s sobre esto, ya que este art¡culo est  destinado a[IZQUIERDA]
+programadores que ya saben BASIC, que una vez juntado el conocimiento de los
+registros y modos de trabajo de la GBA, el resto est  tirado, al igual que
+programar la SVGA con VESA en ensambla o C, o tirando de librer¡as, como la
+SVGA.LIB en LINUX, que es lo mismo, pero con diferentes nombres de funciones.[NO]
+
+
+  Que os haya servido de ayuda, y hasta el pr¢ximo n£mero.
