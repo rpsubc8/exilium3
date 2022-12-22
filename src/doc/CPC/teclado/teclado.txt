@@ -1,0 +1,96 @@
+[FOTOS 0]
+Arreglar teclado de CPC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues seguro que a m s de uno le habr  pasado, que su maravilloso CPC que[PCT BLANCO IZQUIERDA]
+tiene aparcado en el armario, no le funciona alguna o varias teclas. De hecho,
+esta puede ser la causa por la que est  en el armario o en la cochera, o
+incluso en la[NO] basura.[AZULCLARO]
+
+
+
+  Pues para estas personas, todav¡a existe una posible soluci¢n, siempre y[IZQUIERDA BLANCO]
+cuando posean el CPC. Hace tiempo, llego al RadioClub un CPC 464+ que ten¡a
+varias teclas estropeadas, sin embargo, aunque le consegu¡ arreglar alguna, no
+se pudo arreglar todas. Sin embargo, hace poco me pille en el rastrillo un CPC
+464+, sin monitor ni fuente de alimentaci¢n. As¡ que hasta que no le conecte la
+fuente y le hice el conversor de video para adaptarlo al monitor CPC, no pude
+ver que realmente le fallaba el teclado.Que conste que ya me advirtieron que no
+sab¡an si el CPC+ funcionar¡a, pero que m s me daba, si en el fondo, vale m s
+gastar dinero en estas m quinas que en una revista de electr¢nica o de
+inform tica, que como mucho te va a traer unos diodos y una placa de baquelita,
+a un precio superior que un [NO]CPC[AZULCLARO] de segunda mano.[BLANCO]
+
+
+
+  Una vez que arrancaba el CPC+, una tecla, creo que la 's' aparec¡a pulsada[IZQUIERDA]
+constantemente por pantalla, de tal forma, que hasta que no se pulsaba alguna
+tecla, se llenaba la pantalla de [NO]'s'.[VERDEFOSFORITO]
+  Adem s la tecla de borrar y unos n£meros no tiraban, pero eso si, el ENTER,[IZQUIERDA BLANCO]
+si funcionaba correctamente. Por tanto, es en este paso, donde entra el papel
+de desarmar el CPC+.[NO]
+
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Debemos de asegurarnos de que el CPC+ o CPC est‚ desenchufado de cualquier[IZQUIERDA]
+conexi¢n de corriente. No vale con apagar el interruptor. Y luego procederemos
+a desmontarlo. Dependiendo de que sea un [BLANCO]CPC o un CPC+[AMARILLO], la forma de desmontarlo[BLANCO]
+ser  distinta. De hecho el CPC 464 y 6128, posee unos 6 tornillos largos. El
+CPC 464+, posee varios tornillos, pero adem s tiene unas pesta¤as de pl stico,
+que hay que presionar, para sacar la carcasa, una vez desatornillado. Pero hay
+que recordar que para quitar los tornillos, se hace por la parte de atr s.[NO]
+
+
+  Despu‚s es cuando podemos ver el teclado, metido en una especie de mini caj¢n[IZQUIERDA]
+de pl stico con una barra de metal por debajo, que nos permite tocar masa con
+una pesta¤a, si se trata del CPC+. Esta pesta¤a que toca a masa, hay que
+tensarla para que realmente [NO]toque el teclado.[AZULCLARO]
+
+
+
+  Y luego, se proceder  a desmotar el caj¢n del teclado. Si nos fijamos por la[IZQUIERDA BLANCO]
+parte de arriba est n las teclas, y por la de abajo unas pesta¤as, que si
+apretamos, sacaremos la parte de arriba, pero con cuidado (m s vale fuerza que
+ma¤a).[NO]
+
+
+  Una vez desmontado, podremos ver la l mina del verdadero teclado, que[IZQUIERDA]
+consiste en un circuito en l mina, en que al pulsar sobre los pulsadores
+circulares, se presiona una tecla. Por tanto, debemos comprobar si la tecla
+afectada posee el muelle intacto en la parte del teclado. Si es as¡, pasaremos
+a mirar la l mina de nuevo, y a limpiarla con [NO]alcohol.[VERDEFOSFORITO]
+
+
+  Una vez evaporado, se proceder  a dejar el caj¢n del teclado tocando a masa[IZQUIERDA BLANCO]
+si es un CPC+, y a pulsar las teclas de la l mina, mientras est  encendido. No
+hace falta enganchar el caj¢n de teclas, ya que estamos probando. Si vemos que
+funciona, todo correcto, sino, seguiremos limpiando, pero con el ordenador
+apagado, y si es necesario, soplaremos las l minas, por si acaso, se han
+aplastado los bornes de los pulsadores en la [NO]l mina.[AMARILLO]
+
+
+
+  Si todo funciona bien, se proceder  a poner celo o cinta aislante a la l mina[IZQUIERDA BLANCO]
+para fijarla bien dentro del caj¢n, y as¡ poder encajar las teclas
+correctamente, al cerrarlo. Sino, podr¡an quedar mal conectadas, y habr¡a
+algunas que no se pulsar¡an, o que al pulsarlas, habr¡a que apretarlas de una
+forma correcta.[NO]
+
+
+
+  Y con esto, deber¡a funcionar todo. Sino, es que vuestro teclado, est  podre.[IZQUIERDA]
+As¡ que podr‚is ir a buscar uno nuevo de un ordenata por el rastrillo, y
+engancharlo al conector de teclado. Adem s, puede ocurrir, que el enganche del
+teclado se haya suelto, ya que va enganchado con un [NO]poco de presi¢n.[AMARILLO]

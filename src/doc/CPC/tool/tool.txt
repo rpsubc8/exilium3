@@ -1,0 +1,227 @@
+[FOTOS 1]
+FOTO_CPC_TOOL PALETA_CPC_TOOL 60 36
+CPC Tool Kit 1.0 [AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Buscando por la INTERNES, pude encontrar una herramienta para LAMERS de CPC.
+Esta herramienta francesa,que ocupa 1,7 MB, y que se llama actk11.exe, integra:
+
+
+  - Manejador de colores[PC AMARILLO]
+  - Editor de s¡mbolos
+  - Editor de im genes de disco DSK
+  - Emulador de CPC
+  - Conversor de im genes
+  - Editor de sprites
+
+
+  En definitiva, lo ideal para trastear, o para poder hacer un juego o[PCT BLANCO IZQUIERDA]
+programa serio en CPC.[NO]
+
+
+  No obstante, la parte que m s nos va a interesar, y ha sido la que m s he[IZQUIERDA]
+probado, es la del conversor de im genes. Esta utilidad,nos permitir  convertir
+cualquier imagen BMP, ICO, GIF o JPG a formato de pantalla de un CPC. No
+obstante, la imagen no podr  tener ni muchos colores, ni mucha resoluci¢n, as¡
+que probad con cosas sencillas. Si no puede poner todos los colores a 16 bits,
+deb‚is de bajarlo a 8 bits, y si sigue protestando, a [NO]4 bits (16 colores).[AZULCLARO]
+
+
+
+  El programa viene en Franc‚s, pero a prueba y error, se puede trabajar. La[IZQUIERDA BLANCO]
+imagen a cargar, se puede arrastrar y soltar, o bien cargar con:[NO]
+
+
+
+
+  Imagen --> [PC AMARILLO]Ouvrir une image bitmap[BLANCO]
+
+
+
+  Para convertir , deb‚is dar al  bot¢n  de Conversi¢n, que
+dependiendo de los colores, como dije anteriormente,lo har 
+o no. Si todo va bien,se mostrar  la imagen convertida,como
+se puede  ver  en el ejemplo de la foto de BRADD PITT (para
+que se les caiga la baba a las [BLANCO]chicas 8-D)))).[AMARILLO]
+
+
+
+  Hay que reconocer, que la calidad visual, no es tan buena como en el MSX,[IZQUIERDA BLANCO]
+pero todo depende de la foto. Eso s¡, el CPC+, al tener m s colores, las fotos
+tienen m s calidad.[NO]
+
+
+  Pero, todav¡a no hab‚is acabado, ya que queda pasarlo a binario que[IZQUIERDA]
+reconozca el CPC. Para ello, vamos a la opci¢n:[NO]
+
+
+
+  Image --> [PC AMARILLO]G‚n‚rer une image .BIN pour CPC[BLANCO]
+
+
+
+  Y nos saldr  un explorador en donde elegir el nombre de archivo binario[PCT IZQUIERDA]
+final de nuestra imagen, por ejemplo:[NO]
+
+
+
+  foto.bin[PC AMARILLO]
+
+
+
+  Pero el archivo con extensi¢n BIN, s¢lo es el binario de la imagen. Si lo[PCT BLANCO IZQUIERDA]
+usamos luego, no tendremos la paleta de colores, al estilo del modo 13h de la
+VGA del PC. Por tanto, debemos ir a:[NO]
+
+
+
+   Image --> [PC AMARILLO]Sauver la palette CPC[BLANCO]
+
+
+
+  Y nos saldr  otro explorador en donde guardar la paleta en c¢digo BASIC,[PCT IZQUIERDA]
+en donde podemos poner:[NO]
+
+
+
+  Paleta.bas[PC AMARILLO]
+
+
+
+  Nos dir  que todo correcto, y si queremos echar un vistazo, se puede[PCT BLANCO IZQUIERDA]
+observar, como el archivo PALETA.BAS contiene algo como esto:[NO]
+
+
+
+  10 MODE 0:ink  0, 26:ink  1, 25:ink  2, 16:ink  3, 13:ink  4, 12:[PC AMARILLO]
+     ink  5, 4:ink 6, 3:ink  7, 0:ink  8, 9:ink  9, 1:ink  10, 10:
+     ink  11, 0:ink  12, 0:ink  13, 0: ink  14, 0:ink  15, 0
+
+
+  Estos valores cambian de una imagen a otra, ya que se corresponde con las[PCT BLANCO IZQUIERDA]
+funciones de los puertos de la paleta de colores.[NO]
+
+
+  Ahora podemos poner este c¢digo en nuestro emulador o CPC real, y darle al[IZQUIERDA]
+RUN. Pero s¢lo cambiar  la paleta. Para poder ver la imagen, tendremos que poner
+el siguiente c¢digo:[NO]
+
+
+
+  LOAD "foto.bin"[PC AMARILLO]
+
+
+
+  Y todo acabado. Para optimizar, podemos a¤adir una l¡nea, como:[PCT BLANCO]
+
+
+
+  20 LOAD "foto.bin"[PC AMARILLO]
+
+
+
+  Seg£n la ayuda en Franc‚s, debemos usar la siguiente direcci¢n de memoria,[PCT BLANCO IZQUIERDA]
+para optimizar el uso de RAM:[NO]
+
+
+
+  LOAD "foto.bin",&C000[PC AMARILLO]
+
+
+
+  Pero para que nuestro CPC reconozca estos archivos, debemos de meterlos en[PCT BLANCO IZQUIERDA]
+una imagen de disco .DSK, para luego freirla. Para ello tiraremos de
+herramientas como CPCFS con los siguientes par metros:[NO]
+
+
+
+   cpcfs -nData disco.dsk[PC AMARILLO]
+
+
+
+  En el acto, se ha creado un disco de CPC. Luego podemos insertar los[PCT BLANCO IZQUIERDA]
+archivos de la imagen de la siguiente forma:[NO]
+
+
+
+   cpcfs disco.dsk -p paleta.bas[PC AMARILLO]
+
+   cpcfs disco.dsk -p foto.bin
+
+
+
+  Para pedir m s ayuda a los comandos, se hace as¡:[PCT BLANCO]
+
+
+
+   cpcfs -?[PC AMARILLO]
+
+
+
+  Y si no nos gusta la l¡nea de comandos, se puede ejecutar el programa, y[PCT BLANCO IZQUIERDA]
+al estilo del FTP, con comandos como GET, PUT y similares, podemos trabajar con
+esta imagen.[NO]
+
+
+  Si usamos una herramienta visual, como el DISK MANAGER, todo nos ser  m s[IZQUIERDA]
+f cil a golpe de rat¢n, y arrastrando y soltando.[NO]
+
+
+
+  Para poder probar esto, ejecutaremos algo as¡ con la imagen DISCO.DSK en[IZQUIERDA]
+el emulador, o el disco ya grabado de DISCO.DSK en el CPC real:[NO]
+
+
+
+   LOAD "paleta.bas"[PC AMARILLO]
+
+
+
+  Y el acto, ejecutamos RUN.[PCT BLANCO]
+
+  Si hemos puesto la l¡nea de LOAD "FOTO.BIN",&C000, anterior, todo deber¡a[IZQUIERDA]
+funcionar. En el acto, nos saldr  la foto, y el cursor. Si no queremos que
+salga el cursor, es decir, que quede la foto siempre, podemos o bien poner:[NO]
+
+
+   30 goto 30[PC AMARILLO]
+
+
+  O bien:[PCT BLANCO]
+
+
+   30 a$=input$[PC AMARILLO]
+
+
+
+  Y con esto, se ha acabado poner nuestras fotos en el CPC. Teniendo en[PCT BLANCO IZQUIERDA]
+cuenta, de que una imagen de CPC ocupa 16 KB, con el c¢digo BASIC, unos 17 KB,y
+que el disco tiene una capacidad de 190 KB, no da un total de:[NO]
+
+
+
+   11 fotos a todo color.[PC AMARILLO]
+
+
+
+  Si ponemos la doble cara del disco, nos dan 22 fotos. Pero claro, no hemos[PCT BLANCO IZQUIERDA]
+llegado a las 200 fotos del MSX, que pena 8-(. Si tiramos de alguna herramienta
+compresora, podremos dejar las im genes en menos. Pero aunque lleg semos a
+dejarlas en la mitad, en un disco, s¢lo nos entrar¡an:[NO]
+
+
+   44 fotos o m s.[PC AMARILLO]
+
+
+  Lo ideal es que podamos meter 100 fotos o m s para poder hacer un[PCT BLANCO IZQUIERDA]
+MEGAPACK, pero menos da una roca. 8-D))[NO]
+
+
+
+  As¡ que ha desempolvar esos CPC's viejos, y a ponerlos a tirar de fotos, a[IZQUIERDA]
+ser posible porno. ¨Qui‚n va a creer que est is haciendo cosas malas en esos
+equipos? 8-D))))[NO]

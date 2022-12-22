@@ -1,0 +1,72 @@
+[FOTOS 2]
+FOTO_CPC_OXYGEN1 PALETA_CPC_OXYGEN1 59 17
+FOTO_CPC_OXYGEN2 PALETA_CPC_OXYGEN2 59 49
+CPC Oxygen 10[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Desde hace poco, ten‚is disponible el n£mero 10 de la diskmag Oxygen, en[IZQUIERDA]
+formato HTML, la cual, tal y como se coment¢ en el n£mero pasado de EXILIUM, 
+trata sobre temas del AMSTRAD, como es el caso del CPC, PCW, PC, etc...[NO]
+
+
+  Y en este n£mero, como portada, nos podemos encontrar al pionero de los PDA's,[IZQUIERDA]
+que en este caso, es el AMSTRAD PDA 600, que sali¢ en los a¤os 90's, cuando 
+APPLE se pegaba con su NEWTON.[NO]
+
+
+  Las caracter¡sticas m s destacadas son:
+
+   - Tama¤o: [PC AMARILLO]16 cm por 11.5 cm, y 2.5 cm de grosor.[GRIS]
+   - Bater¡as: [AMARILLO]con soporte de litio.[GRIS]
+   - Calendario: [AMARILLO]desde 1993 hasta el 2003.[GRIS]
+   - Ampliaci¢n: [AMARILLO]con tarjeta PCMCIA de 2 MB de SRAM.[GRIS]
+   - Sirve como: [AMARILLO]gu¡a telef¢nica, dibujo, etc...[GRIS]
+   - 3 Procesadores Z8S180 a: [AMARILLO]14.3 Mhz.[GRIS]
+   - 192 KB de RAM con 128 KB accesibles por el usuario.
+   - 64 KB usados: [AMARILLO]como memoria de video.[GRIS]
+   - Resoluci¢n de pantalla: [AMARILLO]de hasta 240x320 pixels.[GRIS]
+   - 1 mini puerto serie RS-232C.
+
+  Hay que destacar, que con las bater¡as, se puede llegar hasta 12 horas de[IZQUIERDA PCT BLANCO]
+uso, o bien 3 meses en modo de espera.[NO]
+
+
+  En definitiva, que dada le ‚poca en que sali¢, y dados los tiempos en que[IZQUIERDA]
+corremos, al igual que le sucedi¢ a APPLE y AMIGA, AMSTRAD en algunos campos,
+fue un adelantado. La verdad que la vida da muchos cambios, y en la inform tica
+no iba a ser diferente.[NO]
+
+
+  Otros temas que se tratan, son el del CPC Oxygen YearBook 2003, que se[IZQUIERDA]
+encuentra disponible en PDF y en formato EXE,as¡ como la explicaci¢n y detalles
+de c¢mo conectar nuestro CPC con un PC, a trav‚s del puerto paralelo. De esta
+forma, podremos seguir dando uso a nuestro antiguo, pero £til equipo.[NO]
+
+
+  Hay que destacar,que en cualquier momento se pueden descargar todas las cosas[IZQUIERDA]
+comentadas, en formato DSK, para poder ejecutar desde un emulata, o m quina
+real.[NO]
+
+
+  Los juegos comentados en este n£mero son:
+
+   - Wrestle Mania[PC GRIS]
+   - Rick Dangerous
+   - SwitchBlade
+   - Continental Circus
+   - Bonz (c¢digo fuente)
+   - Aliens
+
+  Como an‚cdota, seg£n se cuenta en la diskmag, el AMSTRAD[PCT BLANCO]
+CPC es m s popular que el ATARI ST o el COMMODORE 64 , por
+justamente un voto.
+
+
+  Y otra cosa interesante, es la nueva consola de ATARI que sale en formato[IZQUIERDA]
+JOYSTICK, cl sico. Por tan s¢lo 40 Euros, podr s jugar a los juegos de la ATARI
+2600, pudiendo contener hasta 10 posibles en memoria. La verdad que es curioso,
+tal y como se puede ver en la foto.[NO]

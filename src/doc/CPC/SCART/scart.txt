@@ -1,0 +1,126 @@
+[FOTOS 1]
+FOTO_CPC_EUROCONECTOR PALETA_CPC_EUROCONECTOR 50 62
+Euroconector para CPC 464+[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues en el n£mero anterior de la revista, se pudo contemplar como se pod¡a[IZQUIERDA]
+conectar un CPC 464 y un CPC 6128 a una TV o video con euroconector, con tan
+s¢lo hacer un conversor, ya que ambos modelos ten¡an el mismo conector de
+salida de[NO] video.[AZULCLARO]
+
+  Pero claro, muchos de vosotros, quiz s teng is un CPC 464+ o un 6128+, como[IZQUIERDA BLANCO]
+es mi caso, y por tanto, este esquema no funcionar . Pero no todo est  perdido,
+ya que se puede hacer un conversor de CPC+ a CPC, para luego poder usar el
+cable conversor de Euroconector (SCART), y as¡ tener todos los accesorios
+a punto para toda la gama de [NO]CPC's del mercado.[AZULCLARO]
+
+  De esta forma podremos dar larga vida a nuestro CPC+, que a lo mejor ten¡amos[IZQUIERDA BLANCO]
+abandonado en el armario, o por si lo queremos buscar para poder realizar
+cosas olvidadas.[NO]
+
+
+
+
+Materiales[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues en principio, se necesitar  los siguiente:
+
+
+   - Conector a‚reo hembra DIN 6[PC GRIS]
+   - Conector a‚reo macho DIN 8
+   - 30 cm o 50 cm de cable con 6 hilos, y masa.
+   - El cable conversor de CPC a Euroconector del n£mero 2 de Exilium.
+   - Paciencia con el soldador
+
+
+  Como pod‚is observar, no se requiere de nada m s, y por supuesto, el precio[PCT BLANCO IZQUIERDA]
+de los componentes, salvo que sean de alguna aleaci¢n especial, no deber¡an
+superar los 3 Euros en total.[NO]
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Una vez con los materiales a punto, y con un soldador y esta¤o a mano,[IZQUIERDA]
+debemos de mirar la foto adjunta, en la que vienen explicados los conectores
+del CPC+ y CPC por detr s, es decir, seg£n sacamos nuestro querido CPC, por
+la parte de salida de video.[NO]
+
+
+  Hay que darse cuenta, que el CPC+ posee 8 pines, pero en realidad 2 de ellos,[IZQUIERDA]
+son para el sonido, en concreto para el canal izquierdo y el derecho de audio.[NO]
+  Por tanto, nos quedan 6 pines, que poseen las mismas se¤ales que el CPC, pero[IZQUIERDA]
+cambiados los pines de sitio.[NO]
+
+
+  El significado de los pines del CPC, son:
+
+   - 1  Rojo[PC ROJO]         Salida[GRIS]
+   - 2  Verde[VERDE]        Salida[GRIS]
+   - 3  Azul[AZULCLARO]         Salida[GRIS]
+   - 4  Sincronismo[BLANCO]  Salida[GRIS]
+   - 5  Tierra[BLANCO]
+   - 6  Luminancia[BLANCO]   Salida[GRIS]
+
+  El significado de los pines del CPC+, son:[PCT BLANCO]
+
+   - 1  Sincronismo[PC BLANCO]      Salida[GRIS]
+   - 2  Verde[VERDE]            Salida[GRIS]
+   - 3  Luminancia[BLANCO]       Salida[GRIS]
+   - 4  Rojo[ROJO]             Salida[GRIS]
+   - 5  Azul[AZULCLARO]             Salida[GRIS]
+   - 6  Audio Izquierdo[BLANCO]  Salida[GRIS]
+   - 7  Audio Derecho[BLANCO]    Salida[GRIS]
+   - 8  Tierra[BLANCO]
+
+  Por tanto, recordad, no usar los pines 6 y 7 del conector macho DIN 8, y de[PCT BLANCO IZQUIERDA]
+unir los pines de se¤ales correspondientes del CPC+ (DIN 8 macho) al CPC (DIN
+6 hembra), es decir, unir la se¤al de Rojo, Azul, Verde, Sincronismo,
+Luminancia y Tierra.[NO]
+
+  Y si todo, lo hab‚is hecho correcto, funcionar .
+
+
+
+
+
+Ampliaciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Esta soluci¢n no s¢lo sirve para el euroconector, sino para poder adaptar[IZQUIERDA]
+vuestro CPC+ a un monitor de CPC, de color, o de F¢sforo Verde (a falta de
+pan, vino). En concreto, si ten‚is s¢lo un monitor de f¢sforo verde, tan s¢lo
+necesitar‚is estas se¤ales:[NO]
+
+
+      Luminancia, Sincronismo y Tierra. [VERDEFOSFORITO]
+
+
+  Y si pens is que esto no funciona, os dir‚ que todo lo contrario, ya que lo[BLANCO IZQUIERDA]
+he probado con el CPC 464+ y el 6128, y funciona perfectamente, tanto en el
+monitor de color del CPC 464, como en f¢sforo Verde y en Euroconector.[NO]
+
+
+
+
+
+Posibles inconvenientes[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Si os pon‚is a buscar los conectores, a lo mejor no encotr is con facilidad[IZQUIERDA]
+el DIN 8 macho. En mi caso, lo ped¡ de vez en cuando, y un d¡a lo encontr‚. El
+DIN 6 hembra no deber¡a ser un problema, pero cuando encontr‚ el DIN 8 macho,
+el DIN 6 hembra, no lo hab¡a. As¡ que paciencia, y si est is en un sitio con
+bastantes tiendas electr¢nicas, mejor, sobre todo si son especializadas.[NO]
