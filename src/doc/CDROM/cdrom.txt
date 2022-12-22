@@ -1,0 +1,306 @@
+[FOTOS 4]
+FOTO_CDROM1 PALETA_CDROM1 60 47
+FOTO_CDROM2 PALETA_CDROM2 60 176
+FOTO_CDROM3 PALETA_CDROM3 60 226
+FOTO_CDROM4 PALETA_CDROM4 60 285
+S.O. sin instalar[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues uno de los problemas m s habituales a la hora de probar nuevos Sistemas[IZQUIERDA]
+Operativos es el de tener miedo de perder los datos del disco duro, al tener
+que [NO]crear particiones.[AZULCLARO]
+
+
+  Sin embargo, gracias a BeOS, QNX, Menuet y dem s, ya no hace falta tener este[IZQUIERDA BLANCO]
+miedo, ya que no hace falta crear particiones, sino que dejando un espacio en
+disco duro, ya funcionan. Algunas distribuciones de LINUX, tambi‚n siguen este
+esquema.[NO]
+
+
+  Pero claro, a veces, no tenemos espacio en disco duro para probar estos[IZQUIERDA]
+Sistemas, o bien tenemos una partici¢n ocupada por un Sistema Operativo,la cual
+no puede ser usada por otros sistemas, y no queremos arriesgarnos a perderla.[NO]
+
+
+  Por tanto, para todas estas personas, existe una soluci¢n, que consiste en[IZQUIERDA]
+usar nuestro querido CD-ROM o incluso la disquetera, para poder cargar nuestro
+Sistema. De esta forma, podremos probar un Sistema,y si vemos que nos convence,
+lo instalamos bien en disco duro, y sino, no pasa nada.[NO]
+  Adem s, estos Sistemas, nos sirven para casos de emergencia,en caso de perder[IZQUIERDA]
+nuestro disco duro o Sistema Operativo, ante un virus, o simplemente, si no nos
+apetece instalar todo, para poder ver s¢lo una pel¡cula [NO]por la noche.[AMARILLO]
+
+
+  En este art¡culo, se expondr n algunos de los Sistemas que existen, y como se[IZQUIERDA BLANCO]
+pueden crear, para nuestros menesteres.[NO]
+
+
+
+
+
+XBeOX[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues se trata de nuestro querido BeOS 5 PE,pero con alg£n que otro a¤adido de[IZQUIERDA]
+programas, en concreto, el BePACDeluxe, y un cliente de IRC. El nombre completo
+de esta distribuci¢n es el de [NO]Live CD XBeOX.[VERDEFOSFORITO]
+
+
+
+  Ahora podremos arrancar BeOS en 15 segundos desde nuestra[BLANCO]
+querida  lectora de CD-ROM (si es r pida), con s¢lo activar
+el soporte de arranque  de  CD-ROM del SETUP de la BIOS. Si
+no tenemos  esta  opci¢n, debemos de actualizar la FLASH de
+la  BIOS, con  sus  correspondientes  riesgos, en  caso  de
+fallo.[ROJO]
+
+
+
+  La imagen de esta distribuci¢n, se encuentra en:[BLANCO]
+
+
+
+     http://www.bebits.com[XM VERDEFOSFORITO]
+
+
+
+  Y una vez descargada (47 MB), debemos de freirla, con las utilidades[IZQUIERDA PCT BLANCO]
+cdrecords, que en caso de tener BeOS, desde terminal, haremos algo similar a
+esto:[NO]
+
+
+   cdrecord dev=9,0,0 -v speed=8 -data BOOT.IMG XBEOS2.IMG[PC AMARILLO]
+
+
+  El dispositivo 9,0,0 es para el caso en concreto que he usado, pero para[PCT BLANCO IZQUIERDA]
+saber donde ten‚is la grabadora, deb‚is de activar el scanbus como opci¢n:[NO]
+
+
+   cdrecord -scanbus[PC AMARILLO]
+
+
+  La velocidad 8x, si ten‚is una grabadora mejor, la pon‚is a lo que sea, pero[IZQUIERDA PCT BLANCO]
+tened cuidado, ya que si ten‚is desactivado el DMA, o cosas similares, es mejor
+poner la velocidad m s baja (lento pero seguro). No obstante, BeOS, tiene una
+forma de trabajar con la grabadora distinta de WINDOWS, os lo garantizo.[NO]
+
+
+  Y en cuanto a los IMG, el BOOT, es el arranque TORITO,y el otro es el BeOS 5,[IZQUIERDA]
+propiamente dicho. Al cabo de unos minutos, vuestro CD estar  acabado. Si no
+quer‚is perder un CD, se puede tirar de regrabable, siempre y cuando lo borr‚is
+previamente. Si no sab‚is usar las cdrecord, ya sab‚is, a tirar de los TXT,y de
+INTERNET. Las cdrecord, son GNU, y las ten‚is disponibles para casi cualquier
+S.O.:[NO]
+
+
+   LINUX, BeOS, WINDOWS, DOS, etc...[PC AMARILLO]
+
+
+  Si no os arregl is con modo terminal, pod‚is bajaros el BurnIT, que es un[IZQUIERDA PCT BLANCO]
+INTERFACE que llama por debajo a las cdrecord. Bajo BeOS, a mi me tira bien,
+pero si hace cosas raras a veces, no os extra¤‚is.[NO]
+
+
+  Una vez que arranqu‚is desde CD-ROM, puede que se quede colgado en el men£[IZQUIERDA]
+gr fico de arranque de BeOS. Por tanto ya sab‚is, igual hay que desactivar
+opciones, pulsando la BARRA ESPACIADORA. Aunque posee unos cuantos drivers
+extra de v¡deo y sonido, puede que no soporte vuestro hardware, y claro, no se
+pueden a¤adir, ya que en el CD-ROM no se graba. Adem s igual el modo de video
+con el que arranca no est  soportado muy bien por vuestra tarjeta gr fica. Por
+tanto, no pens‚is en la opci¢n de XbeOX como una soluci¢n a gran escala y
+plazo, sino m s bien, como algo alternativo y divertido, con posibilidad de
+salvarnos la vida en casos como el que us‚ el otro d¡a:[NO]
+
+
+  Borrar XP, y coger datos confidenciales protegidos en NTFS, arrancando con[IZQUIERDA AMARILLO]
+XbeOX y montando la partici¢n.[NO]
+
+  Adem s, podremos ver la TV, si nos soporta la tarjeta sintonizadora,sin falta[IZQUIERDA BLANCO]
+de complicarnos la cabeza instalando nada.[NO]
+
+
+
+
+
+FreeDOS NC 1[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues es una distribuci¢n de FreeDOS 99% de New Creations. Las caracter¡sticas[IZQUIERDA]
+que posee, son:[NO]
+
+  Free-Dos NC1 Floppy Add-ons[PC GRIS]
+ 
+  Disk 1 - Incluye nuevo kernel 2028 w con soporte de Fat32
+  Free-Dos NC1
+   RX Copy 1.1
+   FreeCom 0.83 Beta 54
+   Debug .95E
+   Defrag .31
+   File Compare 2.1A
+   Kernel 2028 W/FAT32
+   DJGPP 2.03
+
+  Ocupa 60 MB, y podemos descargarnos la imagen de CD-ROM, o s¢lo el disquete[PCT BLANCO IZQUIERDA]
+de HD de 1,44 MB.[NO]
+
+
+  Para poder freir el S.O., debemos de escribir algo, como esto:
+
+    cdrecord dev=9,0,0 -v speed=8 -data FDNC11.ISO[AMARILLO PC]
+
+  No hay que meter el TORITO, ya que se trata de una imagen ISO, que ya[IZQUIERDA PCT BLANCO]
+contiene toda la estructura de CD-ROM.[NO]
+
+
+  Si todo va bien,tendremos nuestro FreeDOS listo para arrancar desde cualquier[IZQUIERDA]
+ordenata con soporte de arranque de CD-ROM.[NO]
+
+
+  Mediante men£s en modo texto, nos permitir  arrancar incluso con soporte de[IZQUIERDA]
+FAT32, o con kernel nuevo. Y si queremos instalar FreeDOS en el disco duro,
+tambi‚n podremos elegirlo desde[NO] men£.[AMARILLO]
+
+
+  Al igual que la opci¢n anterior,no es la soluci¢n a todos nuestros problemas,[IZQUIERDA BLANCO]
+pero nos puede sacar de un apuro,incluso de NT, si tenemos la utilidad NTFSDOS.
+Como los PC's tienen una gran variedad de hardware, los drivers son un
+problemilla, y tendremos que cargarlos por nuestra cuenta.[NO]
+
+
+
+
+
+
+Menuet[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En el  n£mero  anterior, ya hab¡amos hablado de este gran
+S.O. 100%  GNU  y en assembler. La verdad que es un posible
+modelo a imitar, y que desde  aqu¡  esperamos  que siga con
+esa  filosof¡a  intacta , y  alg£n  d¡a  llegue  a  ser  un
+competidor frente a basuras como[BLANCO] WINDOWS.[AMARILLO]
+
+
+  Aunque  desconozco  si se  puede  arrancar  desde  CD-ROM[BLANCO]
+(TORITO), podemos arrancarlo desde disco duro con partici¢n
+FAT16  o  FAT32, o  bien  desde  disquetera. Por  supuesto,
+podemos tirar de emuladores, tambi‚n.
+
+
+  Tan s¢lo hemos de descargarnos el MSETUP (483 KB), y descomprimirlo.Luego nos[IZQUIERDA]
+saldr  un ejecutable MSETUP.EXE (1.4 MB), que ejecutaremos, y nos pedir  meter
+un disquete limpio en la unidad A:. Este disquete ser  formateado, por lo que
+mejor que no nos importe perderlo.[NO]
+
+
+  Y al cabo de unos segundos, tendremos nuestro querido Menuet preparado para[IZQUIERDA]
+correr en una m quina 80386 o superior, con al menos 16 MB de RAM. Podemos
+copiar el MSETUP.EXE a la partici¢n primera del disco duro con soporte de FAT,y
+cuando arranquemos Menuet desde el disquete, decirle que lo coja del HD,
+ahorr ndonos bastante tiempo de carga. Por supuesto, debemos de tener activo el
+arranque de la unidad A, desde el SETUP de la BIOS, que esto lo tienen todos
+los [NO]PC's.[AMARILLO]
+
+
+  Hay que destacar, que este S.O. est  todav¡a en fase de pruebas, por lo que[IZQUIERDA BLANCO]
+soporta muy poco hardware, pero para Sistemas empotrados o incluso demos o
+consolas, es uno de los mejores candidatos. Aunque ocupe todo el disquete, esto
+se debe a que trae muchos documentos en formato TXT. El sistema ocupa
+poqu¡simo, y en el disco entran una burrada de programas, clientes de telnet,
+reproductor de m£sica, demos gr ficas (domo 3D, tunel, opengl), lupa, notepad,
+compilador, nasm, etc...[NO]
+
+
+  En mi caso en concreto, no me arranc¢ desde HD, pero a Navegante s¡. Y en[IZQUIERDA]
+algunas aceleradoras he tenido problemas, pero esto se debe a que no cumplen el
+est ndar VESA 2.0 (fabrican basura incompatible).[NO]
+
+
+
+
+
+QNX[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues tal  y como se coment¢ en el n£mero anterior, el QNX
+existe  (LINUX RTOS). Es  un S.O. no GNU, es  decir, aunque
+este basado en LINUX, lo lleva una empresa privada.
+
+
+
+  Este  Sistema  es  un  competidor  nato contra WINDOWS, e
+incluso  con otros LINUX , ya que  est  pensado para Tiempo
+Real. Normalmente , muchos  lo habr n instalado en el disco
+duro en partici¢n FAT16 o FAT32, sin problemas. Sin embargo
+, podemos  incluso  ejecutarlo desde  un  CD-ROM, con  s¢lo
+bajarnos la imagen correspondiente, de unos [BLANCO]40 MB.[AMARILLO]
+
+
+
+  Esta imagen ya viene en formato ISO, dispuesta a ser freida. Aunque es[IZQUIERDA BLANCO]
+interesante, hay que destacar, que contiene unas aplicaciones b sicas, y que
+para poder instalar m s, debemos de hacer la instalaci¢n limpia desde disco
+duro.[NO]
+
+
+
+
+
+Knoppix[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues quiz s esta distribuci¢n es la que m s eco est  haciendo en los usuarios[IZQUIERDA]
+de LINUX, ya que permite arrancar un LINUX desde CD-ROM. Ya se que ya exist¡an
+una burrada de distribuciones de este tipo, pero esta en concreto, es la m s
+importante, porque permite arrancar una Debian con cerca de 2 GB de software,ya
+que lo tiene todo comprimido, y lo descomprime en tiempo de ejecuci¢n,
+permitiendo tener KDE, GIMP, OpenOffice, juegos 3D, 2D, xawTV, etc...[NO]
+
+
+  Por tanto es una distribuci¢n incre¡blemente completa, pero incre¡blemente[IZQUIERDA]
+lenta, al estilo de la [NO]COREL LINUX.[AMARILLO]
+
+
+  Est  pensada para aquellos usuarios que tienen miedo a LINUX,y quieren verlo,[IZQUIERDA BLANCO]
+pero temen particionar. Tambi‚n sirve para aquellos que tienen poco espacio en
+disco duro.[NO]
+
+  Se puede descargar desde INTERNET.
+
+  Como viene con las X-WINDOWS configuradas en concreto, a lo mejor no nos[IZQUIERDA]
+soporta nuestra tarjeta gr fica o modo de video. Por tanto, podemos cambiar de
+resoluci¢n con ALT+ o ALT-, para cambiar de modo de video, si queda el monitor
+en espera. Para matar a las XWINDOWS, deb‚is pulsar alt+borrar.[NO]
+
+
+
+
+
+BeOS Dano[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  No se  trata realmente de un BeOS como XbeOS, sino que se
+trata de una versi¢n de instalaci¢n. Despu‚s de bajarnos el
+disquete TORITO y la imagen de CD-ROM, debemos grabarla, de
+manera  similar  a  la XBeOX. En  mi caso, no pude meter el
+TORITO, y tuve que grabarlo en un disquete con  la utilidad
+RAWRITE.[AMARILLO]
+
+
+  Y  una  vez  que  arranquemos ,  nos  saldr   un men£  de[BLANCO]
+instalaci¢n  de  BeOS  Dano (BeOS R6), que pedir  elegir la
+partici¢n a  instalar BeOS , por  lo que se cargar  todo lo
+que est‚ en ella.
+
+
+  Lo mejor de esta versi¢n de BeOS, es su interface.
