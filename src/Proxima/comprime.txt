@@ -1,0 +1,7 @@
+Conseguir un binario ejecutable de poco tama¤o, ya es posible, con:
+
+  UPX, PKLITE
+
+  Y con t‚cnicas de optimizaci¢n:
+
+  gcc -s -O6

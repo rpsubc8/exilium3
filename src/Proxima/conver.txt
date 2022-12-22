@@ -1,0 +1,4 @@
+Existen conversores de teclado:
+
+  DIN5 - PS2
+  PS2 - DIN5

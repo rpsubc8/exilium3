@@ -1,0 +1,4 @@
+Para conectar una impresora laser HP LaserJet III, no funcionaba el
+conector paralelo, as¡ que hubo que tirar de serie:
+
+  Para hacer un cable de impresora serie, se sigue el esquema

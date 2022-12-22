@@ -1,0 +1,2 @@
+Hay programas como:
+  NERO, CDRECORDS, CLONECE, BLINDWRITE

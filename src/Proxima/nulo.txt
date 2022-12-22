@@ -1,0 +1,9 @@
+Para conectar dos ordenadores entre si, no hace falta de una tarjeta de red
+sino que podemos tirar de un cable nulo, bien serie o paralelo.
+Las opciones son:
+
+  Serie DB9 - DB9
+  Serie DB9 - DB25
+  Serie DB25 - DB25
+
+  PAralelo DB25 - DB25
