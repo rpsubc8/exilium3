@@ -1,0 +1,407 @@
+[FOTOS 5]
+FOTO_PARTY_SOTA1 PALETA_PARTY_SOTA1 20 240
+FOTO_PARTY_SOTA2 PALETA_PARTY_SOTA2 20 271
+FOTO_PARTY_SOTA3 PALETA_PARTY_SOTA3 20 295
+FOTO_PARTY_SOTA4 PALETA_PARTY_SOTA4 54 355
+FOTO_PARTY_SOTA5 PALETA_PARTY_SOTA5 20 386
+Sota Party 2002[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  No sabiamos si comentar Party's antiguas o si poner una nueva. Y al final,[IZQUIERDA]
+mirando por nuestro disco duro, decidimos poner la Sota Party 2002. El ftp es:
+
+
+    scenesp.org[XM VERDEFOSFORITO]
+
+
+  Tan s¢lo hay que entrar como an¢nimo, y mirar por PUBLIC. La verdad que la[PCT BLANCO IZQUIERDA]
+conexi¢n, compar ndola con las telef¢nicas, va bien, no llegando a T1, pero va
+bien.[NO]
+
+
+
+
+Resultados[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+----------------------------------------------------------------------------[PC GRIS]
+4k demo compo
+----------------------------------------------------------------------------
+109 1 Probably too late... calodox pc  12.75[PCT BLANCO]
+110 2 South Park Outage Future Scene of Belgium & Bugfactory pc  9.14
+
+----------------------------------------------------------------------------[PC GRIS]
+vocal music compo
+----------------------------------------------------------------------------
+97 17 U N I T Y Willbe and Sheena   9.05[PCT BLANCO]
+93 13 u can buil like legos Ripper /MP   7.67
+82 1 Vocal reality ak / Mandarine   7.5
+92 12 RAw Confession Syl east / Cocoon   7.36
+94 14 talking bout the revolution dagon and azzaro /mawi   6.8
+95 15 Message to My Future Torone   6.4
+86 5 Cradle of Love Virgill & Melwyn   6.34
+90 11 No doubt SUBSTANCE VS LETTIQUE   5.98
+85 4 Land Of Freedom ChaosNeT / Orion   5.96
+84 3 Alexel ft. Fab - you Alexel / Sunlilamelo-d   5.8
+88 8 My heart med / Paradiso   4.95
+83 2 SweetArmOnMe alkama&mo / tpolm, calodox   4.86
+91 10 l etre amovible dlyr /mdr-tano   4.71
+89 9 Kloniacs CRITIKILL VS. FLAPJACK   4.4
+87 7 just a little y2k+2 go wit da flow popcoremix eggbird / the happy hardcore
+revival foundation   4.11
+104 6 daa kala / dOh & mdr   3.68
+98 18 Sheriff Banjobot vs Cosmopop Band zest / HH   3.14
+96 16 Wataru ft. Michael de Viso - L.o.v.e Wataru /Sunlilamelo-d   2.75
+
+----------------------------------------------------------------------------[PC GRIS]
+raytracecompo
+----------------------------------------------------------------------------
+38 5 glandizeur gregos   11.4[PCT BLANCO]
+44 11 asylum tenshu/cocoon   10.58
+46 13 montenegro zaac/mandkind/mawi   7.55
+42 9 lastcoffee lenudist/vortex   6.37
+37 4 eyes of fairlight krafton/nOmad/fairlight   5.79
+34 1 invasion commando danube/mutant inc   5.28
+39 6 joey kornichon/ovulcreation   5.11
+36 3 die for mawi prevent & azzaro/mawi   4.58
+35 2 dead end street wodk / division 0   4
+41 8 prout the raytrace jetliii/vortex   3.85
+45 12 fate fits karma ubik & lettique / mawi   3.21
+43 10 space romano / romano & co   2.99
+40 7 leopards michael j power   2.97
+
+----------------------------------------------------------------------------[PC GRIS]
+oldschool music
+----------------------------------------------------------------------------
+101 3 yapaplubato redribbon/mandarine   8.31[PCT BLANCO]
+99 1 Just Flabulous Hardfire/SpaceBalls   7.94
+100 2 Polm2 bLa / mankind   6.53
+102 4 rememberance FLAPJACK/MADWIZARDS   5.49
+103 5 baseline kala / dOh & mdr   4.27
+
+----------------------------------------------------------------------------[PC GRIS]
+oldschool gfx
+----------------------------------------------------------------------------
+54 7 kiss the ring zaac/mandkind/mawi   14.74[PCT BLANCO]
+28 2 sophise dalk/spoutnik team   7.3
+27 1 the cat attack critikil/madwizards   6
+32 6 voleur de couleur sacri/move   5.82
+31 5 technodoll rahow/apex   5.8
+29 3 international garden dwarf ... pops / woodtower   4.2
+30 4 mjp michael j power   4.88
+
+----------------------------------------------------------------------------[PC GRIS]
+oldschool demo compo
+----------------------------------------------------------------------------
+24 1 barbitoric condense/defenceforce oric  14.86[PCT BLANCO]
+
+----------------------------------------------------------------------------[PC GRIS]
+music
+----------------------------------------------------------------------------
+81 16 train to my mind dagon & azzaro/madwizards   7.5[PCT BLANCO]
+68 3 Cream4free med/Paradisco   7.49
+79 14 The Pure Chase redribbon / mandarine   6.71
+69 4 Hindu_Power bosco / syndrome   6.56
+80 15 Night City tOrOne   6.31
+66 1 Basse Line + Ray Of Sunshine Hulud / digital murder   6
+67 2 Hidden Creatures ChaosNeT/orion   5.59
+76 11 MonPti-Noel Lenudist / Vortex   5.5
+70 5 Halloween Save Our Souls Kalmindo   5.31
+72 7 Hope kala / dOh & mdr   5.26
+74 9 gtto knos   5.18
+73 8 waft XCEED vs. Lettique   5.17
+75 10 MISTAKEN FOR A MAN Magic Fred /Tfl-Tdv   5.13
+77 12 The Battle of Red Wall mv / hellven   3.95
+71 6 Hammond TCHERNO / VORTEX   3.7
+78 13 Leyenda .tao / Hellven   3.67
+
+----------------------------------------------------------------------------[PC GRIS]
+mega demo compo
+----------------------------------------------------------------------------
+105 1 dionysos calodox   17.29[PCT BLANCO]
+
+----------------------------------------------------------------------------[PC GRIS]
+fastcompo
+----------------------------------------------------------------------------
+hades/melting pot[PCT BLANCO]
+
+----------------------------------------------------------------------------[PC GRIS]
+surprise code compo
+----------------------------------------------------------------------------
+sylex/vortex[PCT BLANCO]
+shash
+myself/dim4
+
+----------------------------------------------------------------------------[PC GRIS]
+gfx compo
+----------------------------------------------------------------------------
+17 17 come play with me tenshu / Cocoon   9.57[PCT BLANCO]
+25 20 Oh my lord Nytrik / cocoon   8.73
+19 19 paravolant Vatin   7.44
+13 13 Culte de Cargo Splif / Orion / Calodox   7.08
+1 1 who s your daddy? ak/mandarine   6.93
+9 9 Don t Be Afraid Hardfire / Spaceballs   6.86
+26 22 glamourous izam xos/epidemic   6.82
+3 3 The Cat Attack critikil/madwizards/scenic/farbrausch vs. flapjack   6.6
+12 12 redeath mikl   6.25
+8 8 Les 4 Super Biens Gregos   6.15
+14 14 Chinasian Girl murdock / Intense   5.95
+2 2 branlage de manche gelmir   5.68
+4 4 I-brigade Danube / Mutant Inc.   5.37
+18 18 i give you my heart truiss / kiki prod   5.35
+6 6 dragooune baby dlyr / mdr   5.13
+16 16 Reptilion Sheena / OSmium   4.75
+5 5 Multipass aXee   3.37
+11 11 Valley Of Fog Mejt / Confine   3.17
+7 7 Celine Lenudist / Vortex   3.07
+10 10 I feel love redribbon / mandarine   3.05
+21 21 The_BUG TCHERNO   2.6
+15 15 friendly robot ( title too long .... sorry ) neurox   1.91
+
+----------------------------------------------------------------------------[PC GRIS]
+game compo
+----------------------------------------------------------------------------
+107 2 TARGET melting pot pc  10.74[PCT BLANCO]
+108 3 POng-a-2 MhD & Melting pot flash  6.09
+106 1 laby felix / mtp pc  4.74
+
+----------------------------------------------------------------------------[PC GRIS]
+fast music compo
+----------------------------------------------------------------------------
+65 2 Blade Runner Torone   11.47[PCT BLANCO]
+64 1 Blade Runner HardMix Fo3iA/Epidemic   9.61
+
+----------------------------------------------------------------------------[PC GRIS]
+fast gfx
+----------------------------------------------------------------------------
+49 3 papi hector axee   11.86[PCT BLANCO]
+48 2 la fifille a son papa truiss / kiki prod   11.03
+47 1 tub adrien lol / mandarine   9.94
+
+----------------------------------------------------------------------------[PC GRIS]
+demo compo
+----------------------------------------------------------------------------
+128 17 RAW CONFESSIONS cocoon pc  11.97[PCT BLANCO]
+118 7 a deepness in the sky mfx pc  8.92
+122 11 O P I U M Move pc  7.08
+111 1 run away epidemic pc  6.78
+127 16 SUPERJAM SUPERHEROES Condense & Mandarine pc  6.17
+126 15 SeX D-Faktory pc  5.44
+115 4 We Are haujobb pc  5.38
+123 12 Planet Bot Deathless pc  5.11
+116 5 balloon ketchup killers pc  4.92
+113 3 1 minute before... FX Team pc  4.64
+120 9 flemmtrop melting pot amiga 1200  4.38
+119 8 Spleen Marshals pc  4.29
+125 14 Rude One Skiz0 / MooNSTER pc  4.29
+117 6 After Life Kiki Productions pc  4.26
+124 13 glenz toilet razor 1911 alambik  3.06
+
+----------------------------------------------------------------------------[PC GRIS]
+chiptune compo
+----------------------------------------------------------------------------
+56 2 Elekfoun Elmobo/Nooon   10.47[PCT BLANCO]
+60 5 Re3m kala/dOh & mdr   7.86
+58 3 Guimove med/myth   6.96
+63 6 sixtus dont sing flapjack/madwizards   6.66
+55 1 deU redribbon/mandarine   6.16
+59 4 Mluppy Lips Hardfire/Spaceballs   5.93
+62 7 lope XCEED vs. Lettique/Haujobb   4.08
+
+----------------------------------------------------------------------------[PC GRIS]
+wild compo
+----------------------------------------------------------------------------
+53 4 last poet cocoon   18.48[PCT BLANCO]
+52 3 timmy kornichon/ovulcreation   9.03
+51 2 symphony silentriot / arise   7.55
+50 1 leopards michael j power   5.89
+
+
+
+
+Opinion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+ 
+  Pues la verdad, que como no estuvimos all¡, no podemos opinar acerca del[IZQUIERDA]
+ambiente scener,pero a nivel de probar las demos y dem s cosas en casa, podemos
+decir que estaba todo muy bien. Lamentablemente,s¢lo hemos podido descargar 100
+MB de todo lo que hab¡a all¡, que en realidad era mucho m s.[NO]
+
+
+
+
+
+GFX[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Nos hemos quedado sin palabras. Todos los trabajos expuestos son verdaderas[IZQUIERDA]
+obras de arte. Hemos decidido poner una foto preview de lo que all¡ se expuso.[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GFX Fast[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Esta secci¢n no es tan buena como la anterior, ya que se ten¡an que hacer in[IZQUIERDA]
+situ. No obstante son bastante graciosos los trabajos entregados, tal y como se
+puede observar en la foto adjunta.[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GFX Oldschool[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n, se entregran GFX, pero con la salvedad, de que tienen que[IZQUIERDA]
+tener como m ximo 16 colores. Es todo un logro, ver estas maravillas. Aqu¡ se
+expone alg£n que otro trabajillo.[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SFX[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La secci¢n de SFX est  muy lograda en cuanto a tama¤o del archivo de sonido,[IZQUIERDA]
+sobre todo en los CHIPTUNES. Sin embargo, el £nico archivo que ha gustado de
+los CHIPTUNEs ha sido el Re3m, de Kala, del [NO]grupo d'Oh & mdr.[AMARILLO]
+
+
+  En cuanto al SFX Fast se ha optado por MP3, en concreto bastante ca¤eros,[BLANCO IZQUIERDA]
+donde una especie de remix de Blade Runner, ha logrado un gran ‚xito.[NO]
+
+
+  Y en cuanto a SFX oldshool, consta todo de MODS, donde la calidad de los[IZQUIERDA]
+instrumentos musicales no es muy elevada, pero la melod¡a si.[NO]
+
+
+
+
+
+
+Juegos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ha diferencia de otras party's, la secci¢n de Juegos, no es para jugar al[IZQUIERDA]
+Quake, sino para entregar juegos. La verdad que los hay muy graciosos, sobre
+todo los que ocupan poco tama¤o, como [NO]14 KB.[AMARILLO]
+
+
+  El remake del Pong es bastante gracioso, tambi‚n.[BLANCO]
+
+  Incluso hay un juego cliente-servidor de 10 MB.
+
+
+
+
+
+Intros de 4 K[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues las  Intros de 4 K ,  no  hemos  podido  bajar
+muchas, tan s¢lo dos, de las cuales, s¢lo una tira.
+  As¡  que  aqu¡  va  una foto de la intro South Park
+Outage (SPO), por:
+
+
+  Tetrisman (Future Scene Of Belgium)[AMARILLO PC]
+  Valdor (Bugfactory) & Gedeon (Bugfactory)
+
+
+  Es bastante graciosa,y en la foto,se puede apreciar[PCT BLANCO]
+de que podr  ir.
+
+
+
+
+
+
+Demos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+   De todas las demos que hemos bajado, tan s¢lo tira 1 bien, el resto, o tiene[IZQUIERDA]
+defectos visuales, o pide librer¡as que no tenemos, o directamente revienta el
+Kernel. Alguna que otra ya avisa de que no poseemos OpenGL potente y dem s.[NO]
+
+
+  Viva la GeFORCE FX scene y OpenGL scene (es el futuro) 8-D))))[PC AMARILLO]
+
+
+
+
+
+
+
+
+
+
+
+  Hay dos demos de AMIGA, de las cuales s¢lo tira una, porque la otra pide[PCT BLANCO IZQUIERDA
+librer¡as que tampoco tenemos en el emulador WINUAE.[NO]
+
+  As¡ que aqu¡ ponemos la foto de las demos, una de PC (WIN32) y la otra de[IZQUIERDA]
+AMIGA.[NO]

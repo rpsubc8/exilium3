@@ -1,0 +1,199 @@
+[FOTOS 0]
+Entrevista a Codepixel[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+Entevista del grupo Sliders para Diskmag Exilium                 20-5-2003
+
+
+1.- ¨Cu l es tu nombre, edad, alias, ciudad, a que grupo perteneces y a qu‚ te[PC GRIS IZQUIERDA]
+    dedicas?[NO]
+
+      Bueno, mi handle es derethor, organizador del grupo centolos O:)[PCT BLANCO IZQUIERDA]
+      Me llamo Javier Loureiro. Tengo ya 25 veranos, y desde hace tiempo mi
+    handle en la demoscene es derethor. Mi grupo de toda la vida es Centolos,
+    aunque hace tiempo que pertenezco al grupo Solstice, m s de una forma
+    presencial y como soporte moral en parties. Actualmente trabajo como
+    administrador linux, y en v¡as de formar mi propio negocio de hosting.[NO]
+
+
+2.- ¨Cu ndo empezaste en el mundo de la inform tica?[PC GRIS]
+
+      Puff, de eso hace ya muuucho tiempo. La verdad es que empec‚ ya antes de[PCT BLANCO IZQUIERDA]
+    tener unordenador en casa, en los tiempos del spectrum, la micromania. Mis
+    primeros programas fueron en amiga basic, aunque pase r pidamente al AMOS,
+    un basic m s avanzado y muy popular en aquellos tiempos.[NO]
+
+
+3.- ¨Y en el de la demoscene?[PC GRIS]
+
+      La demoscene vino despu‚s, metido en el mundo del commodore amiga, y[PCT BLANCO IZQUIERDA]
+    mucho antes de las tarjetas VGA. Empec‚ como swapper, que eran los que
+    enviaban cartas al extranjero con las £ltimas demos, y nos encarg bamos de
+    repartir todo lo que sal¡a y de votar a los sceners mas populares. Mientras
+    tanto aprend¡a ensamblador del 68040, e iba aprendiendo a programar los
+    chips gr ficos del amiga. En PC empec‚ relativamente hace poco, en el 96 o
+    as¡, con el watcom, y otros sceners de Lugo. Tambien hay que mencionar las
+    disputas en R34. DEMOS en fidonet, y las parties.[NO]
+
+
+4.- ¨Qu‚ prefieres m s, la oldskool o la newskool?[PC GRIS]
+
+      Siempre fui un ac‚rrimo defensor de la old skool, ya que creo que la[PCT BLANCO IZQUIERDA]
+    demoscene es un mundo donde hay que dar lo m ximo que uno tiene con los
+    m¡nimos recursos posibles. Y donde el esp¡ritu que creo este mundillo esta
+    mas presente, y mas alejado de las tecnolog¡as de la industria de los
+    videojuegos. Creo que es lo que marca la diferencia, y lo que da sentido a
+    la demoscene. Ojo, no defiendo la old skool en todos los entornos, ya que
+    para programar videojuegos, estoy a favor de usar las herramientas mas
+    avanzadas que nos permitan tener un producto pronto disponible. Pero la
+    demoscene es un hobby.[NO]
+
+
+5.- ¨Qu‚ S.O. te gusta m s para PC, LINUX, Windows, DOS, BeOS, QNX, etc...?[PC GRIS]
+
+      NetBSD. Personalmente uso debian linux (sin modos gr ficos ni nada[PCT BLANCO IZQUIERDA]
+    parecido), y windows XP.[NO]
+
+
+6.- ¨Crees que las SDL est n jugando un papel importante en la demoscene, o son[PC GRIS IZQUIERDA]
+    m s importantes las OPENGL?[NO]
+
+      Las SDL no creo que jueguen ning£n papel relevante en la demoscene. Todo[PCT BLANCO IZQUIERDA]
+    demoscener que se precie, se ha hecho un sistema de gesti¢n de OpenGL. Lo
+    que realmente creo que es relevante, son los shaders, ya que en mi opini¢n,
+    van a volver a traer la magia a los efectos, y donde se va a poder volver a
+    explotar la imaginaci¢n que ten¡amos perdida desde hace tiempo.[NO]
+
+
+7.- ¨Qu‚ opinas de la GeFORCE scene?[PC GRIS]
+
+      Que es una nueva oportunidad para darle vueltas al coco.[PCT BLANCO]
+
+
+8.- ¨Crees que el DOS est  muerto?[PC GRIS]
+
+      Si, aunque desgraciadamente.[PCT BLANCO]
+
+
+9.- ¨Cu l fue la primera demo que viste, y cual te gusta m s?[PC GRIS]
+
+      La primera demo que vi fue la VectorBalls, de Anarchy. Hace muuucho[PCT BLANCO IZQUIERDA]
+    tiempo. Entre las que mas me han gustado: en amiga la Desert
+    Dreams/Kefrens, real/Complex, Arte/Sanity, las de The Black Lotus, y la
+    para mi impresionante newworldchild/Mankind. En PC, pues la Saint/Haylcon,
+    todas la de Orange, la riprap/exceed, y las de chaos, como the produkt.[NO]
+
+
+10.- ¨El trabajo de las diskmags es necesario, o con hacer demos es suficiente?[PC GRIS]
+
+       Todo es necesario en la scene, pero las diskmags es algo muy importante,[PCT BLANCO IZQUIERDA]
+     ya que crean comunicaci¢n y dan que hablar :)[NO]
+
+
+11.- ¨Qu‚ te gusta m s, el AMIGA, ATARI, PSX o el PC?[PC GRIS]
+
+       El Amiga ha marcado una generaci¢n. y la PSX se sale ?[PCT BLANCO]
+       El PC esta ah¡, y con el xemacs rulando, no se nota la diferencia ;)
+
+
+12.- ¨Crees que las demos en JAVA son aut‚nticamente demos?[PC GRIS]
+
+       Todo puede ser una demo, si esta bien trabajada, y recrea el esp¡ritu[PCT BLANCO IZQUIERDA]
+     scener de verdad.[NO]
+
+
+13.- ¨Te gusta el trabajo que estan haciendo el grupo SLIDERS con la diskmag[PC GRIS IZQUIERDA]
+     EXILIUM, si no es as¡, que te gustar¡a que cambiasen?[NO]
+
+       No he tenido la oportunidad de leer la EXILIUM.[PCT BLANCO]
+
+
+14.- ¨La demoscene espa¤ola puede superar al resto de la europea?[PC GRIS]
+
+       Nunca podremos superar a los polacos o finlandeses.[PCT BLANCO]
+
+
+15.- ¨Qu‚ opinas de las LAN Party's?[PC GRIS]
+
+       Son cybers grandes. Estan bien para frikear un fin de semana.[PCT BLANCO]
+
+
+16.- ¨Para cuando tu pr¢xima producci¢n?[PC GRIS]
+
+       Ni idea :) hace tiempo que he dejado de estar en primera l¡nea en la[PCT BLANCO IZQUIERDA]
+     demoscene.[NO]
+
+
+17.- ¨En qu‚ party's has estado, y cu l te ha gustado m s?[PC GRIS]
+
+       La que mas me ha gustado fue la mekka symposium, aunque la mas rara ha[PCT BLANCO IZQUIERDA]
+     sido la satellite 99, en polonia. Tambi‚n me ha encantado las primeras
+     euskals, y personalmente, me lo he pasado genial en la taboadas.[NO]
+
+
+18.- ¨Cu l es la m quina m s rara que has programado?[PC GRIS]
+
+       Mi casio fx-9700 GE que me acompa¤a en las noches de programaci¢n.[PCT BLANCO]
+
+
+19.- ¨Para ti cu l es el ordenador ideal?[PC GRIS]
+
+       El que m s se parezca al commodore amiga.[PCT BLANCO]
+
+
+20. - ¨Crees que se puede hacer pornograf¡a con 2 colores?[PC GRIS]
+
+        No se hace ya a oscuras?[PCT BLANCO]
+
+
+21.- ¨Qu‚ te gusta m s en una demo, un MOD o XM, o un MP3?[PC GRIS]
+
+       Depende ?[PCT BLANCO]
+       Prefiero la gente que se curra mods, como RevisQ, pero si el XM esta[IZQUIERDA]
+     bien no se puede decir que no le de un ambiente genial a la demo. Otra
+     cosa son las intros de 64 kas que exportan megas de mp3.[NO]
+
+
+22.- ¨Cu l es tu juego preferido?[PC GRIS]
+
+       El starcraft, pero en consola el gran turismo 2 para psx.[PCT BLANCO]
+
+
+23.- ¨Y la peli que m s te haya molado?[PC GRIS]
+
+       La lista de schlinder[PCT BLANCO]
+
+
+24.- ¨Qu‚ dir¡as para aquellos que no saben lo que es la demoscene, y quieren[PC GRIS IZQUIERDA]
+     entrar en este maravilloso mundo? (Homer Simpson: con er¢tico resultado)
+     8-D))[NO]
+
+       Pues que la demoscene no solo son demos, si no una comunidad asombrosa,[PCT BLANCO IZQUIERDA]
+     formada por gente con una inteligencia fuera de lo normal y donde se puede
+     aprender de todo, y sobre todo, vivir un estilo de vida alternativo.[NO]
+
+
+25.- ¨Te mola Hotel Glamour? 8-D)))[PC GRIS]
+
+       Me molan las tetas de yola, lo demas es paja[PCT BLANCO]
+
+
+  Gracias por aguantarnos, y hasta la pr¢xima.[PC GRIS]
+
+  Gracias a vosotros por la entrevista, y aprovecho a todos para invitaros a[PCT BLANCO IZQUIERDA]
+visitar [BLANCO]www.codepixel.com[VERDEFOSFORITO], donde podeis conocer un poco mas a la comunidad de[BLANCO]
+sceners, leer noticias alternativas sobre el mundo de los graficos, y sobre
+todo, pasar un rato entretenido delante del ordenador.[NO]
+
+  Un saludo desde ASTURIAS (ESPA¥A).[PC GRIS]
+
+
+P.S. [PCT AMARILLO IZQUIERDA]La p gina wev de derethor es genial, as¡ que ha visitarla. Es genial ver[BLANCO]
+que derethor nos ha respondido en el mismo d¡a, no como otros. Debe ser porque
+debe tener T1, y los dem s tienen mierdaF¢nica ADSL, y adem s de la que
+salpica. [BLANCO NO]8-D))[AMARILLO]

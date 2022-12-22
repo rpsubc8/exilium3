@@ -1,0 +1,207 @@
+[FOTOS 5]
+FOTO_PC_DISKMAG1 PALETA_PC_DISKMAG1 40 33
+FOTO_PC_DISKMAG2 PALETA_PC_DISKMAG2 52 85
+FOTO_PC_DISKMAG3 PALETA_PC_DISKMAG3 52 119
+FOTO_PC_DISKMAG4 PALETA_PC_DISKMAG4 52 151
+FOTO_PC_DISKMAG5 PALETA_PC_DISKMAG5 40 179
+Diskmags en PC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues hemos llegado a la secci¢n m s interesante para los Pceros, es decir,las[IZQUIERDA]
+diskmags de un acuario, ¨o perd¢n 8-D))?, quise decir, las diskmags de PC.[NO]
+
+
+  Lamentablemente, no vamos a realizar un paseo por las diskmags cl sicas como[IZQUIERDA]
+las de AMIGA, porque no merece la pena, ¨o perd¢n 8-D)))?, quise decir, que lo
+dejamos para otro d¡a.[NO]
+
+
+  As¡ que vamos directos a la lista TOP-10 Manta, comenzando por:
+
+
+
+
+
+Hugi 24: the shift[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues su editor es Adok Hugi, y que se puede decir de esta gran obra de arte,[IZQUIERDA]
+salvo que yo mismo espero a que salga cada d¡a un n£mero nuevo. Personalmente,
+el n£mero que m s me gust¢ fue el 23, por la m£sica.[NO]
+
+  En este n£mero, tiene temas como:
+
+   - C¢digo de programaci¢n y matem ticas[PC AMARILLO]
+     - Fuentes con antialias
+     - Texture mapping
+     - Senos y cosenos
+     - L¡neas y c¡rculos
+     - 3D
+     - Intros de 512 Bytes para WIN32
+     - Foro de la Demoscene
+
+   - Foro Scener
+     - Siggraph 2001
+     - Assembly 2001 party
+     - M£sica y GFX
+     - El proyecto nybble-engine
+
+   - Mundo real
+     - Cr¢nicas africanas
+     - La memoria de la era at¢mica
+
+
+  Se encuentra totalmente realizada en ingl‚s, aunque es alemana. Por tanto[PCT BLANCO IZQUIERDA]
+ten‚is dos posibles descargas. La verdad que es una aut‚ntica joya. El £nico
+inconveniente, que salen muy pocos n£meros al a¤o, en concreto, 2. Esto se debe
+a la falta de tiempo por parte del autor, que se encuentra en estudios
+universitarios.[NO]
+
+
+  Si por alg£n motivo quitamos la opci¢n de Show this dialog at startup, es[IZQUIERDA]
+decir, mostrar el men£ de configuraci¢n al arranque, todabia tenemos la
+posibilidad de volver a mostrarlo, entrando en el editor de registro del
+Sistema:[NO]
+
+   regedit[PC AMARILLO]
+
+  Y a continuaci¢n, en:[PCT BLANCO]
+
+   HKEY_CURRENT_USER\Software\Chris Dragan\Panorama[PC AMARILLO]
+
+  Nos cargamos la entrada Panorama, y en el siguiente arranque, nos sale todo[IZQUIERDA PCT BLANCO]
+como al principio.[NO]
+
+
+
+
+
+Pain 1001[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues esta diskmag le hace la competencia a la Hugi. Sale totalmente en ingl‚s[IZQUIERDA]
+y cada menos tiempo. Actualmente, sale cada 3 meses. Antes lo hac¡a cada mes,
+pero el tiempo cada vez es menor.[NO]
+
+
+
+  Los temas que trata son:
+
+
+   - Rumores de la scene[PC AMARILLO]
+   - Demos
+   - Colecci¢n de intros para PSX de PARADOX
+   - Chipdisks
+   - Pel¡cula Final Fantasy
+   - Juegos
+   - Ascii art
+   - AMIGA
+
+
+
+
+
+
+Hugi 26: Techno Tarantula[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues la n£mero 25 no os la puedo comentar,porque NAVEGANTE tiene 4 CD's de la[IZQUIERDA]
+demoscene, que todav¡a no me ha devuelto. Habr  que darle un correctivo, para
+que empiece a enterarse. 8-D))[NO]
+
+
+  Pues el n£mero 26, ha cambiado un poco su interface, con alg£n que otro[IZQUIERDA]
+a¤adido, como los m¢dulos de sonido comprimidos y dem s.[NO]
+
+
+  Los temas que trata son:
+
+   - Codificaci¢n y matem ticas[PC AMARILLO]
+     o Hacer una intro de 64 KB
+     o OpenGL con ensamblador en 4 KB
+     o Generar mundos 3D
+     o PHP
+
+   - Foro de la demoscene
+     o Reportajes de party's
+     o Diskmags
+
+   - M£sica y GFX
+     o C64 remixing
+
+   - Mundo real
+
+   - Literatura
+
+
+  En definitiva, otro gran n£mero que ha salido a la luz.[PCT BLANCO]
+
+
+
+
+
+Pain 0203[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues esta vez han cambiado de interface, pero eso s¡, sigue siendo todo[IZQUIERDA]
+controlable a golpe de teclado, que hoy por hoy es lo m s £til.[NO]
+
+  Los temas que trata son:
+
+
+   - Rumores de la scene[PC AMARILLO]
+   - Demospotting
+
+   - Ascii art
+   - Musicdisks
+
+   - The ultimate Meeting 02 party
+   - BCN'02 party
+
+   - Commodore One
+   - Entrevistas
+   - Programaci¢n en C#
+
+
+  Como pod‚is ver, esta diskmag, al igual que los n£meros anteriores, le da una[IZQUIERDA PCT BLANCO]
+gran importancia a los sceners. Quiz s lo que m s se hecha de menos, es que
+pongan m s art¡culos de programaci¢n.[NO]
+
+
+
+
+
+ASCII[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues a  lo  largo de los tiempos , he
+visto incluso  diskmags  en OpenGL (que
+barbaridad de inexperiencia).
+  Sin embargo, que mejor, que hablar de
+diskmags   en   ASCII    ART  ,   cuyos
+requerimientos   son  menores ,  y   su
+velocidad es elevada, adem s de ser muy
+graciosas y entretenidas.
+
+
+  Este es el caso de la Fubar 03 y la Retro 001. La primera usa la norma ANSI[IZQUIERDA]
+, adem s del ASCII art, por lo que necesitaremos tener activo el controlador
+ANSI.[NO]
+
+
+  En la foto adjunta se puede ver las dos diskmags juntas. Es toda una obra de[IZQUIERDA]
+arte. Entre foto y foto en modo texto, ponen art¡culos y ambiente scener.[NO]
+
+
+  Las dos son un verdadero ejemplo de que el ASCII ART no est  muerto, y de las[IZQUIERDA]
+grandes cosas que se pueden hacer todav¡a. Adem s, siguen dejando patente de la
+utilidad del querido y entra¤able S.O. DOS.[NO]
