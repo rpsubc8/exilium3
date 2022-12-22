@@ -1,0 +1,52 @@
+[FOTOS 0]
+UPX para BeOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+
+  Los que ya lo hayan usado, no hace falta presentaci¢n, pero para aquellos que[IZQUIERDA]
+no, he de decir, que el UPX es una herramienta que permite comprimir y expandir
+archivos ejecutables, sin falta de herramientas auxiliares, como el [NO].ZIP.[VERDEFOSFORITO]
+
+
+
+  Muchos os acordar‚is de la versi¢n para DOS, en concreto de una versi¢n de 16[IZQUIERDA BLANCO]
+bits. En aquel entonces tiraba en un 8086, y le ganaba con creces el [NO]PKLITE.[AMARILLO]
+Pero hace tiempo, que el software se hizo grande, y los 32 bits se metieron[IZQUIERDA BLANCO]
+antes de que se pudiesen asimilar, lo que ha hecho que el PKLITE32 haya quedado
+desbancado por esta peque¤a, pero efectiva utilidad.[NO]
+
+
+  No s¢lo permite comprimir .EXE's y .COM's, sino que su versi¢n para WIN32,[IZQUIERDA]
+comprime .DLL's. Pero el UPX se ha portado para LINUX, permitiendo comprimir los
+elf's, es decir, los binarios ejecutables en LINUX, sin que se conviertan en
+binarios inestables por su [NO]peque¤o tama¤o.[AZULCLARO]
+
+
+  Cualquier demo, intro o incluso virus que se precie, est  comprimido con UPX,[IZQUIERDA BLANCO]
+ya que sino, el tama¤o de los ejecutables se disparar¡a, y perder¡an su
+verdadera finalidad, que es ocupar poco.[NO]
+
+
+  Y hablando de poco, ya ha salido la versi¢n para BeOS, de tal forma que[IZQUIERDA]
+podemos comprimir los ejecutables generados para [NO]BeOS.[AMARILLO]
+
+
+  Para ello, s¢lo debemos de ejecutar la siguiente opci¢n:[BLANCO]
+
+
+      upx -9 archivo[PC GRIS]
+
+
+  desde el terminal de BeOS. El nombre del archivo es el del archivo a[PCT BLANCO IZQUIERDA]
+comprimir. Y la opci¢n[NO] -9[AMARILLO] es para la m xima compresi¢n.[BLANCO]
+
+
+  Hasta aqu¡ el UPX. As¡ que a generar binarios para BeOS, y ha comprimirlos.[IZQUIERDA]
+Porque ya que no sab‚is como generar binarios menos FATWARE, podr‚is taparlo un
+poco de esta forma.[NO]

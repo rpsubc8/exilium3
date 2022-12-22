@@ -1,0 +1,85 @@
+[FOTOS 1]
+FOTO_BEOS_DUKE3D PALETA_BEOS_DUKE3D 60 2
+Duke Nuken 3D[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues nada m s que me enter‚ de que la versi¢n  del  DUKE
+NUKEN 3D hab¡a  sido portada para BeOS , me  fui directo a
+descargarla y probarla. Aviso,de que es la[BLANCO] versi¢n de 1996[AMARILLO],[BLANCO]
+para que no os llev‚is un enga¤o , con la versi¢n nueva en
+OpenGL. No obstante, yo ya me lo imaginaba.
+
+
+
+  Personalmente, prefiero un motor 3D por software que vaya fluido, como en[IZQUIERDA]
+la ‚poca de 1996, que uno con OpenGL que va a tirones, incluso con la £ltima
+aceleradora y CPU.[NO] 8-D))[VERDEFOSFORITO]
+
+
+
+  Pues para ir aclarando las cosas, primero ten‚is que bajaros el ZIP de:[BLANCO]
+
+
+                http://www.bebits.com[VERDEFOSFORITO CHAR14B]
+
+
+  En mi caso, me lo baj‚ entero, pero por falta de disquetes, tuve que[PCT IZQUIERDA BLANCO]
+descomprimirlo, e ir quitando el c¢digo fuente que no iba a usar, es decir,dej‚
+s¢lo los binarios, para luego comprimirlo de nuevo, pero ocupando menos. Y vaya
+si mereci¢ la pena, porque a la hora, ya estaba jugando en casita al DUKE
+3D.[NO] 8- D))[AZULCLARO]
+
+
+
+
+
+
+
+Instalacion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Se necesita el CD del Duke Nukem 3D (Shareware o versi¢n completa). Por[IZQUIERDA]
+supuesto, vale la versi¢n pirateada. Tan s¢lo lo necesitamos para los datos, al
+estilo del [NO]Quake I [AMARILLO]y el [BLANCO]Quake II [AMARILLO]de BeOS.[BLANCO]
+
+
+  Necesitaremos el archivo duke3d.cfg, que en el ZIP no viene. Por lo que desde[IZQUIERDA]
+el DOS o Windows, debemos de ejecutar el SETUP.EXE para que nos lo genere. Creo
+recordar, que el DUKE 3D, usaba modo protegido con extensor, pero ped¡a un DOS
+en modo real, as¡ que en WINDOWS no tiraba. Pero el SETUP.EXE creo que s¡ tira.
+Seg£n dicen, desde el emulador DOSBOX no hay problema. Si no, a tirar de puro
+DOS [NO AMARILLO](si, eso que Microsoft intenta eliminar 8-D))).[BLANCO]
+
+
+  Dentro del SETUP, se elegir  alguna tarjeta. Yo he probado con varias, pero[IZQUIERDA]
+no tira. Lo mejor es dejar esta opci¢n sin tarjeta de Sonido, es decir, en OFF.
+Despu‚s debemos de copiar los datos binarios en donde est  el programa duke3d
+para BeOS, o viceversa, es decir, copiar las librer¡as y el programa de BeOS en
+donde est n los datos del Duke3D. Cuando me refiero a datos, me refiero a la
+versi¢n original del DUKE 3D que tira en[NO] DOS[AMARILLO].[BLANCO]
+
+  Y si todo va bien, debemos ejecutar:
+
+
+                  ./duke3d[CHAR14B VERDEFOSFORITO]
+
+
+  desde el terminal de BeOS, y todo funcionar . Se puede ver, que usa las SDL,[IZQUIERDA PCT BLANCO]
+as¡ que si no las ten‚is instaladas, hay que copiarlas en:[NO]
+
+
+
+    /boot/home/config/libs[PC VERDEFOSFORITO]
+
+
+  En el acto, saldr  una ventana o pantalla completa con el DUKE 3D de 1996[IZQUIERDA PCT BLANCO]
+(que recuerdos), que era la ‚poca cuando los juegos se hac¡an bien, al menos
+para PC, sin falta de aceleradora. En aquella ‚poca, un a¤ito m s tarde, estaba
+el MDK, que no hace falta decir, que era perfecto. El MDK 2 con OpenGL no es
+que sea una basura por usar OpenGL, es que es peor que el MDK, sencillamente,
+eso, es peor, tanto si usa OpenGL, como sino.[NO]

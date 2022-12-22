@@ -1,0 +1,63 @@
+[FOTOS 1]
+FOTO_BEOS_TECHNOID PALETA_BEOS_TECHNOID 60 4
+Revista Technoids[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+  Technoids, es el nombre de una revista digital en formato
+PDF , que trata sobre BeOS ,  y  se encuentra disponible en
+alem n e ingl‚s.[AMARILLO]
+
+
+  Se trata pues  de otro  aliento  de  aire  fresco para el[BLANCO]
+futuro  de  BeOS ,  para  demostrar  que  este  S.O.  sigue
+atrapando a m s gente , sobre todo a programadores,y que la
+elecci¢n no es  s¢lo para [BLANCO]WINDOWS , LINUX y MAC[AZULCLARO] , sino  que[BLANCO]
+podemos elegir m s , y cuantas m s elecciones tengamos, m s
+libertad tendremos, y qui‚n sabe,quiz s el mundo sea mejor.
+
+
+
+  Pero a lo que iba. Esta revista, una vez descargada (2 MB), podemos leerla[IZQUIERDA]
+c¢modamente en nuestro ordenador, ya sea bajo PC con WIN32 o BeOS, o desde un
+MAC o similar. Para ello, necesitamos un lector de PDF's, que en WIN32 es el
+Acrobat Reader o el Microsoft Reader. Bajo BeOS, sirve el BePDF. Yo recomiendo
+imprimir la revista, ya que por muy r pido que sea nuestro ordenador, los PDF's
+no van muy fluidos, sobre todo cuando hay im genes por medio. De ah¡ que
+nosotros abandon ramos la idea de hacer nuestra revista en[NO] PDF.[AMARILLO]
+
+
+
+  El contenido de este n£mero es el siguiente:[BLANCO]
+
+
+   - Entrevista con Simon Gauvin sobre portar las OpenOffice a BeOS[PC GRIS]
+   - BeOS, nuevo y viejo sistema (un repado a su origen y futuro)
+   - Final y resurrecci¢n
+   - Programa de dibujo Yellowbites, trabajo con Wonderbrush y eXposer
+   - Test del juego AlephOne
+   - Test del Space Monitor (controlar recursos).
+   - Programando en C++ bajo el BeIDE de BeOS
+   - Como hacer startscript
+   - Editar el UserBootStript
+   - Usar BeOS sin instalar
+
+
+  En definitiva, que se trata de una gran pero peque¤a revista, libre de[PCT BLANCO IZQUIERDA]
+imprenta, ya que se edita en formato digital.[NO]
+
+  Quiz s lo que m s se puede destacar, es que est  pensada para usuarios, y no[IZQUIERDA]
+para programadores, y hay que recordar, que aunque una comunidad est  formada
+por usuarios, sin programadores, BeOS estar  condenado al olvido, como le
+sucedi¢ a otros ordenadores en otra ‚poca gloriosa [BLANCO](AMIGA)[VERDEFOSFORITO]. Los programadores[BLANCO]
+son los creadores de autom¢viles en el software, y los usuarios son los
+conductores. Si quitamos a conductores, se acab¢ el negocio, pero sin
+creadores, no hay nada de nada.[NO]
+
+
+  Pensad en ello, y leed esta revista.

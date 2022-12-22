@@ -1,0 +1,278 @@
+[FOTOS 0]
+BeOS Max Edition[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues hace tiempo, consegu¡ despu‚s de varios intentos, descargarme la BeOS[IZQUIERDA]
+MAX Edition completa. Para aquellos que no sepan que es, pues decir que se
+trata de un distro de BeOS, al estilo de las de LINUX, pero mucho m s
+organizada.[NO]
+
+
+
+  Esta distro, no permite instalar BeOS en una imagen de disco, como suced¡a[IZQUIERDA]
+con la BeOS PE 5.0. Tendremos pues, que instalarlo en una partici¢n nativa de
+BeOS. Esta partici¢n nos la pedir  nada m s arrancar, y nos borrar  todo lo que
+tengamos en ella. Por tanto, recomiendo que con el Partition Magic de WIN32, o
+el cfdisk de LINUX, prepar‚is las particiones previamente, y dej‚is una libre
+con al menos[NO] 500 MB[AMARILLO] en FAT16. Con 1 GB ten‚is de sobra, hasta para los juegos.[BLANCO]
+Os recuerdo que BeOS es un S.O. FATWARE, pero en comparaci¢n con el basurero de[IZQUIERDA]
+LINUX y WINDOWS[AZULCLARO NO], es una simple bolsa de basura. 8-D)))[BLANCO]
+
+
+
+  Despu‚s de haber creado la partici¢n y haberle dado un nombre, por ejemplo[IZQUIERDA]
+BeOS, en el men£ de arranque de la BeOS MAX Edition le dais a esa partici¢n,
+que deber  tener el nombre de BeOS y un espacio de 1 GB. Si no es as¡, algo
+habr  mal, y no se tratar  de esa partici¢n, as¡ que habr  que repetir los
+pasos anteriores.[NO]
+
+
+
+  La distro MAX EDITION de INTERNET, hay que bajarlo previamente como es obvio[IZQUIERDA]
+para instalarlo, as¡ como que hay que fre¡rlo en un CDROM, y activar la opci¢n
+de arranque de CDROM en la BIOS. Sino pod‚is va a ser muy dif¡cil la
+instalaci¢n, ya que tendr‚is que hacerlo desde otro ordenador y llevar el disco
+duro de nuevo a vuestro equipo una vez instalado.[NO]
+
+
+
+  Al cabo de unos segundos, la partici¢n estar  formateada y no ser  visible[IZQUIERDA]
+por WIN32, pero si por herramientas como el[NO] PARTITION MAGIC[AZULCLARO] y otros BeOS.[BLANCO]
+  Despu‚s nos saldr  un men£ en donde debemos elegir los paquetes a instalar,[IZQUIERDA]
+que tal y como viene por defecto, est  todo bien. Nos deja elegir entre el
+KERNEL para solucionar problemas en AMD y Pentium. As¡ que si ten‚is ese
+problema, no estar¡a mal que eligieseis esa opci¢n.[NO]
+
+
+
+  Y al cabo de unos minutillos, se habr  copiado todo al disco duro. Pero luego[IZQUIERDA]
+es cuando pasa a instalar, en donde pasar n al menos 10 o 15 minutillos, as¡
+que esperad a que acabe.[NO]
+
+
+  M s tarde nos pide si queremos instalar el BootManager, para poder tener un[IZQUIERDA]
+cargador como el LILO. Os recomiendo que no lo pong is, si ya ten‚is otro
+cargador. No es que falle como le pasa a las chapuzas de LINUX, como el LILO, o
+a las de WINDOWS, sino que si ten‚is varios S.O.'s instalados, si se os
+estropea uno, y ten‚is que volver a meterlo, se empieza a liar el asunto, y
+ten‚is que volver a meterlo. El cargador LOADBEOS.EXE bajo DOS del BeOS 5.0, o
+el que viene en cualquier CD-ROM de BeOS Torito, permite arrancar la partici¢n
+de BeOS sin problema. Por supuesto, una vez instalado este cargador, se hace
+una copia del [NO]MBR[AMARILLO] anterior.[BLANCO]
+
+
+
+  Yo tengo el cargador de Windows XP, Windows 98 SE, FreeDOS, el cargador LILO[IZQUIERDA]
+de LINUX y el cargador de BeOS en el mismo disco duro, y nunca me ha dado
+problemas. He hecho otras combinaciones, como usar el GRUB, y tener el Windows
+ME, DRDOS, etc..., y todo ha ido bien. Pero claro, luego se llena todo de
+basura, y al final pasa lo que pasa, que puede salpicar. As¡ que si no est is
+muy seguros, ir a la opci¢n m s f cil.[NO]
+
+
+
+  La [BLANCO]distro MAX Edition[AMARILLO] (249 MB en ZIP), contiene lo siguiente:[BLANCO]
+
+
+   System[PC AMARILLO]
+
+    - Installation Boot-CD[GRIS]
+    - Standard Installation-Resolution is now 1024x768 Pixel (changed in MAX
+      Edition) 
+    - Include BeOS Update 5.0.3 and FTP security Patch
+    - Include BeOS Developer Tools and BeIDE
+    - Include the OpenTracker 5.1.5
+    - Include LocaleTracker 1.3.1 (added in MAX Edition V2)
+    - Include the ProcessController 3.1
+    - Include Pulse Replacement for AMD Processors
+    - Include APM-Driver to use power management functions in a notebook PC or
+      an ATX PC 
+    - Include Athlon XP Patch with SSE Enabled (added in MAX Edition)
+    - Enabled HLT command for software cooling. Brings CPU Temperature down.
+      (added in MAX Edition V2.1)
+    - New Uninstall Application in Prefernces
+    - We make a Menu-Link in Applications for the Package Builder
+    - Add a Printer for Write PDF Documents
+    - Add 2 new Open GL Demos to the Demo Menu
+    - Create "/boot/home/download" directory for all downloads
+    - Create "/boot/home/media" directory for all media data (e.g. avi, jpg,
+      mpeg, etc.) 
+    - Create "/boot/home/config/settings/uninstall" directory for the uninstall
+      Information 
+    - Create "/boot/home/config/be/Startup" as a autostart directory
+    - Create "/boot/develop/experimental" directory for experimental
+      application
+    - Create "/boot/develop/src" directory for source code
+    - Create "/boot/home/Desktop/Work" directory as a work folder (temp) (added
+      in MAX Edition)
+    - Create "/boot/home/Desktop/Other Drivers" Directory which includes
+      experimental drivers (added in MAX Edition)
+    - Create "/boot/home/logs" Directory for log files of installations. (added
+      in MAX Edition V2.1)
+    - Added some BeOS Links to Netpositive
+    - Added MP3 Tags&Attributes incl. Tracker Add-On
+    - Added Summon Tracker Add-on (added in MAX Edition)
+    - Added ImageMounter Tracker Add-on (updated in MAX Edition V2.1)
+    - Added Tracker Grep Tracker Add-on (added in MAX Edition)
+    - Added MenuKey Input Server Add-on (added in MAX Edition V2)
+    - Added Sensor2 kernel driver (added in MAX Edition V2.1)
+
+
+
+   New Drivers[AMARILLO]
+
+    - Graphics Driver for NVidia[GRIS]
+      RIVA 128, RIVA 128ZX, RIVA TNT, RIVA TNT2, RIVA TNT2 Ultra,
+      RIVA TNT2 Vanta, RIVA TNT2 M64, RIVA TNT2 Aladdin, GeForce 256,
+      GeForce 256 DDR, GeForce2 MX, GeForce2 GTS, GeForce2 Ultra,
+      Quadro, Quadro2 MXR, Quadro2 Pro, GeForce3)
+    - Graphics Driver for S3
+      S3 Savage3D, Savage3D-MV, Savage/MX, Savage/MX-MV, Savage4
+      VIA ProSavage PM133, PL133, PN133, KM133, KL133, KN133, KM266
+    - Graphics Driver for S3 Trio64 (V+ and V2/[GX,DX])
+    - Graphics Driver for Matrox G100, G200, G400, G450, G550 (updated in Max
+      Edition V2.1)
+    - Graphics Driver for ATI Mobility 1.0b6 (updated in Max Edition V2.1)
+    - Graphics Driver for ATI Rage128 Pro GL (updated in Max Edition V2.1)
+    - Graphics Driver for ATI Radeon (updated in Max Edition V2.1)
+    - Graphics Driver for Intel i810,i815 (added in MAX Edition) (Other Drivers
+      directory on Desktop)
+    - Network Driver for SIS900 (added in MAX Edition V2.1)
+    - IDE Driver Promise Ultra 100TX2 (added in MAX Edition V2.1)
+    - Modem Drivers Package  (added in MAX Edition)
+    - PC Card Wizard 1.12 for PCMCIA Network Cards (added in MAX Edition)
+      (Other Drivers directory on Desktop)
+    - CDBurn Driver iso9660 with multi-session support
+    - Translator: Giftranslator 1.3
+    - Translator: Giftranslator Original (added in MAX Edition V2)
+    - Translator: PSDTranslator with source (in /boot/develop/src)
+    - Translator: ICOTranslator (Windows Icons Translator)
+    - Translator: GFLTranslator
+    - Translator: MNGTranslator
+    - Hybrid DivX 1.3.0.4 (updated in MAX Edition V2.1)
+    - PPPoE DSL driver (added in MAX Edition) (Other Drivers directory on
+      Desktop)
+    - Vesa Accepted 1.1 (added in MAX Edition V2) (Other Drivers directory on
+      Desktop)
+    - Audio Driver for ICH AC97 (added in MAX Edition V2.1)
+    - Audio Driver for CM8338/8738 (added in MAX Edition V2.1)
+    - Audio Driver for Sound Blaster 16 (added in MAX Edition V2.1)
+    - Patch for eepro 100 Network card.
+
+
+
+   Development[AMARILLO]
+
+    - orginal gnutools (added in MAX Edition V2)[GRIS]
+    - gnutools (binutils-2.10.1 / gcc-2.95.3)
+    - Perl 5.0.0.5.3
+    - autoconf-2.53 (Updated in MAX Edition V2)
+    - automake-1.62 (Updated in MAX Edition V2)
+    - libtool-1.4.1  (Updated in MAX Edition V2)
+    - Jam 2.4 (a Make replacement, needed for openbeos) (Updated in MAX Edition
+      V2)
+    - the CVS 1.11+1 System
+    - the BeIDE
+    - the PackageBuilder for pkg Packages
+    - all Important Libs
+      (libbepdf.so, libglib-1.3.so.1, libbzip2.so, libsanta.so,
+       libimagemanip.so, liblayout.so, libfreetype.so, libxpdf.so,
+       libcid2utf8.so, splocale.so)
+    - OpenGL Glut Lib with source (in /boot/develop/src)
+    - BeXL 2.0b3 Demo (added in MAX Edition) (updated in MAX Edition V2)
+    - Visual Be++ 1.3 Demo (added in MAX Edition)
+    - QuickStrip v1.2 Demo (added in MAX Edition)
+    - SDL Main Library 1.2.3 (added in MAX Edition V2)
+    - SDL Game Libraries 1.2.2 (added in MAX Edition V2)
+    - BeKaffe DR2 (added in MAX Edition V2.1)
+    - Resourcer (added in MAX Edition V2.1)
+
+
+
+   Tools[AMARILLO]
+
+    - Mozilla v1.1.1 (updated in MAX Edition V2.1)[GRIS]
+    - AbiWord 1.0  (updated in MAX Edition V2)
+    - Gobe Productive 2.0 Trial (added in MAX Edition V2)
+    - PGP50i
+    - PDF Writer 1.5.b2 (updated in MAX Edition V2)
+    - PDF Reader 0.9.4b  (updated in MAX Edition V2)
+    - Macromedia Flash for BeOS (added in Max Edition V2.1)
+    - SSH Client1.2.26
+    - BeShare 2.16 to share your application with all beos users (updated in
+      MAX Edition V2.1)
+    - BFS-Tools-0.7.0 (bfsindex, chkindex, recover)
+    - CDR-Tools-1.8 and CDrecord (mkhybrid, mkisofs, cdrecord, readcd, isodump,
+      isovfy, isoinfo, dump)
+    - Helios CD-Writer Tool with Drag and Drop Support
+    - NetPenguin FTP Client 1.64
+    - wget 1.8.2  (updated in MAX Edition V2)
+    - w3m Shell Internet Browser
+    - Lha 1.14i (updated in MAX Edition V2)
+    - Added Cron and Crontab
+    - bzip2  (updated in MAX Edition V2)
+    - man 1.5g
+    - BeThemes Beta (added in MAX Edition)
+    - MemoChip (added in MAX Edition)
+    - International Keymap 1.11 (added in MAX Edition)
+    - Switcher 1.0.4 (added in MAX Edition)
+    - Clean-Up Manager (added in MAX Edition V2.1)
+    - Calculator (added in MAX Edition V2.1)
+    - EuroConverter (added in MAX Edition V2.1)
+    - Vision 0.9.5 IRC Client (added in MAX Edition V2.1)
+    - SimpleBackup 1.20 (added in MAX Edition V2.1)
+
+
+
+   Graphics (section added in MAX Edition)[AMARILLO]
+
+    - Blender 2.11 Demo (added in MAX Edition)[GRIS]
+    - Moho 2.0 (added in MAX Edition)
+    - BePhotoMagic 0.62 Beta (updated in MAX Edition V2)
+    - Personal Studio 1.5 (added in MAX Edition)
+    - Batterfly Image Viewer (added in MAX Edition)
+    - Desktop Studio (DarkRoom,DeskCamera) (added in MAX Edition)
+    - Beatware e-Picture 1.0 (added in MAX Edition V2.1)
+
+
+
+   Media[AMARILLO]
+
+    - Screensaver: Nebular (cool Bump Effect, test it)[GRIS]
+    - Screensaver: Matrix
+    - Screensaver: OpenBeOS 2.0
+    - StampTV 3.0 (added in MAX Edition)
+    - CL-Amp Winamp clone (added in MAX Edition)
+    - VLC 0.4.4c (updated in MAX Edition V2)
+    - VolumeControl 0.99 (added in MAX Edition V2.1)
+
+
+
+   Games (section added in MAX Edition)[AMARILLO]
+
+    - 4 Wins (added in MAX Edition)[GRIS]
+    - Abuse 2.0 Demo (added in MAX Edition)
+    - BePacDeluxe (added in MAX Edition)
+    - Diamond Girls (added in MAX Edition)
+    - Mahjongg 1.6 (added in MAX Edition)
+    - Morphy (added in MAX Edition)
+    - Doom (added in MAX Edition)
+    - Heretic (added in MAX Edition)
+    - SimuTrans 0.8.1 (added in MAX Edition V2)
+    - FreeCraft (added in Max Edition V2.1)
+    - Snake Deluxe (added in Max Edition V2.1)
+    - Invaders SDL (added in Max Edition V2.1)
+
+
+  As¡ que aprovechad y ha probar esta versi¢n de BeOS.[PCT BLANCO]
+
+
+  Por cierto, si el CD-ROM no arranca, deber‚is dar a la barra espaciadora, y[IZQUIERDA]
+desactivar alguna opci¢n como el DMA, o cambiar la resoluci¢n de video. Esto
+tendr‚is que hacerlo siempre que arranqu‚is, a no ser que os baj‚is los drivers
+para vuestra tarjeta de video, o bien baj‚is la utilidad BeVESA.[NO]

@@ -1,0 +1,53 @@
+[FOTOS 0]
+X BeOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+   Su nombre real es LIVE CD, y se trata de un BeOS 5.0 PE con a¤adidos, pero[IZQUIERDA]
+Que arranca desde CDROM, como se coment¢ en el otro art¡culo.[NO]
+
+
+  Ventajas -->[PC AMARILLO] No necesita disco duro (barato), ni particiones (menos[GRIS]
+               problemas)
+
+  Inconvenientes -->[AMARILLO] Puede llegar a ser lento, y no deja cambiar muchas cosas.[GRIS]
+
+
+  Por tanto, es la opci¢n ideal para ense¤ar BeOS a gente que le pueda[PCT BLANCO IZQUIERDA]
+interesar, o aquellos que defienden m s Windows o LINUX, para que vean porque
+hay gente que prefiere [NO]BeOS.[AZULCLARO]
+
+
+
+  Esta distro, arranca tambi‚n muy r pido, dependiendo de la velocidad de la[IZQUIERDA BLANCO]
+lectora, en unos 20 o  30 segundos. Y contiene juegos, como el BePAC Deluxe,as¡
+como las herramientas t¡picas del [NO]BeOS 5 PE[AMARILLO], y alg£n que otro driver.[BLANCO]
+
+
+  El £nico inconveniente que le he encontrado, de forma muy significativa,es el[IZQUIERDA]
+modo de video, que se ha puesto uno, que no es el t¡pico de 640 x 480, sino 800
+x 600, con un frecuencia determinada. El primer modo de video a 60 Hz es t¡pico
+hasta en monitores de hace 10 a¤os, por ser la resoluci¢n de la VGA. Pero el
+segundo no, lo que hace que incluso en monitores modernos, no arranque bien. Es
+lo mismo que le pasa a la distro [BLANCO]KNOPPIX de LINUX[AMARILLO], pero al menos BeOS puede[BLANCO]
+solucionarlo de forma mejor, ya que pulsando la barra espaciadora en el
+arranque, podremos elegir el modo de video para arrancar.[NO]
+
+
+  Por cierto, intentad extender BeOS entre la gente, para que vea el poder[IZQUIERDA]
+de este S.O., pero tened cuidado, que no os pase como a mi, con  unos freakys
+de Gijon, que ni me dieron las gracias, y es el d¡a de hoy, que no me han
+dicho si funciona, y eso que les regal‚ el CD. Pero que se va a esperar de
+unos lamers que protestan contra Microsoft, y al final usan PC's con RED HAT
+(no es GNU), y MAC's con [NO]MAC OS X:[AZULCLARO]
+
+
+  "Si Bill Gates es el rey del monopolio Microsoft, Apple es el infierno del[IZQUIERDA PC AMARILLO]
+monopolio, donde Steve Jobs es el demonio".[NO]
+
+
+  Y hasta aqu¡ esta distro.[PCT BLANCO]
