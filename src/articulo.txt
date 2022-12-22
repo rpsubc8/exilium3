@@ -1,0 +1,296 @@
+[ARTICULOS 59]
+TEXTO_REVISTA_MANEJO Manejo de la Revista
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REVISTA_EDITOR Acerca del Editor
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REVISTA_FORO Foro Exilium
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REVISTA_MINIDISKMAG Minidiskmag Exilium
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REVISTA_OPINION Opinion de Exilium 2
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REVISTA_PACK Packs de Exilium
+Diskmag Exilium
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_BANDA Banda Ancha
+Mundo Actual
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_DUKE3D Duke Nuken 3D en BeOS
+S.O. BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_MAX BeOS MAX Edition
+S.O. BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_TECHNOID Diskmag Technoids
+S.O. BeOS
+Grupo Sliders
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_UPX UPX bajo BeOS
+S.O. BeOS
+Grupo Sliders
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_XBEOS Distro XBeOS
+S.O. BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_ZETA S.O. ZETA
+S.O. BeOS
+Grupo Sliders
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_OXYGEN Diskmag CPC Oxygen
+CPC (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_EUROCONECTOR Euroconector CPC 464+
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_TECLADO Arreglar teclado CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_TOOL Tools para CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_DISKMAG Diskmags C64
+C64 (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_MSX Futuro del MSX (MMSX)
+MSX (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_MSX_BMP Fotos en el MSX
+MSX (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_MSX_HB55P MSX HB55P
+MSX (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_AMIGA_DISKMAG Diskmags en AMIGA
+AMIGA (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CDROM S.O. boot CDROM
+PC (S.O.)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_NUEVOSOS Nuevos Sistemas
+Mundo OS
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_DOS_DRDOS S.O. DRDOS
+DOS (PC)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_USBDOS USB en DOS
+DOS (PC)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_VECTOR Distro Vector
+DOS (PC)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_C Programar en C
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_CMINUS OpenGL con C--
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_POVRAY Programar en POVRAY
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_DBASIC DarkBASIC PRO
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_MOONROCK Programar en Moonrock
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_CREATOR Programar en DX-CREATOR
+Programacion
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_PC_GRAFICA Programar video
+PC (programacion)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_PC_DISKMAG Diskmags en PC
+PC (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CONSOLAS_GB_DEMOS Demos en GB
+GB (scene)
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_CONSOLAS_GBA_BASIC BASIC para GBA
+GBA (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CONSOLAS_GBA_DEMOS Demos en GBA
+GBA (scene)
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_CONSOLAS_PSX_MANDO PAD PSX en PC
+PSX (scene)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_PC_CODEPIXEL Entrevista a Codepixel
+PC (scene)
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REUNION_JORNADAS Jornadas GNU (Asturias)
+GNU
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REUNION_CONGRESO Congreso TIC (Asturias)
+Nuevas tecnologias
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_REUNION_PARTIDOS Politica e informatica
+Politica
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_PARTY_SOTA SOTA 02 Party
+Mundo Scene
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_RADIO_ALAN42 AX.25 en ALAN 42
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_ENTREVISTA Entrevista a Juan
+Mundo Radio
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_RADIO_PMR AX.25 en PMR
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_ANTENA Antena inducida PMR
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_OPCIONES Extras en PMR
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_PMRVSCB PMR vs CB
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_PRESIDENT AX.25 en President Lincoln
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_JJNET JJ NET
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_RADIO_FUENTE Fuente PC en Radio
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_PTTSOUND PTTSOUND v1
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_ALFAOMEGA Grupo DX AlfaOmega
+Mundo Radio
+Alfa Omega
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_LIBRO Libro de Radio
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_TRANSPARENCIAS Transparencias de radio
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_PLC Problemas del PLC
+Mundo Radio
+30 AO 117
+www.lanzadera.com/alfaomega
+ladelugones@mixmail.com
+TEXTO_PERSONAL_VACACIONES Vacaciones
+Mundo JJ
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
