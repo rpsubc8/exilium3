@@ -1,0 +1,85 @@
+[FOTOS 0]
+Banda Ancha[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Durante unos pocos a¤os, ha llegado a nuestros o¡dos una palabra incre¡ble[IZQUIERDA]
+(para los lamers) y pat‚tica para los entendidos. Y se hace corresponder con:[NO]
+
+
+    Banda Ancha (B.A)[PC GRIS]
+
+
+  Se trata de conseguir a cualquier precio, incluir la m xima velocidad a la[IZQUIERDA PCT BLANCO]
+red de INTERNET, ya sea por cable, por sat‚lite, por WIFI, o por red
+el‚ctrica. No importa el da¤o que se haga, a comunidades como
+radioaficionados, o a la salud humana, la clave es que las compa¤¡as de
+TELECO se forren a costa del [NO]usuario.[AMARILLO]
+
+
+  Y claro, ¨d¢nde est   la velocidad?[BLANCO]
+
+
+  ADSL ofrece 256 Kb/s, que no es lo mismo que 256 KB/s, para la bajada de[IZQUIERDA]
+datos, y 128 Kb/s para la subida. Esto nos da:[NO]
+
+
+    256 Kb / 8 = 32 KB/s = 32.768 bytes/s[PC GRIS]
+
+
+  Comparado con los 57 Kb/s de un solo canal telef¢nico, es elevado, pero al[IZQUIERDA PCT BLANCO]
+final, no son m s que 32 KB/s. Para textos, correo, chat, y dem s es elevado,
+pero para mover los datos que se mueven hoy en d¡a, se requiere una velocidad
+de 1 MB/s, como [NO]m¡nimo.[AMARILLO]
+
+
+  Y estas personas que defienden esta velocidad, como Banda Ancha, repudian[IZQUIERDA BLANCO]
+la velocidad de la disquetera, cuando en realidad es capaz de superar los
+40 KB/s. Es m s, un MODEM nulo de puerto serie o paralelo, da m s velocidad
+que la Banda Ancha, y estas personas lo [NO]rechazan.[AZULCLARO]
+
+
+  Las p ginas HTML est ndar, tienen suficiente incluso con 5 KB/s, pero los[IZQUIERDA BLANCO]
+portales de INTERNET, requieren incluso de 100 KB/s, velocidad que no da el
+ADSL. La soluci¢n, pues muy sencilla, acaparar m s canales, es decir, m s
+ancho de banda. Muchos creen, que esto no se puede hacer con una RTC (Red de
+tel‚fono conmutada), pero se equivocan. Se puede hacer, con RTC, con RDSI,
+con TELECABLE, con ADSL, con Sat‚lite, con lo que sea, incluso con
+RADIOPACKET. Tan s¢lo hay que alquilar m s canales, y eso implica m s dinero,
+por lo que al final, se hecha uno para atr s, puesto que una l¡nea casera ya
+es bastante cara, para el mal servicio que da.[NO]
+
+
+  Yo, al igual que muchas personas, llevo a¤os navegando con la fibra ¢ptica,[IZQUIERDA]
+a velocidades de 1 MB/s, es decir, 10 Mb/s, por tanto, ¨c¢mo se llama esta
+tecnolog¡a?[NO AZULCLARO]
+
+
+
+    TeraHiperMegaSuper Banda Ancha[PC AMARILLO]
+
+
+
+  Por Dios, seamos realistas, invirtamos en fibra ¢ptica, y pasemos de los[IZQUIERDA PCT BLANCO]
+estafadores de TIMOFONICA, que ya hace a¤os que dominan la red IRIS. Ser m s
+inteligente, no significa tener BANDA ANCHA, que m s bien se puede decir, B
+ancho. Tan s¢lo debemos de parar, pensar, recapitular, sopesar, predecir, y
+hacer algo pensando en el futuro, para no estar dando palos de ciego toda la
+vida.[NO AMARILLO]
+
+
+  Pero bueno, mientras tanto, yo me entretengo, ya que mientras muchos[IZQUIERDA BLANCO]
+esperan a tener su semitarifa plana (como una tabla) de conexi¢n, yo puedo
+conectarme cuando quiero y toda velocidad. M s red para m¡. Lo £nico que
+siento tristeza, cuando intento buscar amigos en el RAPIGATOR (NAPI) y en el
+MUSCLE, poniendo conexi¢n T1, y no encuentro nada m s que a unos pocos, siendo
+el resto RDSI, ADSL y por supuesto RTC. Pero bueno, si pueden aguantar bajarse
+una peli 3 d¡as, supongo que pueden aguantar cualquier cosa.[NO]
+
+
+  Adi¢s, y seguid pagando por nada. El Radiopacket no es veloz, pero al menos,[IZQUIERDA]
+es gratis y divertido, siempre y cuando, se cumplan con las normativas.[NO]
