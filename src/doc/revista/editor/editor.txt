@@ -1,0 +1,171 @@
+[FOTOS 2]
+FOTO_REVISTA_EDITOR1 PALETA_REVISTA_EDITOR1 66 3
+FOTO_REVISTA_EDITOR2 PALETA_REVISTA_EDITOR2 61 90
+Editor[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+ Pues ya son 3 los n£meros de la     El resto  de personas que
+diskmag Exilium, y quiz s muchos   contribuyen a que  esto sea
+os est‚is preguntando, ¨quien es   posible,se citan m s abajo.
+el editor?.
+
+                                     Si por alg£n motivo no ha
+  Pues  la  respuesta  es  bien    salido vuestro  nombre , es
+sencilla, ya que es JJ.            por dos razones:
+
+                                    - Se nos ha olvidado[PC AMARILLO]
+                                    - No hab‚is ayudado[PC AMARILLO]
+
+  Aunque sea el  editor, eso no     Si es por la primera raz¢n[PCT BLANCO]
+quita valor  al resto  de gente    deb‚is  de   contactar  con
+que ayuda a hacer posible esta     nosotros ,  lo  m s  pronto
+revista, ya  que no se pretende    posible.
+ser Frank Frances:
+                                    
+                                    La demoscene, al igual que
+   Mi pel¡cula, mi Show[PC AMARILLO]            la inform tica est  en fase    en   pro[PCT BLANCO]
+                                   de cambio, para bien o para    de ello.
+                                   mal.Y nosotros estamos aqui    Salu2.
+
+
+
+   As¡, las dem s personas que ayudan, son:[PCT BLANCO]
+
+   x Key -->[PC AMARILLO] Dise¤adora gr fica (cover, portada del principio)[GRIS]
+   Fernando Lopez Hernandez -->[AMARILLO] MacProgramadores (BeOS)[GRIS]
+   FAC & Manolo -->[AMARILLO] Delabu Alama (sceners)[GRIS]
+   Javier Loureiro -->[AMARILLO] derethor Grupo CENTOLOS (scener)[GRIS]
+   Adik / Hugi -->[AMARILLO] Editor de la Diskmag HUGI[GRIS]
+   SIN -->[AMARILLO] (scener)[GRIS]
+   Aitor Santamaria -->[AMARILLO] FreeDOS en Espa¤ol[GRIS]
+   Oliver Ruiz Dorantes -->[AMARILLO] OpenBeOS[GRIS]
+   Fernando Fern ndez de Villegas -->[AMARILLO] Radioaficionado[GRIS]
+   Juan Diego Rosado -->[AMARILLO] Radioaficionado[GRIS]
+   Domingo Alvarez de Villegas -->[AMARILLO] LEVEL 64 (scener)[GRIS]
+   RGS -->[AMARILLO] redactora, GFX, SFX (Grupo SLIDERS)[GRIS]
+   Navegante -->[AMARILLO] redactor, designer (Grupo SLIDERS)[GRIS]
+   JJ -->[AMARILLO] editor, redactor y coder (Grupo SLIDERS)[GRIS]
+
+
+   Maria del Rosario Gavin Sierra -->[AMARILLO] RGS[GRIS]
+   Angel Garcia Rodriguez -->[AMARILLO] Navegante[GRIS]
+   Jaime Jose Gavin Sierra -->[AMARILLO] JJ[GRIS]
+
+   Desde aqu¡ se anima a todos los que ayudan a que esta Diskmag sea posible,[IZQUIERDA PCT BLANCO]
+tanto de forma directa como indirecta.[NO]
+
+
+
+
+
+
+Notas de Edicion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues, hace mucho tiempo que las cosas estan cambiando, aunque no se sabe[IZQUIERDA]
+si para bien o para mal. Cada vez, INTERNET est  m s al alcance del ciudadano
+medio y bajo, pero eso no significa, que vaya a ser usada para el bien.[NO]
+
+
+  Y el monopolio, sigue existiendo, pero no s¢lo en telecomunicaciones, sino[IZQUIERDA]
+en inform tica. Todos quieren tener el poder, y dominar los datos. Por tanto
+se pretende controlar el correo, las direcciones IP, y las p ginas WEB. La
+LSSI, ha llegado, y PALADIUM, vendr  despu‚s. INTERNET naci¢ libre, pero las
+empresas quieren controlarlo, con su comercio electr¢nico. Ya no podemos
+echarlos, puesto que INTERNET ya se ha prostituido. Pero al menos, si podemos
+crear una nueva red, totalmente independiente a la ya creada, y evitando que
+suceda lo mismo que est  sucediendo, y suceder  despu‚s.[NO]
+
+
+  Olvidemos lo que hay, y edifiquemos un nuevo mundo digital, independiente al[IZQUIERDA]
+ya creado, y por supuesto libre.[NO]
+  Derrotemos al intruso, y alzancemos la libertad con el conocimiento, y no[IZQUIERDA]
+con el sometimiento de las empresas.[NO]
+
+
+
+
+
+
+Distribucion de la revista[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues  esta  es  la tercera edici¢n digital de  la  DISKMAG
+EXILIUM , la  cual  no  pertenece  a  la  licencia[BLANCO]  GNU[VERDEFOSFORITO] , ni[BLANCO]
+OpenSOURCE[COLOR=227 255 209]. Tiene copyright ,  aunque  eso  no impide que se[BLANCO]
+vaya  a  distribuir  de  forma  gratuita. Por  tanto , queda
+prohibido  cobrar  por  la distribuci¢n de la diskmag o  por
+ella misma.
+  
+  Gracias a los  adelantos de la viejas y nuevas tecnolog¡as
+de la comunicaci¢n , la revista digital se va a distribuir a
+trav‚s de las grandes redes , como son[BLANCO] INTERNET[VERDEFOSFORITO] , [BLANCO]FIDONET[VERDEFOSFORITO], y[BLANCO]
+derivados.
+
+  El tama¤o de la diskmag se intentar  en lo posible que no supere el de un[IZQUIERDA]
+disquete de 3 1/2 de alta densidad. Aunque esta cantidad suele ser de 1,4 MB
+(MegaBytes), nosotros vamos a considerar toda la capacidad total, que en este
+caso es de 1,7 MB si usamos el formato de FDFORMAT o 2 MB si usamos el 2M.[NO]
+  Hemos elegido esta opci¢n, puesto que estos formatos son libres, y est n[IZQUIERDA]
+disponibles para todos los S.O., aunque el[NO] WINDOWS[AMARILLO] no lo soporte.[BLANCO]
+
+
+  Queda  prohibido que cualquier persona pueda dar clases o sacar beneficio de[IZQUIERDA]
+este material a nuestras espaldas, ya que en si mismo este material es gratis,
+y por tanto, no se podr¡a cobrar por ‚l.[NO]
+
+  Tampoco un profesor podr¡a dar clases de este material,salvo que fuesen horas[IZQUIERDA]
+extras fuera del  mbito escolar, impidiendo en cualquier momento que este
+material entrase en un examen.[NO]
+
+  En definitiva, que este material es para aprender y no para sacar beneficios[IZQUIERDA]
+a costa de otros.[NO]
+
+
+
+
+
+
+Como calaborar[VERDEFOSFORITO GRANDE NO]
+[PCT BLANCO NO]
+
+
+  Se puede colaborar de muchas formas, ya sea como redactor de art¡culos, como[IZQUIERDA]
+pixelador o grafista 2D o 3D para los fondos, portadas y contraportadas de la
+diskmag, o como m£sico para el tracker de la misma.[NO]
+
+  Las direcciones de correo para enviar datos, son:
+
+
+       sliders2002@mixmail.com[VERDEFOSFORITO XMI IZQUIERDA]
+
+
+
+
+
+
+Agradecimientos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Hemos de dar las gracias a Xaw Rey, la cual ha realizado un explendido[IZQUIERDA PCT BLANCO]
+trabajo, con la COVER del principio de la diskmag.[NO]
+
+   x Key[PC AMARILLO]
+
+  A todas las personas y sceners que nos han inspirado y que han contribuido[IZQUIERDA PCT BLANCO]
+en esta diskmag, ya sea directa o indirectamente. Y por supuesto a todas las
+personas que han salido en este n£mero, ya sea entrevistadas o escribiendo
+art¡culos.[NO]
+
+  Y por supuesto, a todos aquellos que por cualquier motivo no hemos contestado[IZQUIERDA]
+los correos o ayudado en lo posible, ya que INTERNET no es segura, y nuestra
+mente tampoco es perfecta.[NO]
+
+  Desde aqu¡ se les manda un saludo virtual.

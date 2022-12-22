@@ -1,0 +1,162 @@
+[FOTOS 2]
+FOTO_REVISTA_OPINION1 PALETA_REVISTA_OPINION1 60 1
+FOTO_REVISTA_OPINION2 PALETA_REVISTA_OPINION2 60 45
+Opinion de EXILIUM 2[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+  Pues  la  issue  #2 de Exilium, ya hace tiempo que sali¢,
+como muchos de vosotros sabr‚is. Como  soy  malo  para  las
+fechas, no  me acuerdo si fue' en [BLANCO]Enero o Febrero[AMARILLO], pero eso[BLANCO]
+s¡, sali¢ en el 2003. Por tanto, entre el n£mero 1 y  el 3,
+ya ha pasado m s de un a¤ito. Ohh que potito!!!!, ya tenemos un a¤itooOOoo de[IZQUIERDA]
+vidaaAAaa, as¡ que vamos a poner un ni¤o de logotipo al igual que la LINUX
+MANDRAKE para los usuarios torpes. [NO]8-D)))[AZULCLARO]
+
+
+
+  Ten¡a muchos art¡culos, un total de 50, es decir, una especie de PACK[IZQUIERDA BLANCO]
+especial. Por supuesto, al igual que esta issue #3, hemos tardado m s de 3
+meses en sacarla, pero el tiempo es el tiempo, y eso que no estamos todo el d¡a
+en [NO]ORCHATILANDIA.[AZULCLARO]
+
+
+
+  Por supuesto, toda obra de arte, posee un p£blico que la admira y que la[IZQUIERDA BLANCO]
+odia, y hemos recogido algunos de los comentarios que han quedado recogidos en
+sitios p£blicos de INTERNESSS y en diskmags internacionales. Por supuesto, no
+hemos publicado los mensajes y correos que muchos lectores nos han enviado
+para animarnos o para criticarnos, ya que nos reservamos el derecho de lo
+p£blico y lo privado, y un correo, es [NO]privado.[VERDEFOSFORITO]
+
+
+
+
+
+
+
+
+
+Diskmag HUGI[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues, hemos  conseguido algo  de publicidad  espa¤ola, al
+salir en las novedades de  la scene del 2003. En la foto se
+puede apreciar, pero para que  no esforc‚is mucho la vista,
+aqu¡ dejo el texto adjunto:
+
+
+  Sliders  are  going  to  release issue 3 of their Spanish[PC AMARILLO]
+diskmag Exilium in late July. After that, they want to make
+another issue with a modified  engine  that will work using
+old PCs too and, finally, a "diskmusic".  Exilium  supports
+quite a  lot of  plataforms , including Win32 , DOS , BeOS,
+FreeDOS, Linux, BeOS and QNX.
+
+
+  You can get it from the official web site quando tu haberler par espanol (you
+see, I don't).
+
+
+
+  ¨Qu‚ se puede decir de la diskmag HUGI?. Pues casi nada, salvo que es una de[IZQUIERDA PCT BLANCO]
+las que m s ha evolucionado, y mejor escritas est n. Trata la scene
+internacional, pero claro, para gustos colores, y por supuesto hay muchas m s
+diskmags, tanto internacionales como locales, y donde est‚n las rusas, pues
+claro,...[NO]
+
+
+
+  Tal y como se muestra, nuestro grupo "puede prometer y promete" que va a[IZQUIERDA]
+realizar una minidiskmag miniYO, o perd¢n, quise decir, miniExilium para que
+tire con cualquier PC con patas y patatas. Y por supuesto, pronto tendremos un
+diskmusic, como dios manda. Lo £nico que cambian son las fechas, que por falta
+de tiempo, var¡an, pero paciencia, que toda acci¢n tiene una reacci¢n.[NO]
+
+
+  Mientras tanto, entreteneos con este n£mero de Exilium y la intro que[IZQUIERDA]
+acompa¤a. Prometemos seguir mucho tiempo dando guerra y de que hablar.[NO]
+
+
+
+
+
+
+
+Pouet[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+   Pues  al  igual que  en el  n£mero  anterior, ha  habido
+reacciones, y esto ha sido lo que ha acontecido:
+
+
+
+  Although some of the articles are above the first issue, some others seem[AZULCLARO IZQUIERDA]
+fast written. I'm sure that if you announced in escena.org or #demoscene on
+irc-hispano the need of articles, you would get help from rather experienced
+sceners.[NO]
+
+  Another problem is that at least the win-port is slow as hell in my machine,[IZQUIERDA]
+and it's a p4 2 ghz, so it should be fast enough. Maybe you should think about
+leaving Allegro library (I did long ago) and going for SDL if you want
+portability, or DirectX and focus more on win32.[NO]
+
+  Talking about the gfx and the interface, they need some more work, a bit[IZQUIERDA]
+more polishing wouldn't have hurted, and copying the interface from Win Media
+Player is not a good idea.[NO]
+
+  I'll give this second edition a pigface again, as it needs more polishing,
+although this one it's way better than the first :)[NO]
+
+
+                                              added on the 2003-02-14 by shash[PC GRIS]
+ 
+
+
+  try again! :) next time will be fine![PCT AZULCLARO]
+
+
+                                         added on the 2003-02-18 by trace/xplsv[PC GRIS]
+ 
+
+  I don't know Spanish..[PCT AZULCLARO]
+
+
+                                             added on the 2003-02-18 by Optimus[PC GRIS]
+ 
+
+  yes, you don't know Spanish..[PCT AZULCLARO]
+
+
+                                         added on the 2003-02-18 by trace/xplsv[PC GRIS]
+ 
+
+
+  Continue the work.. don't listen to the "escena.org" troll's. :D[PCT AZULCLARO IZQUIERDA]
+
+  [[Optimus] Spanish is easy :P .. good work with you CPCscene page.. i come[IZQUIERDA]
+from cpc (but i leave devpac a lot of years ago! -1991-)[NO]
+
+
+                                           added on the 2003-02-18 by Astharoth[PC GRIS]
+ 
+
+  No. But continue the work.. don't listen me ;)[PCT AZULCLARO]
+
+  Insert coin
+
+
+                                             added on the 2003-02-18 by tolemaC[PC GRIS]
+ 
+
+  ops, sorry, my vote[PCT AZULCLARO]
+
+
+                                             added on the 2003-02-18 by tolemaC[PC GRIS]

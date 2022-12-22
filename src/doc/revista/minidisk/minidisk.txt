@@ -1,0 +1,42 @@
+[FOTOS 0]
+MINI REVISTA EXILIUM[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues me encuentro realizando un mini motor para la diskmag EXILIUM, de tal[IZQUIERDA]
+forma que en vez de pedir un 80386 o superior, se pueda ejecutar en un 8088 y
+similar, con menos de 256 KB de RAM, en modo texto y bajo DOS. De esta forma se
+podr  leer los art¡culos de la diskmag en cualquier [NO]PC del mundo.[AMARILLO]
+
+
+
+  Se pretende conseguir la multiplataforma de PC's m s perfecta del mundo,[IZQUIERDA BLANCO]
+dentro de las diskmags de la demoscene. Es decir, que se evite la palabra:[NO]
+
+
+
+    "No funciona en mi PC"[PC AMARILLO]
+
+
+
+  Y gracias a los emuladores (DOSBOX) o al soporte lateral, se podr  ver[IZQUIERDA PCT BLANCO]
+incluso en [NO]Windows, LINUX y BeOS.[AZULCLARO]
+
+
+
+  Gracias a la poca RAM que va a pedir, la diskmag EXILIUM entrar  en el RECORD[IZQUIERDA BLANCO]
+de los recursos, permitiendo que cualquier persona de cualquier PAIS, raza o
+religi¢n, dotado de un PC por arcaico que sea, pueda leer los art¡culos, de la
+misma forma que una persona puede leer una hoja. De esta forma lograremos algo
+m s superior que el GNU, es decir, "la libertad del conocimiento, el derecho a
+saber".[NO]
+
+
+  Trabajemos juntos por un mundo mejor.
+
+
+    "El conocimiento nos har  libres".[PC AMARILLO]

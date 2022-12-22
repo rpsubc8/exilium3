@@ -1,0 +1,391 @@
+[FOTOS 6]
+FOTO_REVISTA_PACK1 PALETA_REVISTA_PACK1 60 56
+FOTO_REVISTA_PACK2 PALETA_REVISTA_PACK2 60 87
+FOTO_REVISTA_PACK3 PALETA_REVISTA_PACK3 60 130
+FOTO_REVISTA_PACK4 PALETA_REVISTA_PACK4 60 160
+FOTO_REVISTA_PACK5 PALETA_REVISTA_PACK5 60 174
+FOTO_REVISTA_PACK6 PALETA_REVISTA_PACK6 60 198
+PACK EXILIUM[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues nuestro grupo ha decidido sacar en venta varias cosas:
+
+   - Pack's sceners[PC GRIS]
+   - Hardware scener
+
+
+
+
+
+PACKS[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues se ha decidido, poner varios CD's, tanto para PC, como para MSX. El[IZQUIERDA]
+material con nombre de Exilium, es de nuestro grupo, es decir, se ha recopilado
+y metido la informaci¢n, teniendo en cuenta,que al precio que esta junto con el
+tiempo que lleva hacerlo, es casi un regalo. Por tanto, pretendemos poner un
+precio que nos permita pagar el material usado, sin sacar  nimo de lucro, como
+los piratas.[NO]
+
+  El resto de material, ha sido sacado de INTERNET.
+
+  Para conseguir los productos, deb‚is de mandarnos un correo electr¢nico con[IZQUIERDA]
+el PACK que quer‚is conseguir a:[NO]
+
+
+    sliders2002@mixmail.com[PC AMARILLO]
+
+
+
+  Y posteriormente, deb‚is mandar los euros que vienen adjuntos en el PACK (5[IZQUIERDA PCT BLANCO]
+Euros en billete o 10 Euros para el extranjero) por correo tradicional, junto
+con vuestros datos (s¢lo el nombre, direcci¢n f¡sica y de correo electr¢nico),
+es decir, por carta a la direcci¢n que os enviaremos por correo electr¢nico.[NO]
+  Una vez que hayamos recibido el dinero, os enviaremos por correo tradicional[IZQUIERDA]
+a vuestra direcci¢n adjunta, el PACK. Por supuesto, no ser  por cobro
+revertido, ni nada similar (correo estandar).[NO]
+
+  Ya hemos calculado el precio, y por 5 o 10 Euros, os lo enviaremos en un[IZQUIERDA]
+sobre acolchado. Cabe decir, que si hay alg£n error en el envi¢, ser  causa de
+CORREOS, y si podemos solucionarlo v¡a correo electr¢nico, lo haremos, sino,
+tendr‚is que volver a enviar los 5 Euros. Lo siento, pero ten‚is que entender,
+que al precio que ponemos todo, no vamos a poner dinero nosotros.[NO]
+
+
+
+
+ - PACK VIDEO DIVX EXILIUM 1[PC AMARILLO]
+    1 Estuche doble CD negro, estilo ‚poca cl sica.[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el contenido de los CD's
+    1 CD con demos en formato AVI (DIVX)
+       BCN Party 2001
+       Durango Party 2003
+       Siggraph
+       SlachParty
+       Mekka & Simposyum
+
+    1 CD con software
+       S.O. BeOS 5
+       ISO MINI QNX R6
+       ISO FreeDOS 8.0
+       Reproductores DIVX (codec's para WIN32, QV para DOS).
+       Compiladores
+       Los 3 n£meros de la diskmag Exilium.
+
+    Precio total en Espa¤a: 5 Euros[AMARILLO]
+    Precio total extranjero: 10 Euros
+
+
+  Este PACK contiene demos grabadas personalmente en formato AVI, pudiendo[IZQUIERDA PCT BLANCO]
+ser visionadas en un Pentium 90 con la utilidad QV, o en superiores con WIN32.[NO]
+De esta forma, no necesitaremos de hardware de £ltimo modelo, o de tener las[IZQUIERDA]
+£ltimas librer¡as, para poder ver las demos. As¡ mismo, en cualquier momento se
+puede avanzar, para ir a un efecto dado. Tambi‚n ahorraremos los terribles
+cuelgues de algunas demos, despu‚s de dejar inestable el sistema.[NO]
+
+
+
+ - PACK FOTOS MSX1 EXILIUM 1[PC AMARILLO]
+    2 cajas de CD de audio[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido
+      del CD
+    2 CD's con m s de 110 fotos cada uno en formato Audio
+      b¡fido
+      Animales
+      Chicas
+      BILL GATES
+      El se¤or de los anillos
+      Manga
+      Brad Pitt
+      Famosas
+      Famosos
+      Ordenadores
+      Pel¡culas
+      Bola de Drag¢n
+      South Park
+      Gillian Anderson
+      Teri Hatcher
+      Pixelar
+      Chorradas
+      Coches
+
+    Precio total en Espa¤a: 5 Euros[AMARILLO]
+    Precio total extranjero: 10 Euros
+
+  Este PACK contiene fotos no porno, en formato SCREEN2 a todo color,en formato[IZQUIERDA PCT BLANCO]
+AUDIO y con doble canal (cable b¡fido), para poder ser vistas en un MSX1 real,
+con como m¡nimo 16 KB de RAM. Se debe conectar la salida del discman, minicadena
+o lectora de CD al MSX1.[NO]
+  La primera pista contiene un indicador del canal de audio en que se[IZQUIERDA]
+encuentran las fotos, para el caso de que no se sepa cual es.[NO]
+  El resto de fotos, van secuencialmente, en grupos de 1, 2, 3 e incluso 4[IZQUIERDA]
+fotos dentro de cada pista, ordenadas por temas.[NO]
+  Muchas de estas fotos son de alta calidad. Por supuesto, el CD viene preparado[IZQUIERDA]
+para poder ser vistas sin software adicional, es decir, vienen con cargador
+para ser vistas de forma normal, a una velocidad de 2400 baudios.[NO]
+
+
+
+
+ - PACK AUDIO SCENER EXILIUM 1[PC AMARILLO]
+    2 cajas de CD de audio[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido
+      del CD
+    1 CD's de audio con 70 minutos de m£sica cada uno
+       A Plank in Yar Teeth
+       Between two lines
+       Erstschlag 2003 --> pSYCHo^mOOds
+       Insanity --> Diskmag Hugi22
+       across my soul --> acidbeat
+       you spin me right round --> eha
+       ...
+       Everybody (welcome to earth) --> Bassie & Neo Rbi
+    1 CD de audio con 70 minutos de m£sica de 8 bits
+       SID de C64
+       CPC
+       ...
+       ATARI
+
+
+
+    Precio total en Espa¤a: 5 Euros[AMARILLO]
+    Precio total extranjero: 10 Euros
+
+
+  Este PACK contiene canciones MOD's, XM, MP3 y chiptunes de demos, diskmags o[IZQUIERDA PCT BLANCO]
+Party's, tanto de PC, como de C64 convertidos a pistas de audio, para poder ser
+reproducidos en cualquier discman o lector de CD de audio.[NO]
+
+
+
+ - PACK JUEGOS 1 MSX1[PC AMARILLO]
+
+    2 cajas de CD de audio[GRIS]
+
+    1 Portada visual en el estuche
+
+    1 etiqueta indicando el modo de trabajo y el contenido
+      del CD
+
+    2 CD's de audio doble canal para cable b¡fido.
+
+    1 CD con 18 juegos con cable mono
+
+    1 CD con 12 juegos con cable b¡fido
+
+
+
+    Precio total en Espa¤a: 5 Euros[AMARILLO]
+
+    Precio total en el extranjero: 10 Euros
+
+
+
+  Este PACK permite jugar en un MSX1 real. Algunos  juegos[PCT BLANCO]
+ requieren 64 KB de RAM o m s. La velocidad de carga es de
+ 2400 baudios.
+
+
+
+
+
+
+
+
+
+
+ - MEGAPACK JUEGOS 2 MSX1[PC AMARILLO]
+
+    1 caja de CD de audio[PCT BLANCO]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido
+      del CD
+    1 CD de audio con 40 juegos con doble canal (cable
+      b¡fido)
+
+
+
+
+   Precio total en Espa¤a: 5 Euros[AMARILLO]
+   Precio total extranjero: 10 Euros
+
+
+
+   Este PACK permite jugar en un MSX1 real. Algunos juegos[PCT BLANCO]
+requieren 64 KB de RAM o  m s. La velocidad de carga es de
+2400 baudios.
+
+
+
+
+
+
+
+
+
+ - PACK BeOS 1 para PC[PC AMARILLO]
+    1 Estuche doble CD negro, estilo ‚poca cl sica[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido del CD
+    2 CD's de datos:
+      - 1 CD con BeOS MAX Edition
+      - 1 CD con Material de BeOS
+           ISO BeOS LIVE (XBEOS)
+           ISO BeOS 5.0
+           Drivers para BeOS
+           Programas para BeOS
+           Juegos para BeOS
+
+
+   Precio total en Espa¤a: 5 Euros[AMARILLO]
+   Precio total extranjero: 10 Euros
+
+
+  Este PACK permite tener una gran cantidad de software para BeOS, as¡ como[IZQUIERDA PCT BLANCO]
+diversas distros arrancables desde CD-ROM.[NO]
+
+
+
+ - PACK GNU 1 para PC[PC AMARILLO]
+    1 Estuche doble CD negro, estilo ‚poca cl sica[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido del CD
+    2 CD's de datos:
+      - 1 CD con la distribuci¢n LINUX KNOPPIX
+      - 1 CD con GNU-WIN (Software GNU para WINDOWS)
+          OpenOffice
+          Mozilla
+          GIMP
+          7-ZIP
+          GTK+
+          TuxPaint
+          Apache
+          MySQL
+          POVRAY
+          TuxRacer
+          ...
+          GLTRON
+
+   Precio total en Espa¤a: 5 Euros[AMARILLO]
+   Precio total extranjero: 10 Euros
+
+
+  Este PACK permite tener una gran cantidad de software GNU, tanto para LINUX[IZQUIERDA PCT BLANCO]
+como para WINDOWS.[NO]
+
+
+
+ - PACK GNU 2 para PC[PC AMARILLO]
+    1 Estuche doble CD negro, estilo ‚poca cl sica.[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido del CD
+    2 CD's de datos:
+      - 1 CD con la distribuci¢n LINUX SLACKWARE 7.1
+      - 1 CD con la distribuci¢n LINUX SLACKWARE 8.0
+
+
+   Precio total en Espa¤a: 5 Euros[AMARILLO]
+   Precio total extranjero: 10 Euros
+
+
+  Este PACK permite tener una gran cantidad de software GNU para LINUX.[PCT BLANCO]
+
+
+
+
+ - PACK DOCUMENTALES 1 para PC[PC AMARILLO]
+    1 caja de CD normal[GRIS]
+    1 Portada visual en el estuche
+    1 etiqueta indicando el modo de trabajo y el contenido del CD
+    1 CD con los documentales
+      - Reproductor de DIVX.
+      - Sadam Hussein
+      - C¢digo LINUX
+      - Hackivismo
+
+
+   Precio total en Espa¤a: 5 Euros[AMARILLO]
+   Precio total extranjero: 10 Euros
+
+
+  Este PACK permite tener una gran cantidad de documentales.[PCT BLANCO]
+
+
+  En los pr¢ximos n£meros de Exilium, iremos haciendo m s PACKS, y seguramente[IZQUIERDA PCT BLANCO]
+pondremos PACKS de fotos para MSX a velocidades superiores a 2400 baudios, y
+con compresi¢n, para hacer m s amena la carga.[NO]
+
+
+
+
+
+
+Hardware[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues a lo largo de la revista, hab‚is visto que hemos podido hacer muchos[IZQUIERDA]
+conversores. Todos ellos, est n a la venta, pero eso s¡, aqu¡ no se va a
+trabajar por correo tradicional. Tan s¢lo hacemos los conversores para aquellos
+residentes en Oviedo, Mieres o alrededores.[NO]
+
+
+
+   8 bits[PC AMARILLO]
+  --------
+
+   Cable de RF para MSX1 --> [AMARILLO]4 Euros[GRIS]
+   Cable b¡fido de audio MSX1 -->[AMARILLO] 5 Euros[GRIS]
+         - DIN 8 <--> 2 jacks macho
+         - DIN 8 <--> 2 jacks hembra
+   Cable adaptador de fuente PC a CPC o CPC+ -->[AMARILLO] 4 Euros[GRIS]
+   Cable Euroconector CPC y CPC+ -->[AMARILLO] 10 Euros[GRIS]
+   Cable conversor de video CPC+ a CPC -->[AMARILLO] 4 Euros[GRIS]
+   Cable para usar unidad de 3 « PC en CPC 6128 -->[AMARILLO] 10 Euros[GRIS]
+
+
+   PC[AMARILLO]
+  ----
+
+   Cable MODEM nulo paralelo de PC a PC -->[AMARILLO] 7 Euros[GRIS]
+   Cable MODEM nulo serie de PC a PC -->[AMARILLO] 6 Euros[GRIS]
+   Cable para conectar impresora serie -->[AMARILLO] 10 Euros[GRIS]
+   Tarjeta Covox Sound de puerto paralelo -->[AMARILLO] 5 Euros[GRIS]
+   Conversor de Joystick ATARI a Puerto paralelo PC -->[AMARILLO] 5 Euros[GRIS]
+   Conversor de PAD PSX a Puerto paralelo PC -->[AMARILLO] 5 Euros[GRIS]
+   Conversor de teclado MINI-DIN a DIN 5 y viceversa -->[AMARILLO] 5 Euros[GRIS]
+   Adaptador de puerto serie DB9 a PS/2 -->[AMARILLO] 5 Euros[GRIS]
+   Conversor VGA de 9 pins a 15 pins -->[AMARILLO] 5 Euros[GRIS]
+  
+  
+   Radio[AMARILLO]
+  -------
+  
+   Interface Sound Blaster Radio-Packet (PTT SOUND) -->[AMARILLO] 10 Euros[GRIS]
+   Cable adaptador de fuente PC a Talki o emisora -->[AMARILLO] 4 Euros[GRIS]
+   Cable adaptador de corriente de patillas a RCA -->[AMARILLO] 4 Euros[GRIS]
+   Cable para antena inducida PMR -->[AMARILLO] 6 Euros[GRIS]
+
+
+
+   Video y sonido[AMARILLO]
+  ----------------
+
+   Conversor RCA video compuesto a Euroconector con sonido -->[AMARILLO] 8 Euros[GRIS]
+   Alargador de audio 5 metros -->[AMARILLO] 6 Euros[GRIS]
+   Alargador de video compuesto 5 metros -->[AMARILLO] 6 Euros[GRIS]
+ 
+
+  Todos estos precios son una aproximaci¢n, y pueden variar hacia arriba o[IZQUIERDA PCT BLANCO]
+hacia abajo, en funci¢n del precio de los componentes. Si alguien quiere alg£n
+hardware adicional a esta lista, como conversores para Spectrum, ATARI, AMIGA,
+PC, etc..., deber  especificar el tipo de cable, y lo podremos realizar.[NO]
+
+  Tambi‚n revisamos ordenadores antiguos y modernos.
