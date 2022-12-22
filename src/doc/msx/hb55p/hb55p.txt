@@ -1,0 +1,445 @@
+[FOTOS 2]
+FOTO_MSX_HB55P1 PALETA_MSX_HB55P1 60 2
+FOTO_MSX_HB55P2 PALETA_MSX_HB55P2 60 284
+Pantallas de carga[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues  desde  que empec‚ a escribir el art¡culo  de  MMSX,
+hasta el d¡a de hoy, a  pasado  gran  cantidad  de  tiempo,
+d ndome la posibilidad de  poder  adquirir  un  [BLANCO]MSX HIT BIT[AZULCLARO]
+HB-55P  original, y  en  buen  estado. No  obstante  no  he[BLANCO]
+tenido  que  pagar  ni  un  solo  Euro,  ya  que  me lo han
+regalado.
+
+
+
+  Este modelo es de la gama m s baja de los MSX, ya que carece de FDD[IZQUIERDA]
+(controladora de disco), as¡ como de unidad de cinta.[NO]
+
+  Posee lo siguiente:
+
+
+   - 16 KB de RAM[PC AMARILLO]
+   - teclado ASCII, con teclas distintas a los teclados normales
+   - Conector de RF para TV
+   - Conector de video para monitor
+   - Conector de radiocasete
+   - Conector CENTRONICS raro para impresora
+   - 2 puertos de jostick DB9
+   - 2 slots para ampliar
+   - fuente de alimentaci¢n incorporada
+
+
+  La ventaja del modelo que he conseguido con respecto a otros, es que en[IZQUIERDA PCT BLANCO]
+‚l, se encontraba un cartucho de 16 KB de RAM extras, que dotaban al equipo de
+32 KB de RAM, dej ndome el slot trasero libre para poder meter otro [NO]cartucho.[AMARILLO]
+
+
+  No obstante, la poca RAM que posee, impide hacer muchas cosas, que con[IZQUIERDA BLANCO]
+otros modelos con 64 KB o m s, se podr¡an hacer, pero "a caballo regalado no le
+mires el diente".[NO]
+
+
+
+
+
+
+
+Manos a la obra[GRANDE AMARILLO]
+[PCT BLANCO NO]
+
+
+  Aunque el equipo ten¡a muy buena pinta, ya que estaba limpio, no pose¡a[IZQUIERDA]
+ning£n cable adicional, a parte del de corriente, por lo que no pod¡a saber si
+funcionaba o no.[NO]
+
+
+  As¡ que prob‚ a conectarlo a la corriente, y darle al interruptor,[IZQUIERDA]
+comprobando antes de que la nota de tensi¢n y amperaje que ven¡a en la parte de
+abajo del teclado, coincidiese con las especificaciones de la corriente
+el‚ctrica de nuestro pa¡s. Esto hay que hacerlo, porque el [BLANCO]MSX[AMARILLO] es japones, en[BLANCO]
+concreto el modelo que tengo es de SONY, y en JAPON la corriente no es de 220
+V.[NO]
+
+
+  Una vez comprobado que le llegaba corriente (se encend¡a la l mpara roja),[IZQUIERDA]
+proced¡a a la realizaci¢n de cables, ya que sino,estaba perdiendo el tiempo. No
+obstante, puede darse el caso de que la l mpara de corriente este estropeada,
+pero el equipo funcione, as¡ que habr¡a que realizar los cables de todas
+formas.[NO]
+
+
+
+  El primer cable que he construido, ha sido el de RF (radio frecuencia), es[IZQUIERDA]
+decir, el de antena de TV. Los que hay is trabajado con este equipo, o con
+alg£n spectrum o similar, ya lo sabr‚is, pero para los dem s, esto se trata de
+un modulador de Video compuesto, que a su vez sube de frecuencia el video
+compuesto para ser aceptado en las frecuencias de TV, como el modulador de la
+PSX y similares. El MSX ten¡a este modulador ya integrado, teniendo s¢lo que
+construir el [NO]cable.[AZULCLARO]
+
+
+
+  Hay que destacar, que el MSX, al igual que el Spectrum y el CPC, poseen un[IZQUIERDA BLANCO]
+conector para monitor de video en color. Los pines vienen en distinto orden,
+pero al final est n las se¤ales de Rojo, Verde, Azul y sincronismo. De esta
+forma, se puede hacer un conversor para usar el monitor del CPC, as¡ como el
+cable conversor de SCART (Euroconector), que se comenta en este n£mero y en los
+anteriores. Pero claro, este conversor va a implicar soldar m s, as¡ como que
+cuesta m s, si no tenemos el conversor del CPC anterior, por lo que lo dejo
+para el [NO]pr¢ximo n£mero.[AMARILLO]
+
+
+ Ahora me voy a centrar en el cable de RF. Por un lado (el de la TV) tiene[IZQUIERDA BLANCO]
+que tener un conector de 75 Ohmios macho, es decir, el t¡pico para conectar a
+la TV o al video. Y por el otro (el del MSX) debe ser un RCA macho, es decir el
+que tienen los conectores de la minicadena para el sonido.[NO]
+
+
+  Por supuesto, este cable no va a venir hecho, salvo que lo encarguemos a[IZQUIERDA]
+alguna tienda de electr¢nica especializada o alg£n [NO]scener.[AMARILLO]
+
+
+  Por tanto, habr  que soldar. Tenemos varias opciones:[BLANCO]
+
+
+   - Pillar un alargador de antena ya hecho, y quitarle uno de los conectores[PC AMARILLO]
+     para sustituirlo por un RCA, dejando el conector macho de antena.
+   - Hacerlo nosotros mismos todo.
+
+
+  La primera opci¢n es c¢moda, y en las tiendas de 60 c‚ntimos, suelen[IZQUIERDA PCT BLANCO]
+vender estos alargadores, teniendo que cortar s¢lo un extremo y poner el RCA. [NO]
+Recordar, que en el conector RCA, el video va por el conector peque¤o, y la masa[IZQUIERDA]
+por el largo externo.[NO]
+
+
+  En mi caso, ese d¡a no encontr‚ ni un solo alargador, ya que era AGOSTO[IZQUIERDA]
+(vacaciones), as¡ que tuve que construirlo entero. Por lo que ped¡ un conector
+macho de TV, un RCA macho y 2 metros de cable para v¡deo (muy importante).[NO]
+
+
+  El conector de TV es muy sencillo, ya que no hace falta soldar, salvo que[IZQUIERDA]
+te lo den muy peque¤o (que fue lo que me sucedi¢). Este conector posee un
+tornillo, en donde conectamos el cable pelado de video, y la parte externa, la
+malla del cable [NO](acordaros de no romperla).[AMARILLO]
+
+
+  En cuanto al RCA, se suelda como en el caso anterior.[BLANCO]
+
+
+  Y si todo va bien, y lo comprob is con un multitester, el MSX funcionar ,[IZQUIERDA]
+como me sucedi¢ a mi. Pero claro, no todo es tan sencillo. Si lo hubi‚ramos
+conectado al monitor, ser¡a encender, y listo, pero lo hemos conectado a la TV,
+y por tanto, habr  que sintonizar un canal para la recepci¢n.[NO]
+
+
+  Dependiendo de lo vieja que sea la TV, podemos o mandar b£squeda[IZQUIERDA]
+autom tica, o manual. En mi caso, el MSX sal¡a por el canal 36, en la
+frecuencia 589,50 Mhz, m s o menos, ya que no sal¡a exacto, es decir, hab¡a que
+dar al ajuste de [NO]sinton¡a fina.[AMARILLO]
+
+
+
+  Una vez sintonizado, se proceder  a guardar el canal, para tenerlo para[IZQUIERDA BLANCO]
+siempre. Yo hice las pruebas en una TV antigua de color, as¡ como en el video y
+en la sintonizadora del ordenador, y todo funciona perfectamente. Si us is el
+MORE TV, quiz s no vaya muy bien, ya que los saltos de frecuencia son de 15
+Khz, y no se ajustar  perfectamente, as¡ que usad software especializado, como
+el que viene con la [NO]sintonizadora.[AZULCLARO]
+
+
+
+
+
+
+
+Cable bifido de audio[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  El v¡deo ya hemos probado que funciona, y nada m s arrancar aparece una[IZQUIERDA]
+pantalla de HIT BIT, con la posibilidad de cargar una agenda en ROM, o bien el
+BASIC de 1983 (20 a¤itos).[NO]
+
+  A diferencia de los PC's, esto arranca en el acto.
+
+
+  Pero claro, salvo la agenda, y el BASIC, ¨qu‚ demonios se puede hacer con[IZQUIERDA]
+un MSX?. Y claro, existen varias respuestas:[NO]
+
+
+   - Tirarlo a la basura[PC AMARILLO]
+   - Usarlo de pisapapeles
+   - Conseguir cartuchos
+   - Ampliarlo
+   - Usar el casete
+
+
+  La primera opci¢n es descabellada, si ya hemos llegado a este punto. La[IZQUIERDA PCT BLANCO]
+segunda siempre es posible,es m s nuestro PC o la Televisi¢n IMAC 8-D)) tambi‚n
+sirven para este cometido.[NO]
+
+
+  Conseguir cartuchos para MSX es algo dif¡cil, pero no imposible. Pero un[IZQUIERDA]
+cartucho, s¢lo sirve para leer, salvo modificaciones raras. [NO]8-))[VERDEFOSFORITO]
+
+
+  Ampliar un MSX, tal y como se vio con el MMSX, es posible, llegando a[IZQUIERDA BLANCO]
+poner una controladora de disco duro IDE por 46 Euros, puertos paralelos, m s
+RAM, etc..., pero claro, como se comenta, cuesta dinero, dinero, que quiz s no
+estemos dispuestos a gastar en este equipo.[NO]
+
+
+  Y claro, queda la opci¢n m s simple, que es usar el casete. Y ahora todos[IZQUIERDA]
+me pondr‚is cara rara, diciendo: ¨D¢nde est  el casete, si no hay donde meter
+la cinta? 8-D)), y claro, haberlo, hailo, pero hay que encontrarlo. 8-D))[NO]
+
+  El casete con cinta no existe, ya que hab¡a que comprarlo por separado,[IZQUIERDA]
+ahorr ndonos el espacio del mismo, como en otros modelos. Y claro, aunque se
+puede conseguir un casete para este equipo, realmente, ¨para qu‚ gastar el
+dinero, si se puede conseguir de otra forma?. Y aqu¡ es donde viene el ingenio
+que han puesto otras personas, que consiste en usar la tarjeta de sonido de
+nuestro PC para tal fin.[NO]
+
+
+  No s¢lo se puede usar la tarjeta de sonido, sino un walkman, un[IZQUIERDA]
+radiocasete, un discman, o una lectora de CD's de PC, e incluso una PSX, con un
+CD de audio, es decir, cualquier cosa que tenga salida de audio.[NO]
+
+
+  Pero claro, ¨d¢nde conecto la salida de audio con jack estereo a mi MSX?.
+Pues muy sencillo, a martillazos 8-D)) Es broma, hay que realizar un conversor[IZQUIERDA]
+de DIN 8 macho a jack estereo [NO]macho o hembra.[AMARILLO]
+
+
+  En este caso, vamos a hacer un cable b¡fido, que ya os enterar‚is m s[IZQUIERDA BLANCO]
+adelante de para que sirve. En mi caso, he usado dos jacks hembras, para luego
+conectar un alargador macho, ya que me era m s sencillo, pero vosotros, pod‚is
+usar dos jacks machos. Por tanto necesit is:[NO]
+
+
+   - 1 conector DIN 8 macho a‚reo[PC AMARILLO]
+   - 1 metro o m s de cable de audio paralelo
+   - 2 jacks macho o hembra a‚reos.
+
+
+  He encontrado cierta informaci¢n en INTERNET sobre este cable.[PCT BLANCO]
+  El esquema es el siguiente, de cara a los conectores del cable y no del MSX,[IZQUIERDA]
+por lo que tened atenci¢n a ello:[NO]
+
+
+
+         2[PC AMARILLO]
+         *                   ---------
+    1 *     *               /         |------.----.---
+                           /                 |    |   )
+     *   *   *             |          |------`----`---
+                           |       ---    \     \    \  
+      *     *              |      /        \     \    \___ Audio 1
+                           |      |         \     \    (R)
+                           |      |          \     \    
+  Vista de los pins        |     /            \     \_____ Audio 2
+  frente al conector        -----              \      (L)
+                            ----                \      
+     1 - CasIN              ---                  \________ Ground
+     2 - Tierra             --                    ////////
+                            --
+
+
+
+  A partir de estos esquemas es muy intuitivo construir un cable bifido para el[IZQUIERDA PCT BLANCO]
+MSX. Con dos conectores estereo realizamos las siguientes conexiones:[NO]
+
+
+
+Conector A: (Pista del canal Izquierdo)      Conector B: (Pista canal Derecho)[PC AMARILLO]
+.......................................      .................................
+Ground      -> 2                             Ground      -> 2 
+Audio 2 (L) -> 1                             Audio 1 (R) -> 1
+
+
+
+  Cuando queremos cargar un juego de la pista A o canal izquiero introduciremos[IZQUIERDA PCT BLANCO]
+el conector estereo A. Empleando el conector B si queremos cargar el juego del
+canal derecho.[NO]
+
+
+Nota: [AMARILLO]al realizar  las soldaduras sobre un jack la tierra es el metal mas largo[BLANCO]
+que sobresale mientras que los canales izquierdo y derecho son los mas[IZQUIERDA]
+peque¤os.[NO]
+  En principio no debemos preocuparnos por cual de los dos peque¤os es el L o[IZQUIERDA]
+el R. Empiricamente podemos descubrir cual es cargando un juego a CD-DD.[NO]
+
+Angel Manuel G¢mez, 15 de Abril de 2002
+Esquema original simplificado de conexion normal por Alexey Podrezov.
+
+
+
+
+
+
+Carga de software[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Una vez creado el  cable  se  proceder   a  cargar  alg£n
+programa. Yo  he probado mucho software, pero no todo tira,
+ya que viene preparado para el MSX, pero con m s RAM.
+
+  Recordar, que s¢lo tengo 32 KB, y  si  no llega a ser por
+los 16 KB extras, tendr¡a s¢lo 16 KB.
+
+
+  En concreto, me tiran lo siguientes juegos, por ahora:
+
+
+   - Buck Rogers[PC AMARILLO]
+   - Alehop
+   - Boardello
+   - Bomberman 3D
+   - Car fihter
+   - Lazy Jone
+   - BR
+   - Chill
+
+
+  Estos juegos, los podr‚is encontrar en formato WAV, buscando en INTERNET. Si[IZQUIERDA PCT BLANCO]
+no, tendr‚is que tirar de herramientas, para convertirlos.[NO]
+
+
+  Para ejecutar un juego, por ejemplo, el Back Rogers, debemos teclear en el[IZQUIERDA]
+MSX lo siguiente:[NO]
+
+
+   run "cas:"[PC AMARILLO]
+
+
+  Y con el cable de audio de la tarjeta de sonido conectado a uno de los[IZQUIERDA PCT BLANCO]
+extremos del cable b¡fido, arrancamos el reproductor de este archivo en formato
+WAV, por ejemplo, con el WINAMP.[NO]
+
+
+  Debemos ajustar los vol£menes, ni muy bajo, ni muy alto, a prueba y error.
+Y en el acto, aparecer  el mensaje:
+
+
+   found buck[PC AMARILLO]
+
+
+
+  Y al cabo de unos minutos, estar  cargado, y podremos jugar.[PCT BLANCO]
+
+  A veces, los tiempos de espera de cinta no son altos, y falla todo, por lo[IZQUIERDA]
+que debemos ejecutar:[NO]
+
+
+   load "cas:"[PC AMARILLO]
+
+
+  Y una vez que cargue el cargador en BASIC, nos lo indicar  el rel‚ interno[IZQUIERDA PCT BLANCO]
+del MSX con un sonido, como el CPC. Esto es la se¤al de parada del motor de la
+cinta, para poder procesar el c¢digo BASIC, si hubi‚ramos puesto la ordena de
+RUN. Entonces, le damos a parar en el WINAMP del PC, y retrocedemos unos
+segundos. En el acto, escribimos en el MSX:[NO]
+
+
+   RUN[PC AMARILLO]
+
+
+  Y le damos al PLAY del WINAMP.[PCT BLANCO]
+
+
+  Otra opci¢n, es editar el sonido WAV con el GOLDWAVE o similar, y darle[IZQUIERDA]
+m s segundos de espera a los datos, que se distinguen de la cabecera, por la
+separaci¢n.[NO]
+
+
+  Y as¡, podemos hacerlo con los dem s juegos o programas. Recordar, buscar[IZQUIERDA]
+cintas en formato WAV por INTERNET, para no tener que convertirlas, ya que
+est is probando. Cuando teng is m s experiencia,  probar‚is m s cosas.[NO]
+
+
+  Hay que tener en cuenta, que todo lo que salga por nuestra tarjeta de[IZQUIERDA]
+sonido, ir  a la entrada del casete del MSX. Por tanto, ser¡a recomendable
+deshabilitar los efectos sonoros de minimizar, maximizar y ejecutar programas,
+es decir, todas esas tonter¡as de Windows y LINUX, ya que sino no funcionar  la
+lectura en el MSX. A s¡ mismo, si usamos la sintonizadora de TV de ordenador,
+ser¡a recomendable cerrar la entrada de l¡nea, bien por software, o
+desconectando el cable, al menos mientras se carga la cinta. Y por supuesto,
+desconectar la reproducci¢n de la entrada de micr¢fono y similares, es decir,
+que s¢lo suene el reproductor de sonido, para que vaya la se¤al al MSX.[NO]
+  Si se usa una sintonizadora de TV, dependiendo del software usado, se[IZQUIERDA]
+recomienda no poner a pantalla completa, mientras se carga el juego o programa
+del MSX, ya que suele bloquear la reproducci¢n del [NO]WAV[AMARILLO], e interferir.[BLANCO]
+
+
+  Aunque se puede grabar en el MSX a cinta, desde el conector de casete, no[IZQUIERDA]
+os lo voy a decir, hasta el pr¢ximo n£mero, porque no es realmente necesario,
+por ahora.[NO]
+
+
+
+
+
+
+Aumento de velocidad[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues la carga de juegos, es bastante lenta, del orden de 1 minuto, para[IZQUIERDA]
+arriba, llegando hasta los 7 minutos. Y claro, me dir‚is, como se puede mejorar
+el tiempo, a lo que existen varias opciones:[NO]
+
+
+   - Meter una controladora de disquetera o disco duro (sale caro)[PC AMARILLO]
+   - Meter un cartucho FLASH RAM (barato, pero hay que a¤adir la FLASH)
+   - Modificar el c¢digo de BASIC, quitando la portada, y reduciendo el WAV
+     (requiere de conocimiento)
+   - Aumentar el PITCH
+
+
+  La £ltima opci¢n requiere de un programa de sonido como el GOLDWAVE, y lo que[IZQUIERDA PCT BLANCO]
+podemos hacer, es subir hasta dos octavas el WAV. M s de 2, da errores, por
+ahora, de lo que he probado. Con esto por cada minuto de WAV ahorramos 10
+segundos. Ya se que no es gran cosa, pero funciona. Hay m s experimentos por
+ah¡, y se consiguen mejores resultados que los m¡os, pero no he probado mucho.[NO]
+Lo ideal es conseguir ultracargas como las del Spectrum, con binarios[IZQUIERDA]
+preparados para ello, en donde cargas de 4 minutos se reducen a 50 segundos.[NO]
+
+
+
+
+
+
+Aumento de capacidad[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  La capacidad se puede aumentar con la velocidad, ya que de entrada al usar[IZQUIERDA]
+tarjeta de sonido o CD's de audio, se consigue 2400 baudios, frente a los 1200
+baudios de las cintas originales de la ‚poca. Esto permite tener hasta 20
+juegos en un CD de audio.[NO]
+
+
+  Pero todav¡a se puede aumentar esta capacidad. Para ello, podemos usar el[IZQUIERDA]
+canal est‚reo del CD de audio, de la tarjeta de sonido o de la cinta, gracias
+al cable b¡fido. Con CD's preparados para ello, como los que hay en INTERNET
+en formato ISO (NRG de Nero), se pueden descargar (8 MB) y [NO]freir.[AMARILLO]
+
+
+  Estos CD's permiten duplicar la capacidad, al usar el canal derecho e[IZQUIERDA BLANCO]
+izquierdo de audio. Por tanto, podemos tener [NO]40 juegos o m s.[AMARILLO]
+
+
+  Para ello, s¢lo hay que conectar un conector del cable b¡fido u otro,[IZQUIERDA BLANCO]
+seg£n el canal izquierdo o el derecho de audio, que contiene el juego. Eso
+unido, a que la pista se puede elegir desde el reproductor, nos simplifica
+mucho la vida. Es incre¡ble, que aunque el CD de audio llego en los 80's y
+90's, las compa¤¡as de estos equipos no incluyesen ning£n conversor para poder
+usarlos, aunque no fuera para CD's de datos, que eran m s caros. Muchos
+ordenadores y usuarios de 8 bits, se hubiesen beneficiado de estas opciones.[NO]

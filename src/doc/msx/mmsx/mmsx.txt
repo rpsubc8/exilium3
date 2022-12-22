@@ -1,0 +1,200 @@
+[FOTOS 6]
+FOTO_MSX1 PALETA_MSX1 58 1
+FOTO_MSX2 PALETA_MSX2 60 32
+FOTO_MSX3 PALETA_MSX3 60 68
+FOTO_MSX4 PALETA_MSX4 60 91
+FOTO_MSX5 PALETA_MSX5 60 113
+FOTO_MSX6 PALETA_MSX6 60 142
+MMSX[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Hace tan s¢lo una semana, me pase por RASTRILLOLANDIA, y encontr‚ entre mil[IZQUIERDA]
+chatarras encima,un viejo pero entra¤able equipillo. Se trataba de un MSX de la
+casa SONY. En concreto era un HIT BIT,algo terminado en 50. Estaba muy gastado,
+y no parec¡a tener buena pinta. Ya se que muchos de vosotros os tirar¡ais a ‚l
+nada m s verlo, aunque pidiesen 100 Euros. Pero a mi no me daba buena espina, y
+adem s, se trataba del modelo cl sico, el que s¢lo ten¡a conector para cinta,
+puerto paralelo, slot de expansi¢n y slot de cartuchos, as¡ como s¢lo 16 KB de
+RAM. Lo ideal era encontrar el modelo que ten¡a unidad de disquete de baja
+densidad, ya que unido a su modulador de RF, permitir¡a conectarlo a cualquier
+TV, y me permitir¡a llevarlo a casi cualquier parte, como si de un port til se
+tratase, algo parecido a un[NO] AMIGA 500 o 600.[AZULCLARO]
+
+
+  Al igual que le ocurre al CPC, y al Spectrum, el MSX no est  acabado, ya que[IZQUIERDA BLANCO]
+gracias al trabajo altruista y profesional de inform ticos, usuarios y sceners,
+se ha podido continuar con el legado. Y por tanto, ahora le toca el testigo al
+MMSX, el cual es un nuevo proyecto para poder abrir el camino al futuro del
+MSX.[NO VERDEFOSFORITO]
+
+
+  Se prescinde de los 8 bits y del hardware anterior,pero no en compatibilidad,[IZQUIERDA BLANCO]
+sino en hardware,al estilo que le sucede al [NO]Commodore One, AMIGA One, Sprinter,[VERDEFOSFORITO]
+CPC NG, etc... De esta forma, no tendremos que tener en formol a nuestros[IZQUIERDA BLANCO]
+queridos equipos, convirti‚ndonos los usuarios tarde o temprano en 
+embalsamadores, y no en inform ticos.[NO]
+
+
+
+  Sus caracter¡sticas m s entra¤ables son:
+
+
+   - Procesador de 32 bits Z380[PC AMARILLO]
+   - 4 ranuras de 8 bits (Las XT de los PC's)
+   - 3 ranuras de 16 bits (Las AT de los PC's)
+   - 1 ranura PCI de 32 bits con soporte PDS.
+
+
+
+  De todo esto, lo m s interesante es el soporte PDS,que permite alojar futuras[IZQUIERDA PCT BLANCO]
+tarjetas CPU con los procesadores de la familia Zilog o compatibles,permitiendo
+introducir nuevas tarjetas para funciones como el teclado. Es decir,se tratar¡a
+del soporte de ACELERADORAS, como el caso del AMIGA o del PC a gran escala.[NO]
+
+
+  Sin embargo, un proyecto de esta envergadura, conlleva mucho tiempo, y por[IZQUIERDA]
+supuesto mucho dinero, aunque seg£n se dice, se intenta que salga barato. Pero
+debemos darnos cuenta del precio del SPRINTER o del Commodore One, que aunque
+no supera el de un PC, si logra pasar por encima de una PS One.[NO]
+
+
+  Quiz s la parte menos atractiva para unos (me incluyo), pero perfecta para[IZQUIERDA]
+otros, es el de que este ordenador al estar pensado en ampliar (PC's), va a
+venir en formato torre, ocupando un espacio en casa, y quitando esa posibilidad
+de los antiguos equipos, cuyo tama¤o (el de un teclado PC), lo hac¡an id¢neo
+para llevar de vacaciones y enchufarlo a una TV. Pero desconozco, si tienen
+varias vertientes de venta, como se pretende con el [NO]CPC NG.[VERDEFOSFORITO]
+
+
+
+
+
+Tarjeta CPU[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Est  basada en un Z380 a 18 mhz. Es un micro de [BLANCO]32 bits[AZULCLARO] y[BLANCO]
+su  bus  de  datos  es de 16 bits. Posee las  funciones  de
+multiplicaci¢n y divisi¢n, tan en falta en la ‚poca cl sica
+(sumas). Y  permite  direccionar hasta  4  GB  lineales, es
+decir, est  pidiendo realizar demos para  esta  m quina. Se
+habla de poder soportar  hasta 100 mhz, pero  todo esto, es
+como en los PC's, a base de [BLANCO]overclocking.[VERDEFOSFORITO]
+
+
+
+  Tambi‚n se habla de una nueva BIOS y comandos BASIC extendidos.[BLANCO]
+
+
+
+
+
+Tarjeta VDP[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+ Ser  de la marca Texas Instruments.Y se a¤adir  una paleta
+de 16 bits de color, es decir, [BLANCO]64000 colores.[AMARILLO]
+ Tambi‚n habr  un procesador 3D y un procesador programable[BLANCO]
+para  tener  compatibilidad  con  las  tarjetas  viejas  de
+Yamaha.[AZULCLARO]
+
+
+  Estar   preparada para una ranura de 16 bits y funcionar [BLANCO]
+con un  reloj  propio, disponiendo de salida [BLANCO]SVGA[AMARILLO]. Pero eso[BLANCO]
+s¡,  no  se  dispone de salida SCART (Euroconector), aunque
+seg£n  dicen  en  la  p gina  web, tienen  el  conector  ya
+implementado.
+
+
+  La memoria de esta tarjeta ser  de 1 MB,y se dispondr  de
+resoluciones muy elevadas.
+
+
+
+
+
+Tarjeta serial[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Se incluye esta tarjeta para dar soporte al  puerto serie
+para rat¢n MSX.
+
+  Se incluye tambi‚n un mezclador est‚reo de sonido.
+
+  Consta de un Z80.
+
+
+
+
+
+Tarjeta de sonido[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Es un DSP, programable en lenguaje de alto nivel, capaz de emular la[IZQUIERDA]
+funcionalidad de diferentes procesadores.[NO]
+
+  Es de Texas, y procesa hasta 2 GIPS.
+
+
+
+
+
+Expansores de slots[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues consta de una tarjeta con varios slots:
+
+
+   - 4 de 8 bits[PC AMARILLO]
+   - 3 de 16 bis
+   - 1 de 32 bits con PDS
+
+
+  Se permite el uso de DMA, y permite una linealidad de 4 Mb. Todo esto unido a[IZQUIERDA PCT BLANCO]
+su gran velocidad, permitir¡a usar dispositivos DVD, seg£n dicen.[NO]
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues parece el paso decisivo de los 8 bits a los 32 bits, por parte de MSX.
+Hay que recordar, que el MSX es uno de los ordenadores, que m s marcas tuvo,[IZQUIERDA]
+incluyendo algunas:[NO]
+
+
+  CANON, SHARP, SONY, GOLDSTAR, PIOONER, PANASONIC, TELETON, YAMAHA, etc.[XM VERDEFOSFORITO]
+
+
+  Pero quiz s la m s destacada ha sido la espa¤ola DRAGON.[PCT BLANCO]
+
+  El destino le jug¢ una mala pasada, como le ocurri¢ a AMSTRAD y AMIGA, pero[IZQUIERDA]
+como no todo es para siempre, y no hay mal que por bien no venga, quiz s alg£n
+d¡a volvamos a ver al [NO]MSX[AMARILLO] compitiendo por la corona.[BLANCO]
+
+
+  Quiz s la parte que m s puede gustar, es la de poder ampliar el MSX hasta[IZQUIERDA]
+l¡mites incalculables. Adem s de esta forma, quiz s fabricantes de tarjetas
+espec¡ficas se puedan unir y desarrollarlas compatibles con MSX, y hasta se
+pueda tener un [BLANCO]GeFORCE FX[VERDEFOSFORITO] en un MSX. Pero volviendo a la TIERRA, esto puede[BLANCO]
+ser tambi‚n negativo, ya que tendr¡amos en cierta medida el CAOS que hab¡a
+antes en ordenadores, y el que hay en aceleradoras de PC's hoy, es decir, el
+est ndar.[NO]
+  As¡ unos apostar¡an por una aceleradora, y otros por otra.
+
+
+  Recordemos, que las consolas, como PSX, PS ONE, PS2, Game Cube, etc...,[IZQUIERDA]
+tienen un hardware fijo, y luego otros posibles cambios, pero peque¤os. Pero
+nunca poseen un cambio de tipo aceleradora gr fica y de sonido, ya que sino,
+ser¡a un CAOS como los [NO]PC's.[AZULCLARO]

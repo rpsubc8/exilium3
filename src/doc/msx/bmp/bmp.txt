@@ -1,0 +1,223 @@
+[FOTOS 3]
+FOTO_MSX_BMP1 PALETA_MSX_BMP1 60 1
+FOTO_MSX_BMP2 PALETA_MSX_BMP2 60 46
+FOTO_MSX_BMP3 PALETA_MSX_BMP3 60 173
+Pantallas de carga[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues como dije, al finalizar la revista, he conseguido un
+MSX HIT BIT HB-55P[AMARILLO]. Y claro, hay que darle ca¤a,y que mejor[BLANCO]
+que poner fotos, y a ser posible, de las guarras,  para ver
+si realmente estos equipos aguantan y pueden  equipararse a
+la pornograf¡a que hay en [BLANCO]INTERNES 8-D))).[AMARILLO]
+
+
+
+  Aunque no pueden superar a un PC con 24 bits de color o m s, superan con[IZQUIERDA BLANCO]
+creces a la EGA y VGA de los PC's tradicionales, que ya es bastante. As¡ que si
+se pueden ver chicas y chicos en bolas en una VGA, tambi‚n se puede en un MSX,
+aunque algo m s lento si no se tiene [NO]disquetera o similar.[AZULCLARO]
+
+
+
+  Esto me recuerda a las fotos de modelos del CPC 6128+, que eran[IZQUIERDA BLANCO]
+impresionantes. Las manga del C64, eran buenas, pero el CPC 6128+ le daba esa
+calidad de color, de alucine, aunque era a escala de grises. Se me olvid¢
+probarlo en cinta en el CPC 464+. En el 6128 se ve¡a peor, por no tener la
+paleta del Plus.[NO AZULCLARO]
+
+
+
+  Pero a lo que iba, que el MSX nos puede dar unas sorpresas, ya sea para[IZQUIERDA BLANCO]
+alegrar la vista, o bien para poder ver fotos t‚cnicas, o personales en ‚l. En
+definitiva, que har  que os tir‚is como locos a bajar del armario el MSX para
+poder ver [NO]MSX PORNO[AMARILLO], pero claro, se os caer  la baba, y se electrocutar  todo.[BLANCO]
+8-D))))[NO]
+
+
+
+
+
+
+
+Portadas[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues para hacer esas pantallas de carga de juegos, o para
+hacer nuevas , y ver la potencia gr fica del MSX, podemos o
+bien tirar de las herramientas que usaban los antiguos [BLANCO]GFX,[AMARILLO]
+o bien actuar como LAMERS, y tirar de utilidades para PC.[BLANCO]
+
+
+  En este caso, me confieso LAMER, y voy a tirar de TOOL
+(toolero).[AZULCLARO]
+
+
+  El MSX1,consta de una resoluci¢n de 256 x 192 p¡xeles con[BLANCO]
+16 colores, lo que nos da una resoluci¢n parecida a los 320
+x 200  p¡xeles  de  la  CGA con 4 colores. Pero m s bien se
+parece al modo 13h de la VGA  con 320 x 200 p¡xeles  y  [BLANCO]256[VERDEFOSFORITO]
+colores. Aunque tiene s¢lo 16 colores, gracias  a la TV, se[BLANCO]
+permiten difuminar e intensificar los colores,pareciendo de
+mejor calidad.
+
+
+  Cada vez que se cargaba un juego, una foto de m s o menos calidad aparec¡a[IZQUIERDA]
+en pantalla, alegr ndonos el d¡a en aquella ‚poca, pero eso s¡, aumentando el
+tiempo de carga a 1 minuto extra. Pero hab¡a fotos, que merec¡an la pena
+8-D))).[NO AMARILLO]
+
+
+  Pero a lo que vamos, que es tirar de dos herramientas:[BLANCO]
+
+
+   - BMP2MSX[PC AMARILLO]
+   - CONVER
+
+
+  La primera, convierte una foto BMP a Binario de MSX.[PCT BLANCO]
+  Y la segunda, convierte el binario de MSX a WAV, con cargador, para ser[IZQUIERDA]
+le¡do en el MSX con el comando:[NO]
+
+
+
+   run "cas:"[PC AMARILLO]
+
+
+  La informaci¢n aqu¡ reunida no es m¡a, en concreto lo he sacado de[IZQUIERDA PCT BLANCO]
+INTERNES, dejando s¢lo mi labor a probar que funciona en un MSX HIT BIT real.[NO]
+
+
+  Una vez sacado el paquete de BMP2MSX al disco duro, debemos de coger una[IZQUIERDA]
+imagen en BMP con resoluci¢n aproximada al MSX, y convertirla con las opciones
+que muestra la imagen adjunta, que son las siguientes:[NO]
+
+
+   1.- Screen 2/4[PC AMARILLO]
+   2.- Modo preview, para salvar la imagen a petici¢n nuestra
+   3.- La paleta debe aparecer como muestra la imagen
+   4.- Para que la paleta aparezca como en la foto, se debe pulsar en este
+       bot¢n
+   5.- Obliga a usar la paleta del MSX 1
+   6.- Para que la imagen ocupe toda la pantalla
+
+
+  El resto, es a vuestro gusto, pero con esto, sab‚is que funciona lo[IZQUIERDA PCT BLANCO]
+b sico. Una vez la imagen ha sido le¡da, se debe ir a la opci¢n de SAVE AS, y
+la guardamos con la extensi¢n .BIN, es decir, por ejemplo:[NO]
+
+
+   Ejemplo.bin[PC AMARILLO]
+
+
+  En el acto, tendremos nuestra imagen en formato binario de MSX, pudiendo[IZQUIERDA PCT BLANCO]
+ser usada en un emulador, o un MSX con unidad de disco.[NO]
+
+
+
+  Pero claro, el MSX1 que tengo, no tiene disco, as¡ que tengo que tirar de[IZQUIERDA]
+la utilidad CONVER, que una vez descomprimida, se puede ver que contiene un
+proceso por lotes, llamado CONVER.BAT. Este archivo se encarga de llamar por
+debajo a las herramientas de trabajo de WAV's del MSX, introduci‚ndonos el
+cargador de im genes. Debemos escribir:[NO]
+
+
+
+   conver ejemplo[PC AMARILLO]
+
+
+
+  En el acto, se generar  un EJEMPLO_imagen_final.wav, que contiene todo lo[IZQUIERDA PCT BLANCO]
+necesario para leer la imagen en el MSX con la orden:[NO]
+
+
+   run "cas:"[PC AMARILLO]
+
+
+
+  Y d ndole al WINAMP este archivo.[PCT BLANCO]
+
+  Estas herramientas, a¤aden 4 segundos al principio, del cargador en BASIC,[IZQUIERDA]
+as¡ como otros 4 segundos de un programa en ensamblador para mostrar la imagen,
+que se carga con BLOAD. Esto es as¡, porque la versi¢n de MSX sin disco, no
+posee la opci¢n:[NO]
+
+
+
+   BLOAD"imagen.bin",S[PC AMARILLO]
+
+
+  Que permitir¡a enviar una imagen directamente a pantalla.[PCT BLANCO]
+
+  Eso s¡, al cabo de 1 minuto y 20 segundos, la foto se habr  cargado en[IZQUIERDA]
+pantalla. El cargador es un programa en BASIC que repite un bucle de carga de
+im genes con BLOAD. As¡ que pod‚is ir metiendo los WAV's con las fotos uno
+detr s de otro, ya que los ir  [NO]cargando.[AMARILLO]
+
+  Por defecto, el CONVER.BAT nos pone la extensi¢n .BIN, tal y como se ve[IZQUIERDA BLANCO]
+por el uso de variables %1. Por tanto, no a¤ad is la extensi¢n, ya que sino,
+buscar  otro archivo.[NO]
+
+
+  En la imagen de al principio del art¡culo se encuentran unas fotos MANGA[IZQUIERDA]
+convertidas al MSX y capturadas por mi MSX1 desde la sintonizadora de TV. Estas
+fotos las he cogido de INTERNES, p gina web de Angel Manuel G¢mez Garc¡a, de
+donde consegu¡ el resto de utilidades.[NO]
+
+
+  Pero como se puede ver, la calidad es alta, y de hecho recomiendo que lo[IZQUIERDA]
+prob‚is en un MSX real, ya que el emulata no lo saca con la misma calidad.[NO]
+
+
+   Adem s  me  he permitido  el  gusto de probar con varias
+fotos, dando unos buenos resultados, como se puede ver  con
+una foto  m¡a, de Scully, de un [BLANCO]OVNI[AZULCLARO] , una chica del  Corel[BLANCO]
+Print Office original, una foto pixelada de la Euskal Party
+11, y una foto de Bradd Pitt.
+
+
+  Algunas fotos,no se han podido leer bien, y hay fotos que
+se ven  mucho  mejor que otras. Pero eso s¡, no os fi‚is de
+c¢mo se ve la  foto en la herramienta BMP2MSX, ya que se ve
+mucho peor que en el [BLANCO]MSX1 original.[AMARILLO]
+
+
+  As¡ que suerte con vuestras fotos, y haced una buena colecci¢n para meter[IZQUIERDA BLANCO]
+en un CD con cable b¡fido por los dos canales, ya que nos da:[NO]
+
+
+   70 minutos de CD / 80 segundos por foto = 52 fotos[PC AMARILLO]
+   52 fotos x 2 canales de sonido = 104 fotos
+
+
+  Y eso con cargas a 2400 baudios, y con cargador incluido. Si intentamos[IZQUIERDA PCT BLANCO]
+subir la velocidad con el pitch, y dejamos s¢lo la imagen, nos dar n muchas m s
+fotos. Ideal para hacer un CD de fotos para colecci¢n de MSX.[NO]
+
+
+  A su vez, esta foto se puede comprimir con alguna utilidad, pasando de los[IZQUIERDA]
+80 segundos (1 minuto 20 segundos) de carga a tan s¢lo 55 segundos, lo que nos
+permite:[NO]
+
+
+   70 minutos de CD / 55 segundos por foto = 76 fotos[PC AMARILLO]
+   76 fotos x 2 canales de sonido = 152 fotos
+
+
+  Es decir, tenemos 48 fotos extras, y si a¤adimos hasta 74 minutos de CD,[IZQUIERDA PCT BLANCO]
+m s todav¡a. Si usamos 90 minutos de cinta, no hace falta que os diga la
+cantidad de pornograf¡a que pod‚is meter (196 fotos). 8-D))))[NO]
+
+
+  Y si a¤adimos velocidades no est ndar, como 2800 baudios o 3000 baudios,[IZQUIERDA]
+la cosa mejora un poco m s, permitiendo meter alguna foto extra, d ndonos en 90
+minutos, las queridas 200 fotos, es decir, todo un PACK completo. 8-D))[NO]
+
+
+  As¡ que seguid trabajando con vuestro MSX, y probad hasta donde puede[IZQUIERDA]
+llegar, sin que se os salgan los ojos.[NO]
