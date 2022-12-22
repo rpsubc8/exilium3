@@ -1,0 +1,276 @@
+[FOTOS 4]
+FOTO_REUNION_JORNADAS1 PALETA_REUNION_JORNADAS1 66 6
+FOTO_REUNION_JORNADAS2 PALETA_REUNION_JORNADAS2 54 87
+FOTO_REUNION_JORNADAS3 PALETA_REUNION_JORNADAS3 54 120
+FOTO_REUNION_JORNADAS4 PALETA_REUNION_JORNADAS4 54 185
+Jornadas GNU en Asturias[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues  el  d¡a 17 y  18 de Marzo del 2003, se celebraron las III
+Jornadas de  Software  Libre  en  nuestra   querida tierra  natal
+(Asturias), y nuestro grupo SLIDERS, decidi¢ asistir , tal y como
+sucedi¢ en las primeras jornadas.
+
+
+  Esta vez,el lugar para celebrarlas, no fue el de la Universidad
+de  Inform tica  (Gracias  a  Dios) , sino  que  se celebr¢ en el
+Auditorio Pr¡ncipe Felipe de Oviedo, lo que se agradece , ya  que
+dispone de un sitio mucho m s elegante y acomodado.
+
+
+  Y ahora es cuando viene el programa de las conferencias:
+
+
+  Lunes 17[PC AMARILLO]
+  ---------
+
+   Sesi¢n 1. Aspectos T‚cnicos
+   ----------------------------
+
+    9:00 - 9:30  --> Registro y retirada de documentaci¢n[GRIS]
+    9:30 - 10:00 --> Inauguraci¢n (L.A. Rodr¡guez presidente de AsturLinux)
+   10:10 - 11:00 --> Introducci¢n: Linux, Knoppix, las capacidades de Linux
+                     (D.Rodr¡guez, miembro de AsturLinux)
+   11:10 - 12:00 --> Linux en ordenadores de bolsillo (J.Manrique, miembro de
+                     AsturLinux)
+   12:10 - 13:00 --> Herramientas de trabajo colaborativo: Bugzilla, CVS y Wiki
+                     (D.Berrueta, miembro de AsturLinux)
+   13:10 - 14:00 --> Clustering en Linux (L.Campal, miembro de CoALA)
+
+
+   Sesi¢n 2. Software Libre y Sociedad[AMARILLO]
+   ------------------------------------
+
+   16:00 - 17:50 --> Patentes de software (J.G.Barahona, profesor de la[GRIS]
+                     Universidad Rey Juan Carlos I)
+   18:00 - 18:50 --> TCPA/Paladium: criptograf¡a en el microprocesador (J.C.
+                     P‚rez, miembro de AsturLinux)
+   19:00 - 19:50 --> Redes inal mbricas libres y Asturias-Wireless (D.Garc¡a,
+                     miembro de Asturias-Wireless)
+
+
+  Martes 18[AMARILLO]
+  ----------
+
+   Sesi¢n 3. Experiencias con el software Libre
+   ---------------------------------------------
+
+   10:00 - 10:50 --> Experiencias con GNU/Linux en la empresa (J.M. Guis sola,[GRIS]
+                     de CMSI2002)
+   11:00 -11:50 --> GNOME 2.2: acercando Linux al Usuario (J.Dapena, Igalia)
+   12:00 - 12:50 --> Redes privadas virtuales (P.Ruibal)
+   13:00 - 14:00 --> Mesa redonda, lectura de conclusiones y clausura.
+                     Participantes:
+                      - L.A.Rodr¡guez, presidente de AsturLinux
+                      - J:M.Guisasola, de CMSI2002
+                      - A.A.Juan Fuente, Decano del Colegio de Ingenieros
+                        Inform ticos Superiores del Principado de Asturias.
+                      - J.Dapena, de Igalia
+                      - L.Joyanes Aguilar, catedr tico de la Universidad
+                        Pontifica de Salamanca.
+
+
+
+  Adem s, hay que destacar que la asistencia a las jornadas era libre y[PCT IZQUIERDA BLANCO]
+gratuita, pero para poder recibir el Certificado de Asistencia, que otorga la
+Universidad de Oviedo, era necesaria la reserva previa de plaza e inscripci¢n.[NO]
+  No obstante, en las propias jornadas, se pod¡a uno inscribir. Adem s, para[IZQUIERDA]
+poder recibir el certificado, hab¡a que asistir a al menos, 2 de las 3 sesiones
+totales, que en nuestro caso, no hubo problema, ya que asistimos a las 3[NO]
+completas.
+
+  Para m s informaci¢n, se puede consultar la p gina web:
+
+       http://asturlinux.org/jornadas[XM VERDEFOSFORITO]
+
+
+
+
+
+Opinion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ,  hay  que reconocer que las jornadas estaban
+curradas  por  parte  de  la organizaci¢n ,  y que la
+asistencia de gente fue muy elevada , en  concreto en
+los peri¢dicos se habla de m s  de  2500  visitantes,
+pero en la realidad, son m s de 400. No obstante , la
+cifra es muy alta, para estos casos. Es decir,o mucha
+gente est  interesada en la  inform tica  y  software
+Libre , o  muchos quer¡an  el  certificado firmado de
+asistencia a las jornadas.
+
+
+  La verdad, que me encontr‚ con muchos amigos, de distintos  mbitos, como con[IZQUIERDA]
+gente de empresariales, de qu¡mica, industriales, e incluso con gente de los
+institutos, y con inform ticos ya licenciados. Es decir, hab¡a muchas
+variedades, y eso s¢lo hablando de los que yo conozco. Sin embargo,
+predominaban m s alumnos de la universidad de inform tica.[NO]
+
+
+  Y tal es el caso, del gusto por estas Jornadas, que JJ se ha apuntado a[IZQUIERDA]
+AsturLinux, que son los que organizan estas Jornadas, y dem s eventos, para
+poder introducir el mundo del GNU en Asturias.[NO]
+
+
+  Algo que era interesante, era ver la distribuci¢n Knoppix de Linux arrancar[IZQUIERDA]
+desde CD, para as¡ adentrar a la gente en el mundo de LINUX, sin temores,ya que
+salvo los intentos de RED-HAT, MANDRAKE, COREL LINUX, WINLINUX y SUSE, muy
+pocas distribuciones estaban hechas para torpes, con miedo de estropear algo.[NO]
+
+
+  Otra  conferencia  interesante era la de  Linux  en
+ordenadores de bolsillo, en concreto en PDA's, ya que
+es  un tema que cada vez se hace m s eco , aunque  la
+idea  de  los ordenadores de bolsillo ya data de hace
+muchos a¤os, como se explic¢ en la conferencia.Adem s
+el  ponente  D.Rodr¡guez ,  trajo  varios  de   estos
+legendarios dispositivos, para poder mostrarlos,tanto
+nuevos, como antiguos. Se expuso como  poder  flasear
+los PDA's nuevos, para no tener Windows CE, y pasar a
+Linux, y muchas m s cosas interesantes,como que en la
+universidad  se  cambiase  la  opci¢n  de  coger  una
+calculadora HP  programable (dotada de un Z80) por un
+PDA , que  al  final salen al mismo precio. Adem s se
+expuso  una  serie  de  herramientas  y  compiladores
+cruzados para poder usar con nuestro PC y LINUX,y as¡
+convertir programas al PDA, pero a nivel  t‚cnico sin
+entrar en detalles pr cticos.[NO]
+
+
+  En cuanto a lo de Bugzilla, CVS y Wiki, fue una conferencia un poco pesadilla[IZQUIERDA]
+(sobre todo para la gente con la que estaba al lado), pero no por eso dejaba de
+ser interesante, sobre todo lo de las p ginas editables Wiki.[NO]
+
+
+  La conferencia de Clustering en Linux, aunque por el nombre era interesante,[IZQUIERDA]
+quiz s nuestro grupo esperaba ver un aut‚ntico Cluster de pruebas,pero fue todo
+m s bien a nivel t‚cnico, sin entrar mucho en detalle, y usando scripting.[NO]
+
+
+  En cuanto a las patentes de software, aunque muchas personas con las que me[IZQUIERDA]
+encontr‚ me dijeron que era interesante, nosotros las consideramos como una
+charla de las que da Negroponte, es decir, mucha paja, y nada por el campo. La
+verdad que 2 horas para poder explicar algo tan sencillo como son las patentes
+y el peligro que tienen, me parece un poco terrible, al estilo, de que te
+preguntan tu nombre y apellido, y tardes 3 minutos en decirlo.[NO]
+  Eso s¡, nos entregaron un mini-documento, de la Campa¤a contra las patentes[IZQUIERDA]
+de software, para ir introduci‚ndonos en el tema, ya que lo que se expon¡a en
+‚l, era lo mismo que la conferencia. A algunos, les interes¢ tanto la
+conferencia, que incluso preguntaron algunas de las patentes que existen,
+explicando la t¡pica del algoritmo del XOR de ocultaci¢n del rat¢n, y alg£n
+que otro bucle. En definitiva, que si vamos a INTERNET, las encontramos con m s
+informaci¢n.[NO]
+  Digamos que las patentes son un peligro, pero hay otros mayores que nos[IZQUIERDA]
+acechan, y no se dice nada, pero que se puede decir, si las MASONERIAS existen
+desde los or¡genes de la humanidad.[NO]
+
+
+  Una conferencia que aunque no ten¡a mucha asistencia, si produjo gran[IZQUIERDA]
+expectaci¢n, fue la del TCPA/Paladium, cuyo exponente explicaba, como se
+pretende crear dos vertientes, una hardware y otra software, para poder
+autentificar todo, de tal forma, que se va a llegar a construir un ordenata
+hardware, que autentifica todo, impidiendo por ejemplo, que podamos ampliarle
+la memoria sin permiso, ya que el propio hardware, detectar¡a que posee m s
+memoria, no autorizada. Pero tal es el punto, que llevado a la secci¢n de ver
+pel¡culas y mirar correo o p ginas web, se podr¡a impedir que una persona, v¡a
+hardware pudiese ver algo, ya que se autentificar¡a, y eso no existir¡a para
+‚l. Es decir, si nosotros no vemos algo, no protestaremos, ya que para nosotros
+no existe. Deja planteado m s preguntas filos¢ficas que inform ticas, aunque
+dudo mucho que se imponga. Pero bueno, al igual que esta historia, existen
+muchas m s, como la de la licencia de programador o de lector de libros, que
+si llegasen a cumplirse, estar¡amos condenados a la inexistencia y
+analfabetismo digital.[NO]
+
+
+   En  cuanto  a  las redes  inal mbricas  libres  en
+Asturias , se  coment¢ como se montaba una , as¡ como
+los materiales necesarios , tanto hardware (tarjetas,
+cable, antenas, repetidores) , como  software (S.O.),
+dici‚ndonos como poder usar estas redes con LINUX. Se
+explic¢  tambi‚n las frecuencias de uso (2 GHZ) , as¡
+como  las  potencias  de consumo (10 MW), pero no las
+radiadas. En concreto esta parte, as¡ como el peligro
+de  este  sistema de comunicaci¢n para la  salud , se
+salto muy por encima, pero que gracias a DIOS,algunos
+intervinieron, con preguntas, que a modo de broma, se
+dijo , que  un m¢vil sobre la  cabeza de una persona,
+sub¡a 1§ C la temperatura, si se ten¡a durante varias
+horas, lo mismo que si nos daba el SOL en la cara.
+  Como radioaficionados, queremos dejar claro, que no
+compartimos las opiniones de esta conferencia, ya que
+es un tema serio, y el espectro radioel‚ctrico, es de
+todos y de nadie, ya que pertenece al aire.
+  Hay que recordar, que a estas frecuencias, el peligro para la salud no est [IZQUIERDA]
+demostrado, y que lo peligroso no es recibir se¤ales, sino transmitirlas de
+forma no controlada. Ya que un nodo emitiendo unas tramas durante unos
+segundos, no es lo mismo que durante las 24 horas, sobre la ventana de nuestro
+vecino mientras come, sin que ‚ste tenga Wireless, ni lo haya pedido. Por lo
+que podr  provocarle alg£n tipo de anomal¡as, sobre todo si la antena no es
+perfecta, la etapa final no est  adaptada, etc... Los radioaficionados, sabemos
+adaptar nuestros equipos, pero los que usan Wireless, son newbies, que no se
+preocupan de ello.[NO]
+
+
+  En cuanto a las experiencias con GNU/Linux en la empresa, m s que un ejemplo,[IZQUIERDA]
+parec¡a que se quer¡a vender la moto, es decir, que se quer¡a vender la empresa
+a los que estaban en la conferencia. Se nombr¢ incluso software comercial
+(emuladores) que se estaban usando, pero de forma an¢nima. No obstante, no
+dejaba de ser una conferencia interesante para este mundo.[NO]
+
+
+  La conferencia de GNOME 2.2, era quiz s la m s esperada por el grupo.[IZQUIERDA]
+Lamentablemente, se mostr¢ muy poco visualmente sobre el GNOME, es decir, fue
+todo m s bien t‚cnico, pero sin decir mucha miga para desarrollar aplicaciones
+para GTK y Bongo. Eso s¡, se nombr¢ al Espa¤ol Miguel de Icaza, que trabaja en
+el desarrollo de GNOME, y dem s cosas que eran interesantes, como lo que se
+trabajo para poder conseguir el GNOME m s estable que en sus versiones
+anteriores, as¡ como la reducci¢n del consumo de recursos.[NO]
+
+
+  La secci¢n de Redes privadas virtuales, nosotros nos esper bamos algo m s[IZQUIERDA]
+llamativo, pero eso no quitaba su utilidad, como ejemplo de uso de LINUX y GNU
+para crear una red privada virtual entre las sucursales del banco y dem s. Se
+hac¡a todo a trav‚s de INTERNET y estilo WEBER. Nosotros nos esper bamos una
+especie de protocolo de red nuevo, o as¡. Con P. Ruibal lo conocimos en las
+Jornadas, y es una persona muy simp tica y conocedora de la materia.[NO]
+
+
+  Y en la secci¢n de la Mesa Redonda, fue cuando lleg¢ la pol‚mica, sobre todo[IZQUIERDA]
+de la mano de la facultad de inform tica, con la mano de un profesor,ya que con
+piel de cordero, segu¡a siendo un lobo. Empez¢ a soltar unas sugerencias, como:[NO]
+
+  - Software Libre controlado por alguna instituci¢n o algo similar.[PC GRIS]
+  - El software libre esta muy bien, pero somos ingenieros, y hay que pensar en
+    ganar dinero.
+  - Hay que apoyar el GNU, pero no s¢lo a LINUX.
+
+  Tambi‚n dijo m s cosas, pero carecen de inter‚s. De las dos primeras[PCT BLANCO IZQUIERDA]
+sugerencias, es a gusto del consumidor. El GNU no es una secta,sino una opci¢n,
+a diferencia del Software Comercial (hay que lamer B). En cuanto a la segunda
+opci¢n, es cierto, que en las jornadas, se habl¢ siempre de LINUX, y en muy
+raras excepciones, se nombr¢ las GTK para WINDOWS, y dem s. Debemos recordar,
+que hay otros S.O. que se basan en el GNU, como:[NO]
+
+    Menuet, Open BeOS, Ateos, TheOS, Blue OS, FreeDOS, etc...[PC GRIS]
+
+  As¡ como software GNU para WINDOWS, y dem s, como:[PCT BLANCO]
+
+    GIMP, GTK, CDRECORDS, VirtualDUB, GCC, FreePASCAL, etc...[PC GRIS]
+
+  Por tanto, debemos defender ante todo el GNU, y luego si nos gusta m s una[PCT BLANCO IZQUIERDA]
+cosa u otra, pues lo decimos, pero ante todo el GNU, ya sea WINDOWS, LINUX,
+BeOS, QNX, DOS, MAC OS, AMIGA, ATARI, SUN, SILLICON, CRAY, etc...[NO]
+  Debemos respetar y defender los or¡genes de la FSF (Free Software Fundation)[IZQUIERDA]
+de Richard Stallman.[NO]
+
+
+  Y esto es el resumen de lo que paso en las III Jornadas de Software Libre en[IZQUIERDA]
+Asturias. Hay que recordar, que esto es s¢lo una opini¢n personal, y que habr 
+personas que estar n de acuerdo y otras que no. Sin embargo, desde aqu¡ se
+anima al GNU de Asturias, para que demuestre lo que vale, y que haya unas
+futuras IV jornadas de Software Libre.[NO]
