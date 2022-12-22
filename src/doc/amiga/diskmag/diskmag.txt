@@ -1,0 +1,135 @@
+[FOTOS 3]
+FOTO_AMIGA_DISKMAG1 PALETA_AMIGA_DISKMAG1 60 22
+FOTO_AMIGA_DISKMAG2 PALETA_AMIGA_DISKMAG2 60 64
+FOTO_AMIGA_DISKMAG3 PALETA_AMIGA_DISKMAG3 60 91
+Diskmags en AMIGA[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Aunque se que existen una burrada de Diskmags de AMIGA modernas, he decidido[IZQUIERDA]
+empezar por lo m s viejo, para darle un tributo y una manera de reflexi¢n a la
+scene. Pero al final del art¡culo, he puesto diskmags nuevas.[NO]
+
+
+  Para ello, empezar‚ por la siguiente DISKMAG:
+
+
+
+
+
+Hack Mag[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues lamentablemente,era tremenda,pero acab¢ en su n£mero
+7 (una l stima). Sus art¡culos eran incre¡bles, y alguno de
+ellos,aunque no llego a convertirse en  lo que se esperaba,
+pueden  pertenecer perfectamente a un  futuro cercano o  no
+muy lejano.[AMARILLO]
+
+
+  La diskmag  comienza con una canci¢n muy agradable, y una[BLANCO]
+vez  nos muestra un  leeme, tendremos que esperar a que  se
+descompriman todos los art¡culos. En total, llega a las 322
+p ginas, todo un libro, y no  una revista de esas de hoy en
+d¡a [BLANCO](Basura Actual y KK Mania).[AMARILLO]
+
+
+
+  Los temas que trata, aunque son m s, se exponen aqu¡:[BLANCO]
+
+
+   - La historia de Kraftwerk[PC AMARILLO]
+   - Una historia curiosa
+   - Reportaje de Chris Rea Streel
+   - Reportaje del Amiga'91
+   - Novedades Amiga'91
+   - Reportaje scener Amiga'91
+   - Especial Sysops
+   - Fractal de Corner
+   - Hack-Mag en TV
+   - Opinion del DPaint IV (Deluxe Paint)
+   - Programaci¢n
+   - 3M una nueva generaci¢n de discos.
+
+  Todo incre¡ble, pero lo mejor es que esta diskmag data de 1991. Por tanto,[IZQUIERDA PCT BLANCO]
+compar ndolas con las de PC en aquella ‚poca, las tumba a todas. Lo que m s me
+gusta es su estilo relajado de la m£sica, id¢neo para leer.[NO]
+
+
+
+
+
+Las que fallan[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+ Hay una serie de diskmags,las cuales cascan en el emulador
+que he probado (WINUAE). He probado varias configuraciones,
+e incluso he cambiado de emulata, prob ndolo en [BLANCO]LINUX, BeOS[AMARILLO]
+y DOS[AMARILLO], pero nada.[BLANCO]
+
+
+  En  concreto , la  diskmag  que  tan s¢lo  carga la COVER
+(portada) es la ICE, tal y como se muestra al principio del
+r¢tulo  de  este  art¡culo. Los  n£meros  atrasados de [BLANCO]ICE,[AMARILLO]
+cascan tambi‚n en alg£n momento, incluso cambiando de CPU a[BLANCO]
+emular y chipset.
+
+
+  La ADCMC, no se libra tampoco,aunque la demo del principio la carga y ejecuta[IZQUIERDA]
+perfectamente. Y la Zine, de la cual hicieron 8 n£meros, tampoco se libra,
+mostrando el COVER, para m s tarde dar un GURU MEDITATION.[NO]
+
+
+
+
+
+Diskmag Nueva[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues a parte de  la  Jurassic Pack, tenemos  una  reci‚n
+salidita del horno. Su nombre es Saxonia, y funciona en un
+AMIGA 500, tal y como lo ha programado su creador , ya que
+dice  que  no  se  necesita  m s  hardware  para  leer los
+art¡culos de una [BLANCO]diskmag.[AZULCLARO]
+
+
+  Su editor es [BLANCO]Rumrunner/VOID[VERDEFOSFORITO], y le ha puesto muchas ganas[BLANCO]
+en este trabajo, que por cierto, es muy bueno.
+  Su tama¤o es de 116 KB, es decir, bastante peque¤a,por lo
+que podremos  llevarla  en  cualquier disquete que tengamos
+a mano.
+
+  Viene comprimido en formato LHA, por lo que habr  que descomprimirlo con la[IZQUIERDA]
+utilidad correspondiente, ya sea en un AMIGA real o en un emulador. Si tenemos
+PC y el WINACE, todo estar  tirado.[NO]
+
+  Desde el emulador, tendremos que crear un disco duro, que apunte al[IZQUIERDA]
+directorio donde hemos descomprimido la diskmag. Igual tenemos que meterlo
+dentro de un subdirectorio para que nos lo [NO]detecte.[AMARILLO]
+
+
+  Y una vez arrancado el emulata, desde el AMIGA DOS, debemos de jecutar[IZQUIERDA BLANCO]
+saxonia, y todo acabado.[NO]
+
+  La m£sica es la t¡pica AMIGUERA, y aunque no tenga gran cantidad de im genes,[IZQUIERDA]
+si tiene buenos art¡culos. La forma de navegar, es:[NO]
+
+
+  Cursores arriba y abajo -->[AMARILLO PC] scroll dentro del art¡culo[GRIS]
+  Cursores izquierda y derecha -->[AMARILLO] siguiente y anterior art¡culo[GRIS]
+
+
+  Posee entrevistas, programaci¢n en ensamblador de motorola, programaci¢n de[IZQUIERDA PCT BLANCO]
+interrupciones en AMIGA, modos de video planares, Tacker music en PC,
+impresoras en AMIGA, reportajes de parties y una burrada [NO]m s de art¡culos.[AMARILLO]
+
+
+  Desde Exilium se les desea que lleguen a m s n£meros y creen una gran escuela[IZQUIERDA BLANCO]
+de sceners de AMIGA.[NO]
