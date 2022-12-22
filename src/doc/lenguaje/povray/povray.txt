@@ -1,0 +1,170 @@
+[FOTOS 1]
+FOTO_LENGUAJE_POVRAY PALETA_LENGUAJE_POVRAY 60 2
+POVRAY[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues ,  ya ha salido la versi¢n 3.5 de POVRAY, tanto para
+WIN32 ,  como  para  LINUX. Por  supuesto , la versi¢n para
+WINDOWS, la pod‚is encontrar en el CDROM de [BLANCO]GNU-WIN.[AMARILLO]
+
+
+  Para los amantes del POVRAY , la £nica pega que se  puede[BLANCO]
+decir, es que ya hace un poco de tiempo que la versi¢n para
+DOS, ha sido abandonada. Pero como  se  dispone  del c¢digo
+fuente, siempre se puede adaptar. As¡ que habr  que esperar
+a que alguien se decida. Es una l stima, ya que aunque se requer¡a editar los[IZQUIERDA]
+INI, y lanzar desde l¡nea de comandos, el RENDER se pod¡a incluso hacer en un
+8086 (en sus primeras versiones), o en un 80386 con 4 MB de RAM y sin
+coprocesador.[NO AMARILLO]
+
+
+  Es decir, que al precio que tienen los 80386 hoy en d¡a, pod¡amos montar una[IZQUIERDA BLANCO]
+granja de renderizado a un coste de risa.[NO]
+
+
+
+  La versi¢n para BeOS, no viene para descargar todav¡a, pero yo he probado[IZQUIERDA]
+versiones antiguas para BeOS y funcionan, eso s¡, desde modo terminal, pero con
+salida en ventana gr fica. Ideal para tener varias m quinas distintas, y probar
+cu l es m s [NO]eficiente.[AZULCLARO]
+
+
+
+  Para el que no sepa que es el POVRAY, decir que significa Persistence Of[IZQUIERDA BLANCO]
+Vision Raytracer, es decir,un lenguaje de programaci¢n esc‚nico con trazador de
+rayos, en definitiva,una lenguaje para grafistas 3D, a diferencia del 3D Studio
+MAX y otros que alardean de serlo. Esto nos permite generar toda una escena 3D
+con l¡neas de c¢digo, as¡ como incluir objetos poligonales de forma
+tradicional.[NO]
+
+  No hace falta decir, que su trazador de rayos es muy potente, permitiendo[IZQUIERDA]
+generar esferas, reflejos y luces casi perfectos, a diferencia de otros
+trazadores, como el RENDERMAN, ya que los objetos 3D del POVRAY suelen ser
+generados mediante f¢rmulas, y no mediante pol¡gonos, al estilo de la vida
+real.[NO]
+
+
+
+  Tambi‚n son de gran calidad las texturas fractales, as¡ como algunas que[IZQUIERDA]
+trae de serie. Y por supuesto, lo mejor es el RADIOSITY, aunque por supuesto,
+har  que el tiempo de RENDER se eleve mucho.[NO]
+
+
+
+
+
+
+Ejemplo[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues para poder hacer un ejemplo, necesitaremos el POVRAY para WIN32, por[IZQUIERDA]
+ejemplo. Para editar el c¢digo, que viene en formato ASCII, se puede tirar de
+un editor tradicional, o bien del que viene con POVRAY, que permite colorear
+los comandos de sintaxis, alegr ndonos la vida.[NO]
+
+
+  Para los que no lo sepan, el c¢digo de POVRAY se asemeja al OpenGL, ya que[IZQUIERDA]
+ambos est n destinados para que las 3D se entiendan f cilmente. No obstante
+cambia la sintaxis, ya que las OpenGL est n pensadas para programar en C. Pero
+ambas apilan los objetos en una pila, y trabajan con reales (flotantes), as¡
+como permite aplicar matrices de rotaci¢n, posicionamiento y dem s.[NO]
+
+
+
+  As¡ que vamos a poner un peque¤o, pero efectivo ejemplo de mostrar un cubo:
+
+
+
+   global_settings { assumed_gamma 2.2 }[PC AMARILLO]
+
+   camera {
+      location  <0, 0, -8>
+      direction <0, 0, 1.2071>
+      look_at   <0, 0, 0>
+   }
+
+
+   box { <-1.0, 1.0, -1.0>, <1.0, -1.0, 1.0>
+       finish {
+          ambient 0.2
+          diffuse 0.8
+       }
+       pigment { color red 0.1 green 1 blue 1 }
+
+       rotate <-20, 30, 0>
+   }
+
+   light_source { <-5, 7, -20> color red 1 green 1 blue 1 }
+
+
+
+  Como se puede apreciar la primera l¡nea de c¢digo es para la correcci¢n GAMMA[IZQUIERDA PCT BLANCO]
+de la escena. Al igual que el 3D Studio MAX permite definir c maras, aqu¡ se
+define una, con una determina localizaci¢n, direcci¢n y punto de vista.[NO]
+
+
+  En cuanto al objeto de la caja, se define con la sintaxis:
+
+
+   BOX[PC AMARILLO]
+
+
+
+  En donde se define las coordenadas (X,Y,Z) de origen y las de destino. Como[IZQUIERDA PCT BLANCO]
+coment‚, se asemeja a las OpenGL, por lo que la c mara defin¡a el eje central
+(X,Y,Z), y el objeto BOX se pone en ‚l, de ah¡ que las coordenadas con valor
+negativo vayan a la parte izquierda del eje, y las positivas, al [NO]derecho.[AZULCLARO]
+
+  En cuanto a los valores del BOX (caja), son el color (pigment). Tambi‚n se[IZQUIERDA BLANCO]
+podr¡a a¤adir textura (texture).[NO]
+
+  El valor FINISH, es para decir como le afecta la luz reflejada, que en este[IZQUIERDA]
+caso se ha especificado la luz ambiente (global a la escena).[NO]
+
+
+  Posteriormente, se ha rotado la caja 20§ en la coordenada X, 30 § en la Y, y[IZQUIERDA]
+la Z se ha dejado como est . Pod‚is cambiar estos valores, y ver‚is como gira
+el [NO]cubo.[AMARILLO]
+
+
+  Por £ltimo se ha definido la luz de la escena, es decir, el foco que da luz a[IZQUIERDA BLANCO]
+nuestra escena, algo as¡ como el SOL en la vida real. Los valores que van entre
+< , , > es la posici¢n de la luz, respecto a la c mara que hemos definido, y el
+color ha puesto al valor m ximo la componente ROJO, VERDE y AZUL, es decir, se
+ha permitido una luz blanca.[NO]
+
+
+
+  Y ahora, s¢lo queda configurar la resoluci¢n de pantalla, as¡ como darle[IZQUIERDA]
+al RUN (ALT + G), y en el acto nos saldr  la caja.[NO]
+
+
+  Con esto, se ha acabado una peque¤a introducci¢n al POVRAY. As¡ que a probar[IZQUIERDA]
+cosas. Aunque algunas escenas son simples, se han llegado a realizar verdaderas
+obras de arte, superiores a herramientas m s interactivas, ya que la potencia
+del POVRAY radica en la posibilidad del lenguaje (script). As¡, si queremos
+crear una escena de un bosque con 1000  rboles en un programa como el 3D
+Studio MAX o similares, deberemos definir un  rbol a golpe de rat¢n, y luego ir
+copi ndolo y peg ndolo, sucesivamente. En POVRAY, esto no es as¡, ya que s¢lo
+hay que crear un  rbol, y mediante un FOR, se ponen los 1000 o 10000  rboles
+que queramos. Por supuesto, el tiempo de RENDER, aumentar , tanto en el MAX
+como en el [NO]POVRAY.[AMARILLO]
+
+
+
+  Otra ventaja que tiene el POVRAY frente al MAX, MAYA, LIGHTWAVE o el[IZQUIERDA BLANCO]
+SOFTIMAGE, es que al estar pensado para personas que saben programar, y que
+tienen conocimientos en 3D, se puede hacer juegos, usando los modelos
+renderizados. Mientras que si tiramos de las otras herramientas, necesitaremos
+de un grafista especializado, as¡ como el pago de una licencia por programa,
+que much¡simas veces no paga el dinero que se va a sacar de beneficio. Por
+supuesto, el POVRAY est  pensado para una salida en pantalla de ordenador,
+igual que el GIMP para GFX 2D, mientras que los dem s, est n pensados para
+postproducci¢n de video, como el CINE. As¡ que a usar POVRAY, que aunque no
+es GNU, si es gratis, y se dispone del c¢digo fuente para los estudiantes.[NO]

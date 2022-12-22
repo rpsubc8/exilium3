@@ -1,0 +1,203 @@
+[FOTOS 0]
+Dr-DOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Muchos de vosotros,sobre todo los nuevos inform ticos y sceners,ya no sabr‚is[IZQUIERDA]
+ni lo que es el DOS, es m s creer‚is que el DOS, es el MSDOS (que triste). Sin
+embargo, gente como yo, que nos criamos con ordenatas de 8 bits, sabemos lo que
+es, e incluso sabemos lo que es trabajar sin S.O. (‚poca dorada, y cada vez m s
+extinta).[NO]
+
+
+  Pues el MSDOS, est  claro, que no s¢lo se est  muriendo, sino que desde el[IZQUIERDA]
+1995, posee una cl usula que lo condena al olvido por parte de Microsoft,
+gracias a su pol¡tica de Windows 9x. Pero teniendo en cuenta que Microsoft
+compr¢ el DOS, los de fuera saben m s que la [NO]compa¤¡a.[AMARILLO]
+
+
+  Este es el caso de Dr-DOS, de Digital Research, que desde sus or¡genes,[IZQUIERDA BLANCO]
+superaba con creces al MSDOS 3.12, y dem s. Comparado con el DOS PLUS, era
+cuesti¢n de probarlo a fondo, pero con los anteriores, no hab¡a dudas.[NO]
+Actualmente posee su versi¢n 7.03 con soporte de FAT32, concurrencia aparente,[IZQUIERDA]
+navegador web, soporte de red IPX, etc... En definitiva, en todo un S.O. £til y
+de pocos[NO] recursos hardware.[VERDEFOSFORITO]
+
+
+  El D.O.S. es a simple vista un poco m s dif¡cil de usar que un GUI, como en[IZQUIERDA BLANCO]
+otros S.O., ya que tendremos que tirar de comandos. Sin embargo, esto nos da
+varias ventajas:[NO]
+
+
+   - Requerimiento de menos recursos hardware -->[PC AMARILLO] por ser m s simple.[GRIS]
+   - M s estable -->[AMARILLO] por ser m s simple.[GRIS]
+   - M s eficiente -->[AMARILLO] por tener que trabajar con menos cosas.[GRIS]
+   - Acceso total a la m quina -->[AMARILLO] por ser m s simple.[GRIS]
+
+
+  En definitiva, que se convierte en un sistema ideal para hardware empotrado,o[IZQUIERDA PCT BLANCO]
+para tareas en concreto, que requieran el control total, como son los siguiente
+casos:[NO]
+
+
+   - Reproductor de listas -->[PC AMARILLO] MP3.[GRIS]
+   - Reproductor de pel¡culas -->[AMARILLO] VCD, DVD, MPEG, DIVX, MOV.[GRIS]
+   - Navegar -->[AMARILLO] INTERNET.[GRIS]
+   - Actuar de servidor -->[AMARILLO] WEB, FTP, TELNET, etc...[GRIS]
+
+
+  Y lo mejor de todo, es que el Dr-DOS funciona en cualquier m quina PC, es[IZQUIERDA PCT BLANCO]
+decir, ya sea un 8088, como un Pentium IV. Sin embargo, habr  programas y
+funciones, que s¢lo tirar n en un procesador en concreto.[NO]
+
+
+
+
+Club Dr-DOS[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Actualmente, existe un club, que pretende convertir el Dr-DOS en licencia GNU[IZQUIERDA]
+GPL, de tal forma, que posteriormente, el FreeDOS se pueda beneficiar de est s
+caracter¡sticas que le da, pudiendo quiz s en un futuro competir con otros S.O.
+reinantes.[NO]
+
+
+  La ventaja de usar el Dr-DOS es que posee una serie de utilidades, entre[IZQUIERDA]
+ellas, el gestionador de memoria protegida (4 DOS), que le convierten en un
+potente S.O. de 32 bits en modo protegido, con posibilidad de multitarea
+preventiva.[NO GRIS]
+
+
+  Adem s posee una serie de GUI's, que facilitan la labor al usuario,[IZQUIERDA BLANCO]
+acostumbrado a clickear constantemente. Aunque quiz s lo mejor,sea el navegador
+WEB, casi hoy en d¡a, obligatorio.[NO]
+
+
+
+
+Usos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  El OpenDOS es exacto al Dr-DOS, de hecho se basan en lo mismo. Las ventajas y[IZQUIERDA]
+funciones de este S.O., son algunas de las que se comentaron antes.En concreto,
+yo he instalado el Dr-DOS en los siguiente equipos:[NO]
+
+
+  - 8086-2 -->[PC AMARILLO] 8 Mhz con HD de 20 MB y 512 KB de RAM[GRIS]
+  - 80286 -->[AMARILLO] 12 Mhz con HD de 60 MB y 1 MB de RAM[GRIS]
+  - Pentium -->[AMARILLO] 133 Mhz con HD de 250 MB y 8 MB de RAM[GRIS]
+  - Pentium MMX -->[AMARILLO] 250 Mhz con HD de 4 GB y 72 MB de RAM[GRIS]
+  - AMD DURON -->[AMARILLO] 800 Mhz con HD de 60 GB y 768 MB de RAM[GRIS]
+
+
+  Siempre he usado una partici¢n de FAT12 o FAT16. Por tanto, las posibilidades[IZQUIERDA PCT BLANCO]
+son m ximas, y los requisitos hardware muy bajos, en comparaci¢n con otros S.O.
+como Windows 9x:[NO]
+
+
+  - 80386 -->[PC AMARILLO] 8 MB de RAM y 100 MB de HD, el Windows 95 arranca en 3 minutos.[GRIS]
+  - 80486 -->[AMARILLO] 16 MB de RAM y 400 MB de HD, el Windows 95 arranca en 1 minuto.[GRIS]
+  - Windows 98 SE y ME -->[AMARILLO] se requiere de algo m s que un Pentium y 16 MB de[GRIS]
+    RAM, para trabajar olgadamente.
+  - Windows 2000 y XP --> [AMARILLO]la memoria RAM, de 96 MB para arriba y de HD 1 GB[GRIS]
+    para arriba.
+
+
+  En BeOS, se requiere de 16 MB de RAM, Pentium 90, al menos 100 MB de HD para[IZQUIERDA PCT BLANCO]
+partici¢n. Sin embargo, yo lo he probado en un Pentium 75 Mhz, y funciona, pero
+no es que vaya muy olgado.[NO]
+
+  LINUX, por mucho que se empe¤en, no va a ser la excepci¢n, ya que de RAM, no[IZQUIERDA]
+baja de 8 MB, incluso recompilando el KERNEL, y de disco duro, ni hablemos, y
+eso s¢lo para tener el modo texto, como el DOS. En cuanto a CPU, m¡nimo 80386.[NO]
+Si tiramos de GUI, mejor que lo dejemos, ya que los recursos se nos disparan.
+Recordemos, que LINUX pretende competir con WINDOWS y UNIX, y lo est  logrando,[IZQUIERDA]
+pero nunca con el DOS y otros S.O.[NO]
+
+
+  La utilidad principal del Dr-DOS es la de visor de pelis, ya que teniendo en[IZQUIERDA]
+cuenta que podemos crear un disco de arranque, se puede meter el QV (quick
+view). Y en un momento, tenemos un visor, sin falta de tener que tirar de HD, e
+instalar Windows o LINUX. Tan s¢lo le puede ganar los S.O. que arrancan desde
+CD-ROM.[NO]
+
+  Yo suelo usar el Dr-DOS para programar,ya que arranco el TASKMGR (multitarea)[IZQUIERDA]
+y por un lado uso un buen editor de modo texto, y por otro un compilador de
+l¡nea de comandos, y por otro ejecuto el resultado. De esta manera, trabajo
+c¢modamente, y si el programa en cuesti¢n casca, s¢lo pierdo el proceso de
+ejecuci¢n.[NO]
+
+  Otra opci¢n, es para formatear disquetes, mientras editas una carta, o para[IZQUIERDA]
+renderizar con POVRAY (versi¢n DOS), mientras haces otras cosas. Hay que tener
+en cuenta, que por muy buena que sea nuestra m quina, el render lleva tiempo, y
+y si un 80386 va a estar muerto de risa, mejor darle una oportunidad.[NO]
+
+
+
+
+
+Errores[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como todo, nada es perfecto, y menos el Dr-DOS. As¡ que aqu¡ van algunos[IZQUIERDA]
+problemillas:[NO]
+
+
+  TASKMGR -->[PC AMARILLO] No soportar la commutaci¢n en modos de video VESA.[GRIS]
+              Adem s, la multitarea hardware s¢lo funciona en 80386 o superior.
+              En 80286 o inferior, s¢lo cambia de programa.
+  EMM386 -->[AMARILLO] No soporta m s de 64 MB de RAM[GRIS]
+  HD -->[AMARILLO] No soporta discos duros de m s de 8 GB.[GRIS]
+  EMM386/DPMI -->[AMARILLO] No funciona el Scitech Display Doctor y los programas de[GRIS]
+  WATCOM -->[AMARILLO] Hay que desactivar el DPMI (DPMI = OFF).[GRIS]
+
+
+
+
+
+Instalacion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Debemos de bajarnos o bien, el paquete completo, o s¢lo el disquete de[IZQUIERDA]
+arranque. Mejor bajarse los dos.[NO]
+
+
+  Con el disquete de arranque, tendremos al estilo de Windows, un disco de[IZQUIERDA]
+rescate. Debemos de ejecutar el programa Drdos705.exe, y en el acto, nos
+preguntar  por la unidad de destino, A: o B:.[NO]
+  Por supuesto, perderemos todo lo que tengamos en esa unidad, y cuando acab‚,[IZQUIERDA]
+ya tendremos un disquete de arranque.[NO]
+
+
+  Si nos bajamos los discos completos (Dr703.zip), tendremos una imagen de cada[IZQUIERDA]
+disquete, de tal forma que habr  que crearla, con las utilidades:[NO]
+
+
+   makedisk[PC AMARILLO]
+   diskcopy
+
+
+  En total son 5 disquetes. As¡ que suerte. Realmente,no los necesitamos todos.[PCT BLANCO]
+
+
+
+
+
+Ampliaciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Se puede montar una red NOVELL NETWARE, ya que soporta IPX, as¡ como una[IZQUIERDA]
+comunicaci¢n en red con cable nulo serie o paralelo. Se puede tambier usar el
+navegador web ARACHNE o el del OpenDOS.[NO]
+
+  Incluso podemos tirar de un editor de MOD's como el FASTTRACKER (80386) o uno[IZQUIERDA]
+para 8088. En definitiva que las posibilidades son m£ltiples, y por muy viejo
+que sea nuestro equipo, siempre servir  para poder renderizar algo, para
+desencriptar alguna clave, o para escribir un documento de texto.[NO]

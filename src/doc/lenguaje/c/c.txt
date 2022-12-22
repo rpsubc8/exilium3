@@ -1,0 +1,353 @@
+[FOTOS 0]
+Lenguaje C[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Teniendo en cuenta que intentamos hacer una diskmag de calidad, no suele ser[IZQUIERDA]
+normal, poner un cursillo de programar en C, pero esto puede ser £til para los
+newbies, y para acabar con algo que empez¢ como un chiste:[NO]
+
+
+
+   Hace poco ha salido una revista de unas 31 hojas por 2 Euros. Su nombre es[IZQUIERDA PC AMARILLO]
+Hacker Journal, y la pill‚ porque Navegante me la ense¤¢ (no se is mal pensados
+8-)), y teniendo en cuenta de que tengo mono de revistas (llev¢ 6 meses sin
+pillar una), y parec¡a que estaba bien (no como las dem s), y no ten¡a
+publicidad, pues la cog¡.[NO]
+
+
+
+  Sin embargo, la portada tra¡a algo as¡ como esto:[PCT BLANCO]
+
+
+
+   Y Adem s --> [PC AMARILLO]Programar en C.[BLANCO]
+
+
+
+  Sin embargo, no hab¡a nada de C, tan s¢lo BASIC en sus m£ltiples variedades.[PCT]
+As¡ que para aquellos que estaban esperando por algo en C, aqu¡ viene:[NO]
+
+
+
+  El lenguaje C fue inventado halla por los a¤os 80 por Dennis Ritchie y Brian[IZQUIERDA]
+Kernighan, gracias al seguimiento del trabajo de Ken Thompson. Pero eso es
+historia, y ahora estamos en el 2003, as¡ que a lo nuestro.[NO]
+
+
+
+  En una ‚poca en la que todo el mundo sabe inform tica (lamers y piratas),[IZQUIERDA]
+menos el inform tico, ponerse a programar da como pereza. Pero claro, al que le
+gusta y tiene fe, esto le va a encantar.[NO]
+
+
+  Programar es un arte, y como artistas tenemos que saber que herramientas[IZQUIERDA]
+tenemos que fuckear, o perd¢n quise decir, usar. Estas herramientas pueden ser
+BASIC, PASCAL, C, ensamblador, o incluso basuras como HTML, JAVA, DXCREATOR,
+VELAZQUEZ VISUAL, etc...[NO]
+
+  El ensamblador es lo mejor, pero como cada uno sigue su est ndar, y las[IZQUIERDA]
+librer¡as se cuentan con los dedos, no nos queda m s remedio que tirar de
+lenguajes de alto nivel como PASCAL o C. El Pascal est  muy bien, pero es muy
+tipado, y en la multiplataforma tiene muy poca cabida, ya que casi todo viene
+en C.[NO]
+
+
+
+  Pero tened en cuenta una cosa, con el C habr  cosas que no pod is hacer, ya[IZQUIERDA]
+que el lenguaje hace s¢lo aquello para lo que est  definido. Pero gracias a las
+librer¡as, aquellas cosas que no sabemos hacer, podemos tirar de ellas, y no
+construirlas en ensambla.[NO]
+
+
+
+
+
+
+Introduccion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  El mundo parece estar loco, ya que a los scripts como PERL los llaman[IZQUIERDA]
+lenguajes de programaci¢n, al JAVA y HTML lo llaman lenguajes, cuando son s¢lo
+metalenguajes y emuladores. Y a los lenguajes como el C, lo llaman script. Pero
+que se le va a hacer, seg£n el ministerio, cada vez somos m s listos en
+inform tica, pero se deben referir a pirater¡a o pornograf¡a JPEG. 8-D))[NO]
+
+
+  As¡, que mejor, que intentar hacer un visor porno. Para ello habr  que saber[IZQUIERDA]
+algo de C. Nuestro primer programilla, podr¡a ser algo as¡:[NO]
+
+
+  int main(){[PC AMARILLO]
+    printf ("Hola TOC DOC\n");
+    return 0;
+  }
+
+
+  El cuerpo principal de un programa, siempre tiene que tener la estructura[IZQUIERDA PCT BLANCO]
+main, de la siguiente forma:[NO]
+
+
+  main(){[PC AMARILLO]
+  }
+
+
+  El return, es lo que devuelve el programa, de tal forma que cuando termina su[IZQUIERDA PCT BLANCO]
+ejecuci¢n, devuelve un n£mero. Esto es £til para scripts, de tal forma que
+devuelve un valor dado seg£n una opci¢n, y luego podamos coger este valor desde
+el AUTOEXEC.BAT (DOS, WINDOWS) o .profile (LINUX), por ejemplo.[NO]
+
+
+  El printf, es una funci¢n que muestra un texto por la salida est ndar. El[IZQUIERDA]
+'\n', es para dar un retorno de carro, es decir, el ENTER.[NO]
+
+  Como habr‚is comprobado, este ejemplo funciona en al menos todos los PC's del[IZQUIERDA]
+mundo dotados de un compilador de C, ya sea de 16, 32 o 64 bits.[NO]
+
+
+
+
+
+Variables[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Al igual que en otros lenguajes,el C posee variables. Pero hay una diferencia[IZQUIERDA]
+con respecto a otros, y es que en contra de lo que piensan muchos gurus, el
+tama¤o de las variables no se conoce a priori.[NO]
+  Por ejemplo, el tipo BYTE de pascal, o de ensamblador para un ordenador, no[IZQUIERDA]
+existe. En su defecto, se usa el tipo:[NO]
+
+
+    UNSIGNED CHAR byte;[PC AMARILLO]
+
+
+   Es decir, se usa un car cter sin signo, para el byte. Sin embargo, el tama¤o[IZQUIERDA PCT BLANCO]
+de un car cter, dependiendo del ordenador a tratar, ser  de un byte o de dos.[NO]
+Para saber exactamente el tama¤o de un tipo, debemos escribir esto:
+
+
+    printf ("%d ",sizeof(unsigned char));[PC AMARILLO]
+
+
+  De esta forma, el '%d', indica que se va a imprimir una variable de tipo[IZQUIERDA PCT BLANCO]
+entero, y el sizeof, es una funci¢n,que nos devuelve el tama¤o del tipo que hay
+dentro, que en este caso, es un car cter sin signo.[NO]
+  Lo normal, es que de 1 byte. Pero si esto lo hacemos con esto:
+
+
+   unsigned int entero;[PC AMARILLO]
+
+
+  Nos dar  2 bytes, si el compilador es de 16 bits,o 32 bits, si es de 32 bits.[PCT BLANCO]
+
+  Los tipos de variables que hay, son:
+
+
+   char -->[PC AMARILLO] caracter[GRIS]
+   short int -->[AMARILLO] entero corto[GRIS]
+   int -->[AMARILLO] entero[GRIS]
+   long int -->[AMARILLO] entero largo[GRIS]
+   float -->[AMARILLO] real[GRIS]
+
+
+  Y a su vez todos pueden ser a su vez sin signo, si ponemos delante unsigned.[PCT BLANCO]
+Adem s se a¤ade la figura del puntero, que al igual que en PASCAL,no es m s que
+una variable que apunta a una direcci¢n de memoria, ya sea est tica o din mica.
+Los punteros se construyen as¡:
+
+
+   char * punteroCaracter;[PC AMARILLO]
+   int * punteroEntero;
+
+
+  Adem s, hay tipos, como las cadenas, que se forman, as¡:[PCT BLANCO]
+
+
+   char cadena[[100];[PC AMARILLO]
+
+
+  Que en si mismo es un array, es decir una matriz, de tal forma, que todo lo[PCT BLANCO IZQUIERDA]
+que est‚ en el son caracteres. El final de cadena se representa con el car cter
+'\0'. Por tanto, si ponemos esto:[NO]
+
+
+   cadena[[0] = 'a';[PC AMARILLO]
+   cadena[[1] = 'b';
+   cadena[[2] = '\0';
+   printf ("%s",cadena);
+
+
+  Nos mostrar  por pantalla:[PCT BLANCO]
+
+
+   ab[PC AMARILLO]
+
+
+  N¢tese la diferencia con respecto al tipo STRING del PASCAL, cuya primera[IZQUIERDA PCT BLANCO]
+posici¢n conten¡a el tama¤o de la cadena. En la funci¢n printf, el '%s' es para
+indicar que se trata de una cadena.[NO]
+
+
+  La forma optimizada, anterior, ser¡a con funciones:
+
+
+   strcpy (cadena,"ab");[PC AZULCLARO]
+
+
+
+
+
+
+Constantes[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Al igual que otros lenguajes, e incluso de las matracas, en C existen las[IZQUIERDA]
+constantes. Y la forma de definirlas, es la siguiente:[NO]
+
+
+   #define constanteEntera 2[PC AMARILLO]
+   #define constanteHexadecimal 0x0E
+   #define constanteReal 2.5
+
+
+  N¢tese, que en este caso entramos en el preprocesador, es decir, antes de[IZQUIERDA PCT BLANCO]
+entrar a la compilaci¢n en C, y no se debe poner el ';' como en el resto de las
+l¡neas. En C++, existe el tipo constante, con:[NO]
+
+
+  const[PC VERDEFOSFORITO]
+   int constanteEntera = 2;
+
+
+
+
+
+Case sensitive[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ya es de muy viejo, que el C es sensible a las may£sculas y min£sculas,[IZQUIERDA]
+es decir, para ‚l no es lo mismo:[NO]
+
+
+   variable[PC AMARILLO]
+   VARIABLE
+
+
+  Por tanto, cuidado, ya que esto puede llevarnos a quebraderos de cabeza a la[IZQUIERDA PCT BLANCO]
+hora de realizar un programa muy grande y complejo.[NO]
+
+
+
+
+
+Funciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Para crear una funci¢n, debemos de escribir esto:
+
+
+   int FuncionDevuelveEntero(){[PC AMARILLO]
+     return (2);
+   }
+
+
+  Si ponemos esto otro:[PCT BLANCO]
+
+
+   int main(){[PC AMARILLO]
+    printf ("%d",FuncionDevuelveEntero());
+    return (0);
+   }
+
+
+  Nos saldr  por pantalla:[PCT BLANCO]
+
+   2[PC AMARILLO]
+
+
+  Las funciones, pueden ser Procedimientos como en PASCAL, sin falta de poner[IZQUIERDA PCT BLANCO]
+tipo de devoluci¢n, de la siguiente forma:[NO]
+
+
+   void FuncionDevuelveEntero(){[PC AMARILLO]
+   }
+
+ 
+
+
+
+
+Ejemplo visual[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues vamos a realizar un peque¤o ejemplo visual:
+
+
+   char _far *video = (char _far *)0x0B8000000;[PC AMARILLO]
+   int i;
+  
+   int main(int argc, char **argv){
+    for (i=0; i<160,i+=2)
+     video[[i] = '*';
+    return (0);
+   }
+
+
+  Esto nos mostrar  la pantalla llena de '*', si estamos en ventana de DOS[IZQUIERDA PCT BLANCO]
+completa de WINDOWS o emulador, o en DOS real. Se trata de crear un puntero a
+memoria de video real 0x0B800:0000, y rellenar en modo texto, con un bucle. Los
+bucles, van as¡:[NO]
+
+
+  Inicializaci¢n; condici¢n de entrada; acci¢n por iteraci¢n[PC AMARILLO]
+
+
+ Por tanto, empiezo en valor 0, mientras que no sea menor de 160 se incrementa[IZQUIERDA PCT BLANCO]
+en 2 posiciones, ya que en modo texto, una posici¢n de video es el car cter en
+si mismo, y la otra el color.[NO]
+
+
+  Que conste, que esto no tirar  en BeOS o LINUX,ya que hace llamadas a memoria[IZQUIERDA]
+de video. Debe ser probado en DOS, como dije anteriormente. Para que os deis
+cuenta, que el C es un lenguaje, pero eso no quiere decir, que todo sea
+est ndar, ni el binario resultante.[NO]
+
+
+
+
+
+
+
+Compilacion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Se ha dicho como generar c¢digo, pero falta compilar. Para ello, necesitamos[IZQUIERDA]
+un compilador, dependiendo de para que S.O.[NO]
+  Existen los siguientes:
+
+
+  DOS -->[PC AMARILLO] TC, WATCOM, DJGPP, C600, Microsoft C, etc...[GRIS]
+  WINDOWS -->[AMARILLO] MINGW32, Visual C++, Borland C++, Builder C++, etc...[GRIS]
+  BeOS -->[AMARILLO] GCC[GRIS]
+  LINUX -->[AMARILLO] GCC[GRIS]
+  QNX -->[AMARILLO] GCC[GRIS]
+
+
+  Deb‚is de elegir el compilador que mejor os convenga, y aquel que mejor se[PCT BLANCO IZQUIERDA]
+adapte a nuestro equipo (requerimientos hardware), ya que si us is VISUAL C++,
+lo normal es que genere binarios para WINDOWS, que no funcionar n en BeOS, por
+ejemplo, salvo que exista alguna chorradilla que act£e de compilador cruzado.[NO]
+
+  Consejo: Para WIN32, no us‚is el Visual C++, es una basura compilando. Coged[IZQUIERDA]
+el MINGW32 o incluso el Borland.[NO]

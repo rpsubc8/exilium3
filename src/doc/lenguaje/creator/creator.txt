@@ -1,0 +1,217 @@
+[FOTOS 2]
+FOTO_LENGUAJE_CREATOR1 PALETA_LENGUAJE_CREATOR1 60 83
+FOTO_LENGUAJE_CREATOR2 PALETA_LENGUAJE_CREATOR2 60 102
+DX CREATOR[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  En el n£mero 1 y 2, os habl‚ acerca del DarkBASIC, pero ya que nos vamos a[IZQUIERDA]
+manchar las manos de basura, que mejor que tirarnos de cabeza a la piscina de
+esti‚rcol.[NO AMARILLO]
+
+
+
+  Por tanto, esta vez le toca el turno al DX-CREATOR. Tranquilos, que hay[IZQUIERDA BLANCO]
+todav¡a m s, tal y coment‚ en los n£meros atrasados, como BLITZBASIC, 3D-RAD,
+DIV-GAME Studio, etc...[NO]
+
+
+
+  Por cierto, me pill‚ el DARKBASIC en una superoferta, por s¢lo 6 Euros,que es[IZQUIERDA]
+lo que realmente debe valir, ya que trae 2 CD's, que interesa m s sus texturas,
+mapas y sonidos, que el int‚rprete en s¡.[NO]
+
+
+  Pero a lo que iba, el DX-CREATOR, no es un compilador, sino un interprete, al[IZQUIERDA]
+estilo de JAVA, pero bien, m s seguro y m s eficiente, con menos recursos,
+dentro de WINDOWS. S¢lo funciona en WIN32 y llama por debajo a las DIRECTX. En
+concreto, necesitaremos las DIRECTX 6.0 como m¡nimo. Pero como ventaja est  que
+no se requiere aceleradora 3D, ya que con una simple tarjeta 2D y DIRECTX 6.0,
+funciona.[NO AMARILLO]
+
+
+  Los recursos en cuanto a procesador, con un 80486 tira y bastante bien, pero[IZQUIERDA BLANCO]
+si queremos cosas muy complejas, quiz s se necesite de Pentium para arriba. Las
+versiones anteriores de Dx-Creator hab¡a que registrarlas para poder generar el
+EXE, sin embargo, la versi¢n 1.81 (actual) se distribuye como Freeware. Pero
+recordar, que Freeware no es GNU, sino que es gratis. Cuando se genera el EXE
+final o el salvapantallas, aparecer  un logotipo (bastante bonito) del DX-
+Creator.[NO AZULCLARO]
+
+
+
+
+Utilidades[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Por si no lo he dicho, el DX-Creator, nos sirve:
+
+
+   - Hacer un juego 2D (arcade o similar)[PC AMARILLO]
+   - Un salva pantallas
+   - Una aplicaci¢n multimedia
+   - Un visor de diapositivas
+   - Hacer una demo
+
+
+  Aunque no se pueda realizar una demo bestial siguiendo el esp¡ritu de la[IZQUIERDA PCT BLANCO]
+oldskool, si se puede entrar en la newskool y de forma c¢moda y sencilla. Si
+optamos por hacer un salva pantallas o un juego, tenemos a nuestra disposici¢n
+un Interface muy c¢modo, pensado para trabajar a golpe de rat¢n, as¡ como de
+c¢digo fuente para poder trabajar con RED, SONIDO, GRAFICOS y dem s.[NO]
+
+
+  Cabe destacar la posibilidad de usar:
+
+
+   - Mapas, para fondos m s grandes que la pantalla (estilo Game Boy)[PC AMARILLO]
+   - Inclusi¢n de M¢dulos MOD de 4 canales
+   - Soporte de gr ficos BMP
+   - Soporte de animaciones
+   - Soporte de sprites
+   - Soporte de texto simple
+
+
+  Por tanto, esto nos da un buen jugo de posibilidades.La £nica decepci¢n viene[PCT BLANCO IZQUIERDA]
+dada por las fuentes de texto, que s¢lo permite una fija, que es muy simple.[NO]
+Para el resto, tendremos que usar BITMAPS y alg£n truquillo. Aunque hoy en d¡a,
+se tiende a poner TEXTO como BITMAPS en formato JPEG.
+
+
+
+
+Ejemplo[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+ Pues que mejor que hacer un peque¤o efecto,para as¡ ver la
+potencia  de  esta  herramienta  y  su utilidad. As¡ que he
+optado por poner un efecto t¡pico de las demos,que consiste
+en que  salgan  unas  letras, es decir, una palabra, que se
+mueve como si de un defecto visual del cine se tratase.
+
+
+  Para ello, habr  que tirar de un programa de dibujo, como
+puede  ser  el  PSP  o  el  GIMP. Y  debemos de escribir la
+siguiente palabra:
+
+
+   diskmag exilium[PC AMARILLO]
+
+
+
+  En la foto adjunta, se puede ver.[PCT BLANCO]
+
+
+
+  A continuaci¢n, debemos de reducir los colores a 2, ya que con Blanco y negro[IZQUIERDA]
+tenemos suficiente para Texto, y as¡ logramos reducir la imagen a tan s¢lo 3KB
+si el texto ocupa 426 x 37 pixels. As¡ que elegid un tama¤o de fuente adecuado
+para una resoluci¢n de 64 x 480 pixels de pantalla completa. Acordaros de
+guardarlo en formato BMP, a ser posible sin comprimir.[NO]
+
+
+  Y por £ltimo, vamos a poner el c¢digo que hay que introducir en BASIC:
+
+
+   Global I,A[PC AMARILLO]
+
+   Set GDI Output To Fast
+   Rem Set Display To Window
+   Create Sprite 1,0,0 Using Bank 2
+   Sprite On 1
+
+
+   For A=0 To 50 Step 1
+    For I=1 To 10 Step 1
+     Sprite Move 1,(100+I*Cos(I)),240+(I*Sin(I))
+     Update Display
+    Next
+   Next
+
+   Rem  Copy Block SOURCE,0,0,426,37 To DEST,I,I As BltNormal
+
+   EndProg
+
+
+  Pero con esto, no se hace nada, sino ponemos los BITMAPS en el proyecto. Para[PCT BLANCO IZQUIERDA]
+ello, debemos crear una nueva IMAGEN, con el bot¢n derecho:[NO]
+
+
+   Create New ? Image (BMP)[PC AMARILLO]
+
+
+  Y pondremos la imagen BMP del texto que hemos creado. El RT-Storage pondremos[PCT BLANCO IZQUIERDA]
+System Memory. Luego debemos de crear una secuencia, de la siguiente forma:[NO]
+
+
+   Create New ? Sequence (SEQ)[PC AMARILLO]
+
+
+  Y una ver cargado, le diremos que coja el banco n£mero 1, que es el del texto[PCT BLANCO IZQUIERDA]
+de "diskmag exilium" en formato BMP. Le daremos una especificaciones,como es el
+caso de:[NO]
+
+
+   Sprite X: 426[PC AMARILLO]
+   Sprite Y: 37
+   Sprite count: 1
+   X count: 426
+
+
+  Y si queremos, podemos dar a Test, para verlo.[PCT BLANCO]
+
+  Para que os deis cuenta, la primera X e Y son el tama¤o y altura del BITMAP[IZQUIERDA]
+del banco 1 (texto), que variar  de una imagen a otra, seg£n la hab‚is creado.[NO]
+El sprite count,es para indicar el n£mero de sprites que contiene la imagen del[IZQUIERDA]
+banco 1, que en este caso es 1. Y el X count, es el contador del ancho de la
+imagen de cada sprite, que en este caso es el de la propia imagen, es decir,
+426.[NO AMARILLO]
+
+  Pod‚is probar diferentes combinaciones, pero si no acert is os dar  un error[IZQUIERDA BLANCO]
+de incompatibilidad de datos.[NO]
+
+
+  Y ahora viene la parte de compilar todo, para ello le daremos a F5, que es[IZQUIERDA]
+BUILD ALL. Y si queremos ejecutar, CTRL. + F5 (BUILD AND RUN). Por defecto se
+ejecuta en modo de video 640 x 480 con 16 bits de color,ideal para nuestro caso
+en concreto, aunque todo esto se puede cambiar en submen£s de configuraci¢n que
+pod‚is mirar por vuestra cuenta.[NO]
+
+
+  Y si todo ha salido bien, deber¡a salir una cadena de texto en movimiento[IZQUIERDA]
+aleatorio muy peque¤o de forma r pida. N¢tese que el texto se mueve muy
+r pidamente y que se han usado funciones de alto nivel para calcular los
+n£meros aleatorios.[NO AMARILLO]
+
+
+  El Set GDI Output To Fast pone el modo de v¡deo en dibujo r pido. Esto har [IZQUIERDA BLANCO]
+que se vea bien en unos equipos, y por casualidades de la vida, quiz s se vez
+mal en otros (WINDOWS y DIRECTX no son un est ndar).[NO]
+
+
+  Las funciones de Create Sprite 1,0,0 Using Bank 2, nos crea una Sprite con[IZQUIERDA]
+el n£mero 1, que se sit£e en las coordenadas 0,0 de pantalla, usando el bitmap
+de la [NO]secuencia del banco 2.[AZULCLARO]
+
+
+
+  Los bucles FOR ya ten‚is que saber que hacen, si conoc‚is otros lenguajes de[IZQUIERDA BLANCO]
+programaci¢n. Y la funci¢n sprite move, se encarga de mover el sprite 1,
+creado anteriormente (el texto) a las coordenadas que le indicamos con valores
+aleatorios.[NO]
+
+
+  Los comentarios, se ponen con REM, al igual que en [BLANCO]BASIC.[AMARILLO]
+
+
+
+  Y el comando Copy block, permite copiar bloques de memoria de un sitio a[IZQUIERDA BLANCO]
+otro, pero con el inconveniente de que puede acceder a zonas de memoria
+inv lidas, por lo que aunque sirve para el caso anterior, no se ha usado.[NO]
+
+
+  Y para el pr¢ximo n£mero m s.

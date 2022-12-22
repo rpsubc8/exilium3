@@ -1,0 +1,89 @@
+[FOTOS 2]
+FOTO_LENGUAJE_DBASIC1 PALETA_LENGUAJE_DBASIC1 60 1
+FOTO_LENGUAJE_DBASIC2 PALETA_LENGUAJE_DBASIC2 60 61
+DARKBASIC PRO[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  En n£mero  pasados , os  hab¡a  lavado  el cerebro con el
+DARKBASIC,pero ya va siendo hora de que nos metamos a cosas
+m s serias, como es el caso del DARKBASIC PRO.
+
+
+  Con  esta herramienta no es que vayamos a conseguir cosas
+bestiales ,  pero logramos superar un poco las limitaciones
+del [BLANCO]DARKBASIC tradicional:[AZULCLARO]
+
+
+
+  - Interprete de BASIC[PC AMARILLO]
+  - Velocidad baja en casos concretos
+  - Funciones t¡picas, no permitiendo software complejo
+  - No permite acceso a memoria RAM como si fuese un puntero
+
+
+
+
+  Pero de todas estas caracter¡sticas del DARKBASIC, la que mejor logra[PCT BLANCO IZQUIERDA]
+solucionar el DARKBASIC PRO, es la primera, es decir, que se consigue un
+compilador de [NO]DARKBASIC.[AMARILLO]
+
+
+  Aunque antes se lograba un .EXE de trabajo final, en tiempo de ejecuci¢n, se[IZQUIERDA BLANCO]
+interpretaba el programa,es decir, el .EXE conten¡a un programa que traduc¡a el
+BASIC de nuestro juego, o programilla. Pero ahora, se acab¢, ya que el .EXE es
+un .EXE original. De esta forma, los binarios resultantes son mucho m s
+r pidos.[NO]
+
+
+  Se permite una serie de funciones extras, para trabajar con acceso a memoria[IZQUIERDA]
+RAM, y dem s funciones especialmente dise¤adas para crear software. De esta
+forma, se pueden crear TRACKERS de sonido, VISORES 3D, programas de dibujo, y
+lo que se nos ocurra, o bien un juego 3D m s profesional.[NO]
+
+
+  Hay que destacar, que esta versi¢n contiene un editor m s complejo que el IDE[IZQUIERDA]
+del DARKBASIC tradicional. Por tanto, est  m s pensado para programadores ya
+experimentados. NO obstante, est  tirado, aunque quiz s ten¡a m s intriga el
+IDE tradicional, por ser m s oscuro, frente a este, que es una ventana t¡pica
+del [NO]WINDOWS.[AMARILLO]
+
+
+  Hay que recordar, que la versi¢n de descarga gratuita, es de 30 d¡as de[IZQUIERDA BLANCO]
+periodo, suficiente para probar la potencia de este Software. Si nos gusta,
+siempre se puede comprar el original o tirar de CRACKS.[NO]
+
+
+
+
+
+
+Trabajar[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues   en   principio   soporta  todo  lo  del  DARKBASIC
+tradicional , as¡  que no  voy a  explicar nada nuevo. Pero
+quiz s lo que m s me gusta, es esta funci¢n:
+
+
+
+    RETURN DWORD = GET MEMBLOCK PTR(Memblock Number)[PC AMARILLO]
+
+
+
+  Que nos devuelve el puntero actual de un bloque espec¡fico.[PCT BLANCO]
+
+
+  Esto es £til para hacer efectos de la demoscene, combinado con m s funciones,[IZQUIERDA]
+ya que podemos acceder a BLOQUES DE RAM, BITMAPS, etc..., y hacer efectos
+software, que no vienen implementados, como FUEGOS, DISTORSION, LUPA, etc...,
+que las versiones anteriores, no ten¡an,teniendo que trabajar a nivel de PIXEL,
+o con trucos raros, que al final, quedaba mal e iba [NO]lento.[AMARILLO]
+
+
+  Se ha a¤adido, incluso funciones para hacer FTP, trabajo con PARTICULAS,[IZQUIERDA BLANCO]
+efectos para trabajar con el sonido y hasta la posibilidad de grabar sonido
+desde el micr¢fono (ideal para radio packet, quiz s).[NO]

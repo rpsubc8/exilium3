@@ -1,0 +1,416 @@
+[FOTOS 1]
+FOTO_LENGUAJE_CMINUS PALETA_LENGUAJE_CMINUS 60 6
+OpenGL con C--[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues  como  esta DISKMAG surgi¢  principalmente  para los
+programadores, pues voy a seguir muchos n£meros  dando ca§a
+con esta maravilla de COMPILADOR y lenguaje , es decir, del
+C--, y no de la basura del JAVA.
+
+
+
+  ®Por quÇ adoro tanto en este lenguaje, y no en otras basuras?, pues se puede[IZQUIERDA]
+explicar en varias partes:[NO]
+
+
+
+  - JAVA, FLASH, HTML, DHTML, XML, HASKELL, PROLOG, ... no son lenguajes[PC AMARILLO]
+  - C, PASCAL y BASIC, no permiten meter ensambla de forma c¢moda
+
+
+
+  Si tenÇis dudas con la primera premisa, "NO SOIS PROGRAMADORES", ya que para[PCT BLANCO IZQUIERDA]
+ser lenguaje, a parte de soportar sentencias estructuradas y dem†s, as° como
+ser independiente de otros lenguajes (como el idioma), debe poseer la capacidad
+de realimentaci¢n, es decir, de que a partir del lenguaje se pueda crear nuevas
+cosas, y no a travÇs de herramientas por debajo. Lo m†s parecido a esto, es el
+LATIN, que es una lengua muerta, y no un lenguaje, ya que no es capaz de usar
+nuevas palabras. Pues eso mismo, le pasa al JAVA, que para poder crear nuevas
+sentencias, se deben programar en C, C++, ensambla o lo que sea, y se a§ade al
+programa de m†quina virtual (emulador) para ejecutar SCRIPTS JAVA, porque no
+llega a lenguaje. Por tanto, el JAVA es un programa, y no un lenguaje. Lo mismo
+le pasa al FLASH, pero no alardea tanto. Si no lo entendÇis, es que habÇis
+comido demasiada basura de JAVA y similares, y tenÇis diarrea mental.[NO]
+
+
+
+  En cuanto a la segunda premisa, es muy sencillo, ya que tanto el C, como[IZQUIERDA]
+PASCAL, nos permiten introducir ensamblador, pero ®a quÇ precio?, ya que para
+hacerlo en C, muy pocos compiladores poseen ensamblador en l°nea (asm inline),
+y por tanto, debemos crear una funci¢n en ensamblador, que es llamada desde C,
+o mezclar binarios en ensambla, con llamadas en C. Al final funciona, pero es
+ineficiente, ya que una funci¢n implica usar la PILA de RAM, y dem†s, haciendo
+que nuestro c¢digo no sea efectivo.[NO]
+
+
+  Todo esto lo soluciona en parte el [BLANCO]C--.[AMARILLO]
+
+
+
+  Y como a los nuevos, les va las OPENGL, que mejor, que unos ejemplillos de[IZQUIERDA BLANCO]
+la basura de OPENGL de WIN32 con la maravilla de C--, de tal forma que se
+hace una especie de simbiosis, es decir, de mezcla:[NO]
+
+
+
+    basura + maravilla = radiactivo[PC VERDEFOSFORITO]
+
+
+
+  Y claro aqu° alguno se habr† quedado anonadado, ya que si, desde hace[IZQUIERDA PCT BLANCO]
+muchoooOOOoo tiempo, se pueda usar OpenGL con C--. Ya se que muchos cre°ais que
+el C-- no val°a para nada, y que el JAVA es el futuro, pero claro, el C-- es un
+lenguaje, y como tal, puede evolucionar a partir de la idea de Peter Sphinx
+Cellik, tal y como dije en el n£mero pasado, de los programadores [NO]RUSOS.[AMARILLO]
+
+
+
+  Tal es el caso, que no s¢lo se puede generar binarios para DOS, sino para[IZQUIERDA BLANCO]
+WIN32 y Menuet OS, y seg£n he visto, para LINUX. As° que temblad, malos
+programadores de JAVA y Visual BASIC, porque pronto los CODERS tomaremos lo que
+nos han arrebatado y nos pertenec°a por excelencia.[NO]
+
+
+
+  Pero a lo que iba, para poder compilar los ejemplos para WIN32, necesitamos[IZQUIERDA]
+las librer°as de WINDOWS para C--, que son cabeceras .H--. Ocupan 300 KB o
+menos, y las debemos copiar a donde est† el programa en OpenGL. Estas cabeceras
+est†n en donde hallamos instalado el C--, en LIB\WIN, o bien las podemos
+descargar de [NO]internet.[AMARILLO]
+
+
+
+  Y s¢lo nos queda compilar el ejemplo, con:[BLANCO]
+
+
+     c-- opengl.c--[PC AMARILLO]
+
+
+  Y aqu° viene el c¢digo, que no es m°o:[PCT BLANCO]
+
+
+
+   #pragma option w32[PC AMARILLO]
+   ?define _WINBASE_ TRUE
+   ?include "windows.h--"
+   ?include "wingdi.h--"
+   ?include "opengl.h--"
+   ?include "double.h--"
+
+
+   char classTitle="OpenGL";
+   struct MSG message;
+   dword WND;
+
+   struct PIXELFORMATDESCRIPTOR pfd=0; //Pixel format for our window
+   int pixel_format=0;                 //Pixel format
+   dword gl_rc;                        //OpenGL Rendering Context
+
+   byte text[[200];
+   dword dc;
+   int opengl_lib;
+   float size=3;
+   float fog_color[[4]={0.3,0.5,1,0};
+   float angle=0;
+
+   main()
+   {
+     WND=CreateWindow();
+     INIT();
+     do{
+       IF(PeekMessageA(#message,NULL,0,0,1)){
+         TranslateMessage(#message);
+         DispatchMessageA(#message);}
+   //***** There is main loop: **************************************************
+     REDRAW();
+     angle+=2;
+   //****************************************************************************
+     }while(message.message!=WM_QUIT);
+   }
+
+   void INIT()
+   {
+     pfd.nSize=sizeof(PIXELFORMATDESCRIPTOR);
+     pfd.nVersion=1;
+     pfd.dwFlags=PFD_DOUBLEBUFFER|
+                 PFD_SUPPORT_OPENGL|
+                 PFD_DRAW_TO_WINDOW;
+     pfd.iPixelType=PFD_TYPE_RGBA;
+     pfd.cColorBits=16;
+     pfd.cDepthBits=32;
+     pfd.iLayerType=PFD_MAIN_PLANE;
+
+     pfd.cRedBits=0;
+     pfd.cRedShift=0;
+     pfd.cGreenBits=0;
+     pfd.cGreenShift=0;
+     pfd.cBlueBits=0;
+     pfd.cBlueShift=0;
+     pfd.cAlphaBits=0;
+     pfd.cAlphaShift=0;
+     pfd.cAccumBits=0;
+     pfd.cAccumRedBits=0;
+     pfd.cAccumGreenBits=0;
+     pfd.cAccumBlueBits=0;
+     pfd.cAccumAlphaBits=0;
+     pfd.cStencilBits=0;
+     pfd.cAuxBuffers=0;
+     pfd.bReserved=0;
+     pfd.dwLayerMask=0;
+     pfd.dwVisibleMask=0;
+     pfd.dwDamageMask=0;
+
+     dc=GetDC(WND);
+     pixel_format=ChoosePixelFormat(dc,#pfd);
+     if(pixel_format==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"Choose pixel format failed",#text,MB_OK);
+     }
+
+     SetPixelFormat(dc,pixel_format,#pfd);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"SetPixelFormat Failed",#text,MB_OK);
+     }
+
+     gl_rc=wglCreateContext(dc);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglCreateContext Failed",#text,MB_OK);
+     }
+
+     wglMakeCurrent(dc,gl_rc);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+     }
+
+
+     //
+     // Build a display list for the box.
+     //
+     glNewList(1, GL_COMPILE) ; GLERROR();
+     //
+               glBegin(GL_POLYGON); // right
+                   glNormal3f(float 0.0,float 0.0,size);
+                   glVertex3f(size, size, size);
+                   glVertex3f(float -size,  size, size);
+                   glVertex3f(float -size, float -size, size);
+                   glVertex3f(size, float -size, size);
+               glEnd();
+
+               glBegin(GL_POLYGON);        //left
+                   glNormal3f( float 0.0,float  0.0, float -size);
+                   glVertex3f( size,  size, float -size);
+                   glVertex3f( size, float -size, float -size);
+                   glVertex3f(float -size, float -size, float -size);
+                   glVertex3f(float -size,  size, float -size);
+               glEnd();
+               glBegin(GL_POLYGON); //Font
+                   glNormal3f(float -size,float  0.0,float  0.0);
+                   glVertex3f(float -size,  size,  size);
+                   glVertex3f(float -size,  size, float -size);
+                   glVertex3f(float -size, float -size, float -size);
+                   glVertex3f(float -size, float -size,  size);
+               glEnd();
+
+               glBegin(GL_POLYGON);  //Back
+                   glNormal3f(size,float  0.0,float  0.0);
+                   glVertex3f(size,  size,  size);
+                   glVertex3f(size, float -size,  size);
+                   glVertex3f(size, float -size, float -size);
+                   glVertex3f(size,  size, float -size);
+               glEnd();
+
+               glBegin(GL_POLYGON);  //Top
+                   glNormal3f(float 0.0, size,float  0.0);
+                   glVertex3f(float -size, size, float -size);
+                   glVertex3f(float -size, size,  size);
+                   glVertex3f( size, size,  size);
+                   glVertex3f( size, size, float -size);
+               glEnd();
+
+               glBegin(GL_POLYGON);        //Bottom
+                   glNormal3f(float 0.0, float -size,float  0.0);
+                   glVertex3f(float -size, float -size, float -size);
+                   glVertex3f( size, float -size, float -size);
+                   glVertex3f( size, float -size,  size);
+                   glVertex3f(float -size, float -size,  size);
+               glEnd();
+
+           glEndList() ;
+
+
+     glMatrixMode(GL_PROJECTION); GLERROR();
+     glLoadIdentity();
+     gluPerspective(lo_d(float 100),hi_d(float 100),
+                    lo_d(float 1), hi_d(float 1),
+                    lo_d(float 1), hi_d(float 1),
+                    lo_d(float 70), hi_d(float 70));
+
+     wglMakeCurrent(0,0);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+     }
+   }
+
+
+   void REDRAW()
+   {
+     wglMakeCurrent(dc,gl_rc);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+   }
+
+     glMatrixMode(GL_MODELVIEW);
+     glLoadIdentity();
+     glTranslatef(float 0,float 0,float -angle/20);
+
+     glEnable(GL_FOG);
+     glFogi(GL_FOG_MODE,GL_LINEAR);
+     glFogf(GL_FOG_START,float 5);
+     glFogf(GL_FOG_END,float 30);
+     glFogfv(GL_FOG_COLOR,#fog_color);
+
+     glEnable(GL_DEPTH_TEST);
+     glEnable(GL_LIGHTING);
+     glEnable(GL_LIGHT0);
+
+     // Clear the color and depth buffers
+     glClearColor(float 0.3, float 0.5,float 1,float 1);
+     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+     // Set the material color to follow the current color
+     glColorMaterial(GL_FRONT_AND_BACK, GL_DIFFUSE) ;
+     glEnable(GL_COLOR_MATERIAL) ;
+
+     glMatrixMode(GL_MODELVIEW);
+
+     glRotatef(angle,float 1,float 0.2,float 0.7);
+     glColor3f(float 0.5,float 0.5,float 0);
+     glCallList(1);
+
+     glFlush();
+     SwapBuffers(dc);
+
+     wglMakeCurrent(0,0);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+     }
+   }
+
+
+   void resize(word x,y)
+   {
+     wglMakeCurrent(dc,gl_rc);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+     }
+
+     glViewport(0,0,x,y);
+
+     wglMakeCurrent(0,0);
+     if(EAX==0){
+       wsprintf(#text,"error code=%d",GetLastError());
+       MessageBoxA(WND,"OpenGL wglMakeCurrent Failed",#text,MB_OK);
+     }
+   }
+
+   void GLERROR()
+   {
+     glGetError();
+     if(EAX!=GL_NO_ERROR){
+       wsprintf(#text,"error code=%d 
+   %s",glGetError(),gluErrorString(glGetError()));
+       MessageBoxA(WND,#text,"OpenGL error",MB_OK);
+     }
+   }
+
+
+   dword   WndProc(dword hwnd,msg,wPar,lPar) //Main window proc.
+   {
+        switch(msg){
+                case WM_DESTROY:
+                        PostQuitMessage(0);
+                        EAX=0;
+                        break;
+                case WM_SIZE:
+                        resize(lPar&0xFFFF,lPar>>16);
+                        EAX=0;
+                        break;
+                default:
+                        DefWindowProcA(hwnd,msg,wPar,lPar);
+        }
+   }
+
+
+   DWORD CreateWindow(void)  //Create a window and return hWnd
+   dword hInst;
+   struct WNDCLASSEX WndClassEx;
+   {
+        hInst=GetModuleHandleA(0);
+        WndClassEx.cbSize=sizeof(WndClassEx);
+        WndClassEx.style=CS_HREDRAW|CS_VREDRAW;
+        WndClassEx.lpfnWndProc=#WndProc;
+        WndClassEx.cbWndExtra=0;
+        WndClassEx.cbClsExtra=0;
+        WndClassEx.hInstance=hInst;
+        WndClassEx.hIcon=0;
+        WndClassEx.hCursor=0;
+        WndClassEx.hbrBackground=COLOR_WINDOW;
+        WndClassEx.lpszMenuName=0;
+        WndClassEx.lpszClassName=#classTitle;
+        WndClassEx.hIconSm=0;
+        RegisterClassExA(#WndClassEx); //??(???? ?????
+                                       // ????ç ??
+        WND=CreateWindowExA(0,#classTitle,"OpenGL TEST",
+                            WS_OVERLAPPEDWINDOW,0,0,
+                            400,300,0,0,hInst,0);
+        ShowWindow(EAX,SW_SHOWNORMAL); //show window
+        UpdateWindow(WND); //redraw window
+
+        return WND;
+   }
+
+
+
+
+  Como se puede apreciar, la parte de OpenGL, no hace falta explicarla, ya que[PCT BLANCO IZQUIERDA]
+es lo de siempre, es decir glColor3f, glPushMatrix, etc..., igual que si usamos
+Visual C++, Borland C++, AllegroGL, SDL con OpenGL, etc...[NO]
+
+
+  La parte que interesa, es la del propio WIN32:
+
+
+    WND=CreateWindow();[PC AMARILLO]
+    INIT();
+
+
+  El INIT se encarga de poner todos los par†metros del contexto de la ventana[PCT IZQUIERDA BLANCO]
+de WINDOWS. En definitiva, toda una lujuria para los amantes de programar en
+WIN32.[NO]
+
+
+  Se puede apreciar, que algunas llamadas a funciones de WINDOWS, permiten el[IZQUIERDA]
+paso de par†metros, como registros de la CPU, gracias al poder del C--. Estas
+cosas, bajo C, no s¢lo est†n prohibidas, sino que se eliminan incluso de la
+mente de los programadores, diciendo que son malas. Por tanto, queda
+demostrado, que en muchos casos, el C es ineficiente.[NO]
+
+
+
+  Y a lo que iba, que de esta forma, podemos hacer intros de 4 KB o menos en[IZQUIERDA]
+OpenGL con el C-- y bajo WIN32, sin falta de tirar de armatostes lentos e
+in£tiles, como el Visual C++. Por tanto, C-- rulez, y a programar demos con Çl,
+que ya no hay excusa.[NO]

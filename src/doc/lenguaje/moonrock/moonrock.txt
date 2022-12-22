@@ -1,0 +1,137 @@
+[FOTOS 0]
+Moonrock[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Se trata de un compilador de BASIC muy mejorado y moderno que permite la[IZQUIERDA]
+inclusi¢n de ensamblador en l¡nea de forma c¢moda. Los ejecutables finales se
+encuentran optimizados en velocidad y tama¤o, todo ello,sin quitar la facilidad
+de aprendizaje del lenguaje BASIC.[NO]
+
+
+  Hay que tener en cuenta que si los sceners permiten el uso de POWERBASIC,[IZQUIERDA]
+QBASIC, DARKBASIC y similares,¨por qu‚ no se va a poder usar el Moonrock en una
+demo?[NO AMARILLO]
+
+
+  En caso de duda, podemos usarlo para aquellos programas o utilidades que[IZQUIERDA BLANCO]
+preferimos acabarlos r pidamente, sin complicarnos la vida en PASCAL o C, pero
+con resultados de binario incluso superiores a estos.[NO]
+
+
+  La idea surgi¢ de un programador veterano Rowan Crowe, el cu l ten¡a[IZQUIERDA]
+experiencia en la programaci¢n en ensamblador de m quinas motorola 6502 de 8
+bits, as¡ como de BASIC. Como a todos, le lleg¢ el d¡a de cambiarse a PC, halla
+en 1992, tal y como se comenta. Pero nunca le gust¢ el tama¤o de los ejecutable
+del QuickBASIC y de Microsoft (A que os es familiar todo esto). Con el paso del
+tiempo, se meti¢ en el ensamblador del PC (vio la luz), y al cabo de 15 meses
+desarrollo el Moonrock, halla por el a¤o 1994. Se trataba de un compilador de
+BASIC, que generaba un c¢digo en [NO]ensambla m gico.[VERDEFOSFORITO]
+
+
+  Esto sigue la misma idea que el C-- con respecto al C. Y quien sabe, quiz s[IZQUIERDA BLANCO]
+alg£n d¡a a alguien se le ocurra lo mismo con el PASCAL.[NO]
+
+  Las ventajas principales que tenemos, son:
+
+
+   - Posibilidad de usar c¢digo de 32 bits (386+)[PC AMARILLO]
+   - No necesidad de linkar con librer¡as externas
+   - Las librer¡as son incluidas en el ASM
+   - Genera ejecutables COM y EXE
+   - Posibilidad de usar ensamblador en l¡nea
+   - Soporte de variables de tipo BYTE
+   - Soporte de cadenas de C, "cadena\n"
+   - No tiene soporte de flotantes, funciones ni gr ficos
+   - L¡mite de c¢digo y pila de 64 KB
+   - La memoria puede ser reservada por el programador
+   - Los Arrays pueden tener l¡mita de 64 KB o superarlo (HUGE)
+   - Soporte de cabeceras como C (#include)
+   - Soporte de sintaxis BASIC
+   - Freeware
+   - Soporte de DPMI (modo protegido)
+
+
+  En definitiva, que al igual que el C--, se convierte en un compilador ideal[IZQUIERDA PCT BLANCO]
+para hacer virus, gusanos, troyanos y por supuesto INTROS de 4K y 64K, y quien
+sabe que cosas m s.[NO]
+
+  Lamentablemente por ahora, s¢lo funciona en DOS, pero al menos es Freeware.
+
+
+
+
+
+
+Mi primer programa[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ser  algo as¡:
+
+
+    print "Hola TOC-DOC\n"[VERDEFOSFORITO PC]
+
+
+  Lo grabaremos como PRUEBA.MOO, y a continuaci¢n, pondremos esto en l¡nea de[IZQUIERDA PCT BLANCO]
+comandos DOS:[NO]
+
+
+    mrc PRUEBA.MOO[PC AMARILLO]
+
+
+  Y nos geenerar  un binario de 276 bytes (peque¤ito). Hay varias opciones m s,[IZQUIERDA PCT BLANCO]
+como estas que voy a nombrar:[NO]
+
+    /S   Optimizado para velocidad           /R   DOSERR abortar[PC GRIS]
+    /1   c¢digo 186/286+                     /3   c¢digo 386+
+    /E   compilaci¢n EXE                     /L   Lenguaje dependiente OBJ
+    /I   compilaci¢n incremental             /IM  Compilaci¢n incremental: MAIN
+    /P   DPMI                                /D   Runtime debugging code
+    /DT  Modo traza                          /DS  Single step each line (INT 3)
+
+    /-C  Desactivar manejador error critico  /M  Excluir test error msg list
+    /-O  Desactivar registro optimizaciones
+
+
+  
+
+
+Ensamblador en linea[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Para poder meter ensamblador en l¡nea, debemos de anteponer el car cter '@'.
+  Un ejemplo, ser¡a este:
+
+
+    @xor ax,ax[PC AMARILLO]
+
+
+  Si lo a¤adimos al c¢digo anterior de "Hola TOC-DOC",nos saldr  un binario de[IZQUIERDA PCT BLANCO]
+278 bytes, es decir, 2 bytes m s, que es la instrucci¢n XOR. Por tanto, se
+optimiza bastante. Si queremos m s optimizaciones, podemos poner:[NO]
+
+
+    mrc /1 o /3[PC AMARILLO]
+
+
+  No obstante en nuestro caso de cadenas no funcionar , por depender de[IZQUIERDA PCT BLANCO]
+instrucciones en concreto.[NO]
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ya pod‚is hacer tonter¡as en BASIC de verdad, y no en las basuras de[IZQUIERDA]
+MICROSOFT como el VISUAL BASIC y QuickBASIC.Es incre¡ble lo bien que nos pod¡an
+ir las cosas sin el BILL PUERTAS.[NO]
+  En el pr¢ximo n£mero, m s.
