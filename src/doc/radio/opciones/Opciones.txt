@@ -1,0 +1,160 @@
+[FOTOS 2]
+FOTO_RADIO_PMR_1 PALETA_RADIO_PMR_1 70 21
+FOTO_RADIO_PMR_3 PALETA_RADIO_PMR_3 70 102
+Extras del PMR[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues al igual que en la inform tica, cuando compramos un PMR, nos dan una[IZQUIERDA]
+serie de cosas que podemos hacer con ‚l, es decir, la parte oficial. Pero por
+otro lado, existe la parte unoficial, que es la que nos interesa.[NO]
+
+
+  Y esta vez le ha tocado el turno a los siguientes PMR's, que he probado.
+
+
+
+
+
+
+Twin Talker 3000[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues  al  estilo de  las  consolas , cuando  se  pulsaban  varias
+combinaciones de teclas, debemos pulsar el PTT (TALK) y el bot¢n de
+encendido a la  vez. Por  supuesto , esto debe hacerse con  el  PMR
+apagado.
+
+
+  A continuaci¢n , nos saldr  un men£, si se puede decir as¡, de la
+siguiente forma:[NO]
+
+
+      1       0[PC GRIS]
+
+
+  La parte izquierda es un men£, de tal forma que nos permite 2 opciones, el[IZQUIERDA PCT BLANCO]
+1 y el 2. Para cambiar, se debe tocar la tecla de men£.[NO]
+Dentro de cada opci¢n del men£, tenemos varias combinaciones, que se[IZQUIERDA]
+corresponde con la parte derecha de la pantalla, y se puede seleccionar con
+los botones de subir y bajar del [NO]PMR.[AMARILLO]
+
+
+  Por tanto, la opci¢n 2, nos permite 2 subopciones, es decir, 0 y 1, que[IZQUIERDA BLANCO]
+permiten activar y desactivar el squeltch. Esto es £til para DX, ya que por
+defecto, el PMR lo cierra. El squeltch, es lo que abre y cierra la tecla
+monitor, pero esto ya lo saben los radioaficionados.[NO]
+
+
+  Y la primera opci¢n, nos permite, 6 subopciones m s, que son:
+
+
+    0 1 2 3 4 5[PC GRIS]
+
+
+  Esto nos permite aumentar el n£mero de canales de nuestro PMR, tal y como se[IZQUIERDA PCT BLANCO]
+muestra:[NO]
+
+
+    0 --> [PC GRIS]8 chan/38 CTCSS (operacion normal)[AMARILLO]
+    1 --> [GRIS]12 chan/38 CTCSS[AMARILLO]
+    2 --> [GRIS]20 chan/38 CTCSS[AMARILLO]
+    3 --> [GRIS]14 chan/38 CTCSS[AMARILLO]
+    4 --> [GRIS]15 chan/38 CTCSS[AMARILLO]
+    5 --> [GRIS]20 chan/38 CTCSS[AMARILLO]
+
+
+  Para poder grabar todo, deb‚is de pulsar la tecla Monitor, y el PMR pasar [IZQUIERDA PCT BLANCO]
+a modo apagado. Ahora es cuando deb‚is de volver a encenderlo, y ver‚is los
+cambios. Si por alg£n motivo no os gusta, pod‚is repetir la acci¢n, y dejarlo
+como estaba, o en caso masivo, quitar la bater¡a o pilas del PMR, pasando a
+su estado por defecto.[NO]
+
+
+  Aunque el PMR pasar  a tener m s canales que los 8 por defecto, he de[IZQUIERDA]
+comentaros, que esto no es la BOMBA, ya que en realidad, el TX si funciona,
+pero el RX no est  ajustado para ello, es decir, no podr‚is pillar nada (o
+casi nada), incluso con otro PMR con los mismos cambios. Pero claro, si us is
+un esc ner de radio (no de ordenata) o un receptor para las frecuencias dadas,
+podr‚is oirlo. En concreto, andan por los 433 Mhz y 480 Mhz. Ya lo se, no es
+una pasada, pero al menos, pod‚is tener [NO]20 semicanales.[AMARILLO]
+
+
+  Si pon‚is la opci¢n 1 y la subopci¢n 5, es decir, 20 canales, pasar‚is a un[IZQUIERDA BLANCO]
+tercer men£, que pod‚is seleccionar con la tecla Menu, y ser¡a la opci¢n 3,
+que permite ponerse a 0 y 1, y todav¡a no se para que sirve.[NO]
+
+
+  Adem s ahora, el regulador de volumen, no es que se vea mal en pantalla, sino[IZQUIERDA]
+que indica si estamos en los canales por debajo del 9 o por encima.[NO]
+
+
+
+  Y aunque hay m s cosas que se pueden hacer con este PMR, lo dejamos hasta[IZQUIERDA]
+aqu¡.[NO]
+
+
+
+
+
+
+
+TWIN TALKER 6000[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues claro,como es de la misma casa, muchos pensar‚is que haciendo
+lo mismo que antes, todo solucionado. Pues casi , si no llega a ser,
+porque debemos pulsar:
+
+
+    PTT, encencido y menu[PC GRIS]
+
+
+  Ahora nos sale muchas m s opciones que en el 3000, pero al final, es el[IZQUIERDA PCT BLANCO]
+"mismo perro, con diferente collar". En concreto, son 4 funciones:[NO]
+
+
+    1 2 3 4[PC GRIS]
+
+
+  Y cada una, permite lo siguiente:[PCT BLANCO]
+
+
+    1 --> [PC GRIS]0 1 2 3 4 5 6[AMARILLO]
+    2 --> [GRIS]0 1[AMARILLO]
+    3 --> [GRIS]0 1[AMARILLO]
+    4 --> [GRIS]1 2 3 4[AMARILLO]
+
+
+  El 1, es para los canales. Probad a cambiarlo, y ver‚is como ten‚is m s o[IZQUIERDA PCT BLANCO]
+menos canales, al igual que el 3000. Pero lo mismo, para la recepci¢n,
+necesitar‚is de un esc ner. Sin embargo, he llagado a recibir algo de se¤al,
+pero inestable.[NO]
+
+
+  El 2, es para el squeltch, igual que el 3000.
+
+
+  El 3 es para regular el VOX, es decir, el nivel de manos libres, de 1 a 3,[IZQUIERDA]
+una vez que hayamos encendido el PMR y hayamos entrado en modo VOX, en lugar
+de tener [NO]ON y OFF.[AMARILLO]
+
+
+  El 4 es el m s gracioso, ya que nos permite incluso bloquear el PMR, o[IZQUIERDA BLANCO]
+cambiar la melod¡a de encendido y dem s chorradas, como los gr ficos de
+pantalla.[NO]
+
+
+  Para grabar, pulsamos la tecla Monitor. ¨Acaso no es de la misma casa que[IZQUIERDA]
+el 3000?.[NO]
+
+
+  Y si sale algo mal, muy mal, y no pod‚is ponerlo como estaba, ya sab‚is a[IZQUIERDA]
+quitar las bater¡as o pilas.[NO]
+
+
+  As¡ que buena suerte con este PMR, y que lo disfrut‚is tanto como yo.

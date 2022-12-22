@@ -1,0 +1,113 @@
+[FOTOS 3]
+FOTO_RADIO_PMR_1 PALETA_RADIO_PMR_1 70 49
+FOTO_RADIO_PMR_2 PALETA_RADIO_PMR_2 15 64
+FOTO_RADIO_PMR_3 PALETA_RADIO_PMR_3 70 92
+Packet con PMR[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Los PMR (Panaeuropean Movil Radio o Private movil radio), surgieron en 1998,[IZQUIERDA]
+y siguen una normativa que los regula al uso de la frecuencia de 446 Mhz, y
+una potencia de  500 mW (0.5 W). Por supuesto, son de uso libre, es decir,
+est n exentos de pago de licencia, frente a los transceptores de
+radioaficionados, que si lo exigen. Por tanto, sus £nicas restricciones, son
+de potencia, y otros peque¤os matices, que no se van a comentar. A parte de
+las frecuencias usadas, se diferencian de las redes WIFI, en el punto de que
+existe normativa, ya que las WIFI, son [NO]"tierra de nadie".[AMARILLO]
+
+
+
+  De la misma forma que se puede hacer radio packet con transceptores de[IZQUIERDA BLANCO]
+radioaficionados, aqu¡ se puede. Sin embargo, sucede algo similar a la CB, y
+es que al existir una normativa, s¢lo se refleja la fon¡a, y a parte de los
+subc¢digos, no se dice nada de esta modalidad, ya que el AX.25 es v lido s¢lo
+para radioaficionados. Sin embargo, eso no impide que se puedan usar otras
+modilidades digitales, como puede ser el protocolo digital que estoy
+desarrollando [NO](CB PACKET para la JJNET).[AMARILLO]
+
+
+
+  Hay que recordar, que esta banda es incluso mejor que los 2 metros (144 Mhz)[IZQUIERDA BLANCO]
+de los EB, por lo que la comunicaciones digitales son muy buenas, y por
+supuesto, de manera libre. Sin embargo, las limitaciones vienen dadas por la
+normativa, que impide usar m s de 12 Khz por canal. Adem s, la distancia
+m xima alcanzada es de 3 Km t¡picamente, sin obst culos o bien, 500 metros,
+dentro de los edificios).[NO]
+
+
+
+  Pero hay que entender esta forma de comunicaci¢n de forma cordial, y no como[IZQUIERDA]
+una manera de acaparar el canal de forma constante y absurda, como es el caso
+del WIFI y otros modos. Por tanto, respetad s¡ el canal esta usado (yendo a
+otro), o bien enviad los datos necesarios (no envi‚is pirater¡a y datos
+inmensos innecesarios). Es decir, se puede montar una red de mensajer¡a o de
+correo perfecta, y sin acaparamiento, que en caso de emergencia es m s que
+suficiente.[NO AMARILLO]
+
+
+
+
+
+TwinTalker 3000[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues, hay que construir el mismo interface que para el TALKI ALAN
+42 ,  que  viene  explicado en esta diskmag. Pero hay que hacer una
+modificaci¢n para adaptar  la  salida  de (Audio  y PTT juntas) del
+conector minijack a uno jack.
+
+
+  Adem s, este PMR, viene con una £nica salida, de tal forma, que el lado[IZQUIERDA]
+izquierdo es para la salida del audio (cascos o altavoz) y el derecho para la
+entrada (micr¢fono). La masa es com£n. Por tanto, deb‚is de echar mano al
+manual, para poder ver que corresponde a cada lado.[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Una vez hecho esto, notar‚is que no funciona nada, pero claro, la respuesta[IZQUIERDA]
+es muy sencilla, ya que hay que activar el modo VOX (manos libres). De esta
+forma, en el momento en que entre audio por la entrada, se activar . Por
+supuesto, los niveles de audio deben estar ni muy bajos (no se activar ), ni
+excesivamente altos (quedar  activo siempre). As¡ que a prueba y error.[NO]
+
+
+
+
+
+
+
+Twin Talker 6000[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Este  PMR  es  mucho  m s  c¢modo  y  bonito  visualmente  que su
+predecesor  el  3000.  A  esto ,  hay  que  a¤adir  que incorpora 2
+conectores independientes,para la salida de audio y para la entrada
+,por lo que nos  es  perfecto  para  hacer  PACKET. Por  tanto , no
+necesitaremos hacer ning£n cambio al interface del [NO]TALKI ALAN 42.[AMARILLO]
+
+
+  Tampoco hay que poner el PMR en modo VOX, aunque funciona como el TWIN[IZQUIERDA BLANCO]
+TALKER 3000. Ahora ganamos, que al activar el puerto serie, se abre el PTT,
+aunque no se introduce audio. Pero una vez combinado con el audio, se
+transmite todo al aire.[NO AMARILLO]
+
+
+  Por tanto, recomiendo los PMR's con entradas y salidas separadas, ya que el[IZQUIERDA BLANCO]
+esquema es m s sencillo y £til.[NO]

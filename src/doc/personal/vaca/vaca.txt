@@ -1,0 +1,84 @@
+[FOTOS 3]
+FOTO_PERSONAL_VACACIONES1 PALETA_PERSONAL_VACACIONES1 60 6
+FOTO_PERSONAL_VACACIONES2 PALETA_PERSONAL_VACACIONES2 60 46
+FOTO_PERSONAL_VACACIONES3 PALETA_PERSONAL_VACACIONES3 60 71
+Vacaciones[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues estas  vacaciones, como no, voy  a  aprovechar  para
+hacer publicidad  de Asturias, en concreto de Luarca. Ya se
+que no  nac¡  en  ella,  pero como si fuera as¡. Donde est‚
+Luarca, que se quite la basura de la [BLANCO]ciudad.[AMARILLO]
+
+
+  Es una villa peque¤a, pero pac¡fica, llena de pescadores. No tiene una gran[IZQUIERDA BLANCO]
+flota, pero es zona segura. Al no tener industria, no est  sucia, como pueda
+ser Navia, Gij¢n, Oviedo, etc...[NO]
+
+
+
+  En definitiva, que es el lugar ideal para pasar las vacaciones, tanto en[IZQUIERDA]
+familia, como en uno de los muchos hoteles que hay. Y claro, en mi caso, como
+no he hecho nada m s que comer y dormir, los kilos empiezan a aflorar.[NO]
+
+
+
+  Aqu¡ dejo unas fotos del Puerto. Las fotos de la playa, tengo que buscarlas,[IZQUIERDA]
+pero tambi‚n est  muy bien, aunque no sea ni muy grande ni muy peque¤a.[NO]
+
+  Adem s este a¤o ha hecho muy buen tiempo.
+
+
+  Por supuesto, no he podido aislarme de los ordenadores, ni en Luarca, ya que[IZQUIERDA]
+de vez en cuando, iba a alg£n CIBER, y miraba algo. Uno de los ciber, pose‚ un
+CPC 464 montado entero y un CPC 6128, pero los tiene sin encender y sin
+a¤adidos, al [NO]estilo de un museo.[AMARILLO]
+
+
+  Los otros cibers poseen pantallas planas, WEBCAMS, y consolas como PS2, XBOX[IZQUIERDA BLANCO]
+y una GC. Ideal para trabajar, 8-D))).[NO]
+
+
+
+  Ya s‚ que esto tiene que ver poco con la scene, pero es donde me gusta pasar[IZQUIERDA]
+las vacaciones. He estado en varios sitios, tal y como se puede ver en las
+fotos, pero quiz s el mejor, ha sido visitar las Cascadas de Oneta, en donde
+las fotos que se pueden sacar, son m£ltiples y variadas.[NO]
+
+
+
+  Hay que andar un poco, ya que la zona no est  permitida a
+coches (gracias a Dios). Y una vez abajo, es perfecto, pero
+hay que tener cuidado de no mojarse,si resbalas. La luz que
+entra en las cascadas, no la consigue ning£n  Raytracer, ya
+que no s¢lo entra la luz global perfecta, sino que al haber
+ rboles, determinados rayos de  luz, entran  en  grupo  por
+varias hojas, generando varios  focos de luz local. De esta
+forma, se tiene gran variaci¢n de luz. Y a su vez, el agua,
+refleja la luz, cosa que ning£n RADIOSITY, puede lograr. Es
+un espect culo digno para los ojos, a la vez,de que se est 
+fresco. Todo esto deber¡an tenerlo en cuenta los Grafistas,
+ya que los que crean el render, ya lo saben, poro  los  GFX
+3D, no se dan cuenta, de que  son  irreales  en  much¡simos
+casos. Los GFX 3D, tienen  la  cabeza cuadrada, y creen que
+las  escenas  son  tan  perfectas ,  que  por  eso  parecen
+irreales ,  cuando  es  todo  lo  contrario ,  ya  que  son
+imperfectas, y por eso son irreales.
+
+
+
+
+  Otro sitio bastante  perfecto, es los Castros de Coa¤a, a
+poca  distancia  de  Navia. Por  cierto ,  Coa¤a  posee  un
+Telecentro.[AMARILLO]
+
+
+
+
+  He  de  reconocer ,  que  tambi‚n me  ha gustado Tapia de[BLANCO]
+Casariego, pero prefiero Luarca.

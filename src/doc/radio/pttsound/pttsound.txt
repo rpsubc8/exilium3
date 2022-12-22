@@ -1,0 +1,250 @@
+[FOTOS 2]
+FOTO_RADIO_PTTSOUND_1 PALETA_RADIO_PTTSOUND_1 54 14
+FOTO_RADIO_PTTSOUND_2 PALETA_RADIO_PTTSOUND_2 47 160
+PTT SOUND[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Como noticia, ya he terminado el programa PTT Sound, el cual lo he declarado[IZQUIERDA]
+GNU, y se encuentra 100% hecho en C, tirando de las librer¡as ALLEGRO para el
+sonido.[NO]
+
+
+  Lo pod‚is descargar de la p gina web del grupo SLIDERS:
+
+
+    http://www.lanzadera.com/ensamblador[XM VERDEFOSFORITO]
+
+
+  En la secci¢n de Radio.[PCT BLANCO]
+
+
+  La idea surgi¢ con motivo de tener que realizar los
+concursos  culturales  del  radioclub ALFA-OMEGA, del
+cual  soy  VOCAL. Como  quer¡a  alegrar  un  poco  el
+concurso, y automatizar un poco los procesos, decid¡,
+juntar  la  emisora al ordenador, de tal forma ,  que
+pudiera  convertir   el  ordenador  (con  tarjeta  de
+sonido)  en  una  especie   de  sadelta  con  efectos
+sonoros.
+
+
+  As¡, cuando una persona acertase una pregunta,se pod¡a poner un efecto sonoro[IZQUIERDA]
+de aplausos, y si fallaba, el de error. No obstante, no es muy £til poner un
+sonido para cada pregunta, ya que sino se eterniza el concurso. En concreto, en
+cada concurso, pongo una media de 10 efectos sonoros, lo suficiente para ser
+gracioso, y no caer pesado, teniendo en cuenta, que el concurso consta de 10
+rondas, y suelen participar entre 8 y 15 personas.[NO]
+
+
+  El programa se encarga de abrir y cerrar la pastilla, por medio del puerto[IZQUIERDA]
+serie, y en caso de querer reproducir alg£n efecto sonoro,debemos seleccionarlo
+con los cursores, o bien con el rat¢n (pulsado el bot¢n izquierdo).Las opciones
+de teclado son:[NO]
+
+
+   - Cursores izquierda y derecha [PC AMARILLO](para seleccionar efecto sonoro)[GRIS]
+   - Tecla TAB [AMARILLO](para cambiar del men£ de efectos al men£ de roger beep)[GRIS]
+   - ENTER [AMARILLO](para reproducir el efecto sonoro)[GRIS]
+   - R [AMARILLO](para activar el roger sep)[GRIS]
+   - Barra Espaciadora [AMARILLO](para activar pastilla o desactivarla)[GRIS]
+   - ESC [AMARILLO](para salir)[GRIS]
+   - Bot¢n derecho del rat¢n [AMARILLO](para reproducir efecto sonoro)[GRIS]
+   - Bot¢n izquierdo del rat¢n [AMARILLO](movi‚ndose,elegimos efecto sonoro o roger beep)[GRIS]
+
+
+  Como pod‚is ver, es bastante sencillo. Adem s se puede echar un vistazo al[IZQUIERDA PCT BLANCO]
+c¢digo fuente. Se permiten una burrada de efectos sonoros, as¡ como de ROGER
+SEP. El Roger beep,no es m s que un peque¤o efecto sonoro que se incluye cuando
+dejamos de apretar pastilla en la vida real.Para hacer esto,ten¡amos que gastar
+en Pastillas especializadas, que eran bastante caras. Ahora podemos poner
+efectos, como el del Correcaminos, por 0 Euros. Para activar el roger beep, hay
+que pulsar la tecla 'R' para activarlo, y luego con s¢lo apretar la BARRA
+ESPACIADORA, cuando volvamos a apretarla, sonar  el Efecto (todo autom tico).[NO]
+Para cambiar de Roger Beep, hay que situarse en el men£ correspondiente con la[IZQUIERDA]
+tecla TAB, o bien con el rat¢n, y seleccionar con los cursores.[NO]
+
+  El sonido se puede regular con las teclas + y -.
+  Hay que tener activo la salida de reproducci¢n de micr¢fono,e incluso a veces[IZQUIERDA]
+la de grabaci¢n. De esta forma, todo lo que digamos por el micr¢fono,saldr  por
+la tarjeta de sonido, y esta a su vez ir  a la emisora, que cuando apretamos
+PTT, saldr  al aire.[NO]
+  Por tanto, desde WINDOWS, acordaros de activar la casilla correspondiente, en[IZQUIERDA]
+PANEL DE CONTROL, CONTROLES DE VOLUMEN.[NO]
+  Bajo DOS, existen drivers que una vez cargados, activan la casilla[IZQUIERDA]
+correspondiente. As¡ que aseguraros de tener esto activo.[NO]
+
+
+  Para poder salir de la tarjeta de sonido a la emisora, tendr‚is que hacer un[IZQUIERDA]
+INTERFACE igual que el de radiopacket con tarjeta de sonido, que se explic¢ en
+el n£mero 1 de la diskmag EXILIUM.[NO]
+
+
+  A diferencia de las pastillas reales, para poder hablar, no hace falta tener[IZQUIERDA]
+apretada la BARRA ESPACIADORA todo el rato, sino que es un biestable, que
+pulsando una vez se activa, y a la siguiente se desactiva.[NO]
+
+
+  Las medidas y teclas que he seleccionado, han sido para gusto personal,ya que[IZQUIERDA]
+el programa era para mi. Pero al declararlo GNU, cualquiera puede modificarlo a
+su imagen y semejanza. Pero eso si, el que tuvo la idea y el que construy¢ la
+primera versi¢n 1.0, ha sido, es y ser  JJ (Jaime Jos‚ Gav¡n Sierra).[NO]
+
+
+  Hay que destacar, que el programa incluye una serie de efectos sonoros ya[IZQUIERDA]
+grabados en un archivo DAT, en concreto uno para los sonidos, y otro para el
+roger beep. Para m s informaci¢n, pod‚is consultar la ayuda. Si perd‚is los
+archivos DAT, no hay problema, ya que no dar  problemas, por que lo he
+controlado. Si queremos meter sonidos extras, deber‚is mirar los TXT
+correspondiente, y recompilar todo,adem s de disponer de las librer¡as ALLEGRO.[NO]
+  Y si quer‚is a¤adir sonidos sin falta de que est‚n precompilados,s¢lo hay que[IZQUIERDA]
+escribirlos en un archivo INI correspondiente, de tal forma, que contenga:[NO]
+
+
+   Nombre del efecto sonoro[PC AMARILLO]
+   Nombre del archivo sonoro con path incluido
+
+
+  As¡ si queremos poner el sonido RISA.WAV, debemos de escribir algo as¡:[IZQUIERDA PCT BLANCO]
+
+
+   RISA[PC AMARILLO]
+   risa.wav
+
+
+  Si no existe el archivo WAV o algo similar, no hay problema, ya que se ha[IZQUIERDA PCT BLANCO]
+controlado. Pero no os confi‚is demasiado, ya que al ser GNU, lo he hecho todo
+muy r pido, y con miras a que lo continue la gente, no tom ndome las mismas
+molestias que con la diskmag, ya que si lo hago yo todo, nadie har  nada m s.[NO]
+
+
+
+
+
+
+Plataformas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en principio, funciona en:
+
+   FreeDOS, WINDOWS[PC GRIS]
+
+  Pero lo he compilado en LINUX, BeOS y QNX, sin problemas,salvo que el control[IZQUIERDA PCT BLANCO]
+del puerto serie no funcionar  con estos 3 £ltimos. Eso lo dejo para los que
+quieran continuar desarrollando el programilla (GNU).[NO]
+
+  Los requerimientos para que funcione holgado, son:
+
+
+   80386 con 2 MB (funciona con menos), tarjeta de sonido, bajo DOS.[PC GRIS]
+   80486 con 16 MB, tarjeta de sonido, bajo WINDOWS
+
+
+  Para el caso de WINDOWS, he usado la llamada SYSTEM, a un programilla que he[IZQUIERDA PCT BLANCO]
+hecho para WIN32, con soporte de puerto serie, ya que si inclu¡a las librer¡as
+de WINDOWS al compilar con ALLEGRO, me daba error en los BITMAPS.[NO]
+  No obstante, esto no da problema bajo WINDOWS 95, 98 ni ME. Pero bajo NT,2000[IZQUIERDA]
+y XP, si, ya que desactiva la l¡nea RTS en el momento que termina la llamada
+SYSTEM.[NO]
+  Bajo DOS, se hace una llamada directa sobre el puerto serie, lo que puede[IZQUIERDA]
+provocar bloqueos con alg£n dispositivo como el rat¢n o el MODEM, si lo tenemos
+conectado a ‚l (no hago comprobaciones).[NO]
+
+
+
+
+
+Version 1.1[AMARILLO GRANDE]
+[PCT BLANCO NO
+
+
+  En vacaciones, y mucho despu‚s de empezar  a
+escribir este art¡culo, me puse a modificar la
+versi¢n 1.0, y di con esta, en concreto la 1.1
+
+  Posee, a parte, de un INTERFACE m s bonito y
+m s f cil de usar, una serie de mejoras , como
+un nuevo  control  del  puerto  serie  con  la
+libreria DZCOM.
+
+  Tambi‚n soporta, para los SONIDOS:
+
+   WAV, MP3, OGG y MIDI[PC GRIS]
+
+  Pronto, pondr‚ MOD.[PCT BLANCO]
+
+  Tiene  varios  niveles de  transparencia , y
+por supuesto, sigue consumiendo poca memoria.
+  Se  ha estructurado m s el c¢digo, y soporta
+JOYSTICK , en  concreto , he probado el PAD de
+puerto MIDI y el de la PSX adaptado.
+
+  Para consultar el programa, mirar:
+
+
+   http://www.lanzadera.com/ensamblador[XM VERDEFOSFORITO]
+
+
+
+
+
+Ampliaciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues yo he realizado esto, pero cualquiera puede adaptarlo. En concreto, he[IZQUIERDA]
+modificado los par metros, para no cargar la pantalla del principio.En breve lo
+pondr‚ en la p gina web.[NO]
+
+  Las opciones son:
+
+   COM1, COM2, COM3, COM4, NULL, SETUP, NO[PC AMARILLO]
+
+  En donde[PCT BLANCO] COMx[AMARILLO] es para el puerto.[BLANCO]
+  NULL [AMARILLO]es para no usar puerto serie.[BLANCO]
+  SETUP [AMARILLO]es para configurar la tarjeta de sonido, rat¢n y dem s.[BLANCO]
+  NO [AMARILLO]para no cargar portada.[BLANCO]
+
+  He tomado la deliberaci¢n de usar el puerto serie, porque me da mala espina[IZQUIERDA]
+usar el paralelo u otro, por el retorno de corriente. Pero cualquiera puede
+programarlo a su gusto, ya que el puerto paralelo es m s f cil de programar, y
+debido a que posee varias l¡neas, se podr¡a controlar varias emisoras.[NO]
+
+
+  No he usado las funciones de grabaci¢n de ALLEGRO,con soporte de FULL DUPLEX,[IZQUIERDA]
+m s que nada por acabar antes, ya que tan s¢lo tengo que abrir la entrada de
+micr¢fono y acabado. Pero cualquiera puede a¤adirlo.[NO]
+
+
+  Por cierto, necesito ayuda eso si, para poder traducirlo al INGLES,ya que los[IZQUIERDA]
+de FreeDOS, me lo han pedido en la lista de correo, y mi ingl‚s es bastante
+cutre, en concreto s¢lo se esto:[NO]
+
+
+   cheater mother fucker. 8-D))[PC AMARILLO]
+
+
+  As¡ que el que quiera unirse a esta haza¤a,que parta en busca del gran anillo[IZQUIERDA PCT BLANCO]
+para poder gobernar a todo el GNU.[NO]
+
+
+
+
+
+Advertencia[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Todo este programilla pertenece a la licencia GNU, por lo que est  sujeto a[IZQUIERDA PCT BLANCO]
+esta norma, pero eso no quiere decir, que nos podamos saltar todo a la torera,
+ya que lo que hagamos al final con ‚l, estar  regido por TELECOMUNICACIONES.[NO]
+
+  As¡, yo he decidido samplear los ejemplos a 8 Khz, ya que 8 Khz / 2 = 4 Khz[IZQUIERDA]
+que entra dentro del rango audible de la voz, y por tanto, del canal de radio.
+Si huibera optado por samples de 22 Khz o m s, tendr¡a mejor calidad, pero
+podr¡a introducir arm¢nicos parasitarios en otros canales, que dependiendo
+de los filtros pasabajos de la emisora, lo cortar n o no.[NO]

@@ -1,0 +1,214 @@
+[FOTOS 0]
+PMR vs CB[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Desde hace tiempo, en concreto, desde la aparici¢n del PMR, se ha hablado[IZQUIERDA]
+mucho de su enfrentamiento con la CB, es decir, de si va a ser su sucesor, o
+que ya lo es. Se ha llegado pues a decir, lo siguiente:[NO]
+
+
+  El PMR es la nueva CB.
+
+
+  Y claro, aqu¡ se llega a un punto donde se toman 3 posibilidades:
+
+
+   - Estar de acuerdo[PC GRIS]
+   - No estarlo
+   - Indiferente
+
+
+  Pero lo que si es claro, por l¢gica deductiva, que si el PMR es la nueva CB,[PCT BLANCO IZQUIERDA]
+no se llamar¡a PMR, sino CB.[NO]
+
+
+
+  El PMR al principio se dijo que era Panaeuropean Movil Radio, para luego[IZQUIERDA]
+llamarse Private Movil Radio, y dem s formas, es decir, no tiene claro su
+nombre. Lo que si es claro, es que sigue una norma Europea, a diferencia del
+WIFI. Esa norma es aplicable a las potencias emitidas y modulaciones:[NO]
+
+
+   - 8 canales de 12 Khz de separaci¢n, empezando en 446 Mhz[PC GRIS]
+   - Modulaci¢n FM
+   - Potencia de 0.5 W
+
+
+  Hay m s normas, pero la principal es esa. En concreto, esto es para los[PCT BLANCO IZQUIERDA]
+pa¡ses de la CEE.[NO]
+
+
+  En cambio la CB (Banda Ciudadana), tiene las siguientes caracter¡sticas:
+
+
+   - 40 canales entre 26 Mhz y 27 Mhz[PC GRIS]
+   - Modulaci¢n AM, FM, SSB (USB, LSB)
+   - Potencia de 5 W para FM, y 12 W para SSB
+
+
+  Y por supuesto, la CB es un est ndar mundial.[PCT BLANCO]
+
+
+  ¨Entonces por qu‚ parece ser que gusta m s a la gente el PMR que la CB?. Muy[IZQUIERDA]
+sencillo, porque permite usar la UHF de manera gratuita, y sin trabas, es
+decir, sin ex menes y pruebas de radiooperador.[NO]
+
+
+  Hay que destacar, que cada pa¡s tiene sus normas. As¡ en Am‚rica, los PMR's[IZQUIERDA]
+usan frecuencias distintas, y potencias m s elevadas, en concreto de 1 W
+para arriba. Si llevamos estos equipos para Espa¤a, estaremos incumpliendo las
+normativas (ilegalidad). Lo mismo sucede en la CB, ya que en Italia se permite
+unas opciones distintas, con m s potencias de salida, que al llevar a Espa¤a,
+incumplen la CB[NO] (ilegalidad).[AMARILLO]
+
+
+
+  Si comparamos las caracter¡sticas de un PMR con un transceptor de CB, una[IZQUIERDA BLANCO]
+cosa es clara, el PMR pierde por todos los lados. En concreto, desde una casa,
+con una emisora de CB t¡pica, y antena omnidireccional vertical interior,
+cubrimos de sobra el radio de acci¢n de una ciudad peque¤a (5 Km), tanto en
+FM, como en AM, sin preocuparnos, de orientar la antena o no. Con un PMR, eso
+es casi imposible, ya que tener que atravesar varios edificios, ya tienen
+problemas, hasta los transceptores de 2 metros. Otra cosa, es que pongamos
+antenas direccionales, y aumentemos la potencia [NO](ilegalidad).[AMARILLO]
+
+
+
+  Pero claro, la cosa en CB mejora, si nos metemos en un veh¡culo m¢vil, una[IZQUIERDA BLANCO]
+antena direccional, y usando los 12 W de la SSB. Ah¡ ya la cosa, es incre¡ble,
+ya que estamos en HF, y podemos dar la vuelta al mundo. Podemos hacer QSO's
+con se¤al 7, con Italia, Francia, B‚lgica, Alemania, Almer¡a, M laga, etc..,
+como me sucedi¢ este verano, que consegu¡ m s de 50 contactos con la
+activaci¢n del ALFA OMEGA.[NO]
+
+
+
+  Esto con PMR, implicar¡a, subirse a un monte de m s de 2 Km, y poner una[IZQUIERDA]
+direccional incre¡ble soldada al equipo, as¡ como el UHF Booster, para no
+llegar ni siquiera a m s de 300 Km. Pero, nos queda la pregunta:[NO]
+
+
+  ¨y esto es un PMR?[PC GRIS]
+
+
+  Pues claro que no. Esto ya es un invento raro, que pretende convertir un[IZQUIERDA PCT BLANCO]
+PMR en algo que no es, todo por no querer seguir usando otras modalidades,
+como la CB, por ejemplo.[NO]
+
+
+  Si comparamos el tama¤o de un PMR con un talkye de CB, la cosa es clara,[IZQUIERDA]
+gana el PMR, porque es m s elegante, compacto, y tiene varias funciones, como
+subtonos. Si lo comparamos con un talkye de 2 metros, la cosa, tambi‚n es
+favorable para el PMR, ya que el primero suele ser m s grande. Si miramos el
+precio, todav¡a mejor para el PMR, tanto del equipo, como de tasas de TELECO.[NO]
+  Pero si miramos el alcance, ah¡ gana, incluso el talkye de CB. Y si lo[IZQUIERDA]
+comparamos con una estaci¢n base, todav¡a mejor.[NO]
+
+
+  ¨Entonces, de donde viene el odio?[PC GRIS]
+
+
+  Pues unos dicen, que si son las tasas, otros que si las normativas, para al[IZQUIERDA PCT BLANCO]
+final meterse con las frecuencias de EC, EB, EA. Sin embargo, una cosa es
+clara, el PMR es para lo que es, para distancias cortas, y potencia baja
+(apenas mete interferencia en el monitor), y que a veces, da sorpresas.[NO]
+
+
+  En cuento a la normativa, la CB pone tasas por la transmisi¢n (uso del[IZQUIERDA]
+espectro radioel‚ctrico), igual que a los EC, EB y EA, pero no por recibir.
+Esto es cosa normal. Esas tasas, son muy bajas (5 a¤os), en comparaci¢n con
+el precio de algunos equipos (as¡ que no frivolicemos). El PMR no pone tasas,
+igual que no se pone tasas con el mando a distancia del televisor o el video,
+o el de abrir nuestro coche. Pero no se pone tasas, porque se supone que la
+gente, va a usarlo con moderaci¢n, es decir, no va a montar repetidores cada
+500 metros, para poder encender su televisi¢n situada a 5 Km. As¡ que seamos
+realistas, y no convirtamos algo tan bien definido (por ahora), que es el
+PMR y la CB, en algo raro, como la [NO]telefon¡a m¢vil.[ROJO]
+
+
+  Otro problema que tiene el PMR, y apenas se ha pronunciado sobre ello, es[IZQUIERDA BLANCO]
+el siguiente:[NO]
+
+
+   - Una empresa o particular puede acaparar el canal todo lo que quiera.[PC GRIS]
+   - No hace falta tener educaci¢n.
+
+
+  Es decir, puesto que es libre, pod‚is hacer lo que quer is con ello, tanto[IZQUIERDA PCT BLANCO]
+si quer‚is insultar a alguien, como si quer‚is retransmitir m£sica. Esto en
+CB (gracias a Dios) no est  permitido, y por supuesto, menos en EC, EB o EA.[NO]
+Esto no quiere decir, que no se haga, sino, que no se puede hacer, y por[IZQUIERDA]
+tanto, se pueden tomar medidas legales.[NO]
+
+
+  Nos queda entonces, la pregunta en el aire:
+
+
+  ¨Qu‚ suceder  cuando casi todo el mundo tenga PMR, y los 8 canales est‚n[IZQUIERDA]
+ocupados por lo siguiente?[NO]
+
+
+   - Canal 1 emergencia[PC GRIS]
+   - Canal 2 una empresa de al lado
+   - Canal 3 el vecino de enfrente
+   - Canal 4 un repetidor
+   - Canal 5 uno emitiendo las 24 horas de d¡a Radio packet
+   - Canal 6 otro repetidor
+   - Canal 7 Unos monta¤eros, del monte de detr s de casa
+   - Canal 8 un segurata del centro comercial a 300 metros
+
+
+  Como se puede ver, no se podr  ni mandar nada. As¡ que es mejor, organizarlo[IZQUIERDA PCT BLANCO]
+todo, como sucede en CB, y usar LPD (69 canales) para los casos necesarios, y
+los repetidores quitarlos, dejando los 8 canales libres para cualquier cosa.[NO]
+
+  Recordemos, que aunque el canal 1, se use de emergencia, no quiere decir,[IZQUIERDA]
+que exista una ley que lo obligue. En CB, cualquier canal es de emergencia, y
+si alguien interrumpe una emergencia, se pueden tomar medidas, que implique
+la c rcel. Si no sois capaces de entenderlo, es que no sois radioaficionados,
+ni est is preparados para serlo.[NO]
+
+
+  Hay que tener en cuenta, que aqu¡ en Espa¤a, la CB tuvo una buena acogida[IZQUIERDA]
+en la ‚poca de los 80 y principios de los 90. Es m s, me acuerdo, cuando
+incluso los 40 canales estaban ocupados. Pero a partir de 1996, la cosa ha
+ido empeorando. Sin embargo, en pa¡ses como Italia, Alemania, Rusia y Am‚rica,
+la cosa est  viento en popa, ya que all¡ hay otras normativas, y otra cultura.
+  En concreto, en Asturias, apenas se ha usado ni un 25% de la capacidad que
+puede dar la CB, y sin embargo, muchos ya la quieren dar por muerta. Deber¡amos
+unirnos m s, y mejorar aquellas cosas que no nos gustan de la CB, pero al
+final, saldr  a relucir la verdadera naturaleza del hombre:[NO]
+
+
+  "No odiamos a la CB, sino a las personas que andan detr s de la CB"[PC GRIS]
+
+
+  Pero tranquilos, esto sucede con todo, incluso con el PMR, con los m¢viles[IZQUIERDA PCT BLANCO]
+o INTERNET, y a todo [NO]"cerdo le llega su San Mart¡n".[AMARILLO]
+
+
+  Para que algo pueda ser el sucesor, debe solucionar los mismos problemas[IZQUIERDA BLANCO]
+que su antecesor, y m s. Y esto, el PMR no puede hacerlo, por tanto, no puede
+ser el sucesor, pero eso no impide, que tenga vida propia, y pueda solucionar
+otros problemas.[NO]
+
+
+  Y en cuanto a quitar las pruebas del MORSE e incluso las de electr¢nica para[IZQUIERDA]
+los nuevos radiooperadores, ser¡a lo equivalente a quitar la mec nica y las
+se¤ales de tr fico en el carnet de conducir, es decir, optar por el coche sin
+carnet.[NO]
+
+
+  Ser radioaficionado no es hablar por un PTT, y decir "Buen¡simos d¡as, ¨qu‚[IZQUIERDA]
+tal est  el d¡a?", es decir, tener una frecuencia s¢lo para nosotros (un
+tel‚fono), sino estar para ayudar, igual que un conductor debe parar su
+veh¡culo, y prestar ayuda en un accidente. O acaso, hemos olvidado nuestros
+principios.[NO]
+
+
+  NO es lo mismo, ser un aficionado a la radio (WIFI, PMR, GPS, GPRS, DAB,[IZQUIERDA AMARILLO]
+etc...) que un radioaficionado (CB, EC, EB, EA, Morse, SSTV, RTTY, etc...)[NO]

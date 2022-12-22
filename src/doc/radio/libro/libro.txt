@@ -1,0 +1,168 @@
+[FOTOS 0]
+Libro de Radio[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  Pues desde hace un par de meses he conseguido las letras de radioaficionado[IZQUIERDA]
+(EC1DLN), y adem s, he dado por concluido un cuadernillo sobre la Radio, que
+consta de los siguientes temas:[NO]
+
+
+   - Radioafici¢n[PC AMARILLO]
+   - MORSE
+   - RTTY, PSK31, AMTOR, PACTOR, PACKET RADIO, CLOVER
+   - PMR's y LPD's
+   - SSTV, APRS, DX-CLUSTER, QSL's, CB.
+   - PTT SOUND v1.0
+   - CB PACKET
+   - Otras modalidades digitales y variedades
+
+
+  El nombre de este cuadernillo se hace corresponder con:[PCT BLANCO]
+
+
+   LA RADIO Y LA COMUNICACION[PC AMARILLO]
+
+
+  Y a parte de los temas anteriormente descritos, tambi‚n vienen esquemas y[IZQUIERDA PCT BLANCO]
+dem s utilidades para poder realizar con nuestra RADIO y con nuestro PC. Son
+m s de 150 p ginas, que he encuadernado, pero que por ahora he permitido que se
+pueda conseguir a trav‚s de INTERNET y de forma gratuita en formato PDF.[NO]
+
+
+
+  Este cuadernillo consta a su vez de fotos, para aquellos que no sepan leer,[IZQUIERDA]
+8-D))) (es broma). Las fotos, sirven para los esquemas, y para ver alg£n PMR,
+as¡ como ejemplos de SSTV, ondas, etc...[NO]
+
+
+  La informaci¢n ha sido toda testeada por el menda, y por supuesto, sacada del[IZQUIERDA]
+trabajo de otras personas, que han decidido, al igual que este cuadernillo,
+liberar su conocimiento.[NO]
+
+
+  Pero lo m s importante para m¡, son las dos secciones:
+
+
+   PTT SOUND[PC AMARILLO]
+   CB PACKET
+
+
+  La primera, se hace corresponder con el programilla de micr¢fono que he[IZQUIERDA PCT BLANCO]
+hecho, y se ha comentado en esta revista. Por supuesto, el c¢digo, al ser GNU,
+lo he puesto en el librillo.[NO]
+
+
+  El segundo, el CB PACKET, se corresponde con el ya altamente comentado[IZQUIERDA]
+protocolo de comunicaciones alternativo al AX.25 (radiopacket). Como he dicho y
+mantengo, este protocolo no pretende sustituir al AX.25 (como sucede en
+inform tica), sino que pretende ser una alternativa para casos concretos, en
+donde la velocidad premia.[NO]
+
+
+  Este protocolo, no es un prototipo, como otros programadores o dise¤adores,[IZQUIERDA]
+han realizado, sino que ya es efectivo, no al 100%. Me explico: Todav¡a no
+llega a forma un individuo completo, ya que no permite trabajar con ‚l como si
+de un programa cualquiera se tratase, pero si funciona con m¢dulos por
+separado. En concreto, permite enviar textos ASCII, comentarios, y casi un
+fichero [NO]v¡a radio.[AZULCLARO]
+
+
+  Y lo he recibido perfectamente en otra emisora con squeltch abierto. La[IZQUIERDA BLANCO]
+velocidad, aunque parte de los 1050 bps, permite llegar hasta los 4000 bps, y
+todo ello, en una emisora de CB. No obstante, no deb‚is de fijaros en esta
+velocidad, ya que en realidad es superior, ya que es din mica. Con el mismo
+ancho de banda del AX.25 a 1200 baudios, yo consigo los 2000 bps. (baudios). Y
+a su vez, con codificaciones y compresiones, alcanzo velocidades superiores.[NO]
+
+
+  Todo esto viene mejor explicado en el cuadernillo. No hace falta decir, que[IZQUIERDA]
+mi protocolo es 100% incompatible con el AX.25, ya que las tramas se han
+reducido a 8 bytes, con 2 CRC's y un c¢digo de tama¤o de trama, es decir, casi
+3 CRC's. Por tanto, m s seguro y [NO]m s r pido.[AMARILLO]
+
+
+  La idea de crear este protocolo surge, cuando veo que el AX.25 no me permite[IZQUIERDA BLANCO]
+grandes logros con los transceptores de CB, a diferencia del SSTV. Para
+velocidades superiores, los modems est n moito caros, por lo que la idea de
+usar la tarjeta de sonido, junto con que soy coder, hace que me plante‚ seguir
+por el camino de autoconstruirme algo que funcione, y no seguir usando una
+rueda pinchada (no reinventar la rueda). 8-D))[NO]
+
+
+  Los resultados, est n siendo acotados, y espero pronto tener una red de CB-[IZQUIERDA]
+PACKET operativa, al menos con mi radioclub. La versi¢n 1.0 de este protocolo
+permite 64 estaciones operativas, as¡ como 256 servicios, que por ahora es m s
+que suficiente, y si alguna vez se necesita m s, se crea la versi¢n 2.0. La
+idea de usar 64 estaciones, radica de un problema que ten¡an en Per£, seg£n
+creo recordar y que pretend¡an montar una red de ordenadores entre poblados.[NO]
+
+  El problema, estaba en que como hab¡a bosques y selva, no se pod¡a usar[IZQUIERDA]
+cable, porque se estropeaba. As¡ que hab¡a que usar [NO]enlaces de radio.[AMARILLO]
+
+  Y claro, los de pijoless, o perd¢n quise decir, los de wireless dir n que hay[IZQUIERDA BLANCO]
+que usar tarjetas wiresless, cosa que es absurda donde las haya, por la
+distancia que alcanzan, que es la del lanzamiento de un escupitajo. Este
+problema no pod¡an solucionarlo, ni con enlaces VHF, ya que al ser directos,les
+pasa como en wireless, por lo que requieren poner un repetidor cada cierta
+distancia, problema id‚ntico a poner un cable. ¨C¢mo solucionar esto?, pues con
+enlaces HF, que recorren la tierra entera, sin repetidor. Pero claro, HF tiene
+el problema del ruido, y por tanto la velocidad del AX.25 queda relegada a 300
+baudios.[NO]
+
+  Muchos de vosotros dir‚is, ¨y que tiene esto que ver con las 64 estaciones?,[IZQUIERDA]
+pues muy sencillo, en Per£ s¢lo necesitaban conectar 32 nodos, o algo as¡, que
+por cierto, lo llegaron  a realizar con port tiles, enlaces HF para SELVA y VHF
+para dentro del poblado. Y claro, si con 32 se puede, pues mi red no necesita
+mucho m s, as¡ que para que usar los 4 bytes del IP, pudiendo tener s¢lo 6 bits
+para 64 nodos. Si se requieren m s, a tirar de otro canal.[NO]
+
+  Si con AX.25 y HF pueden trabajar, pues con mi protocolo, que multiplica por[IZQUIERDA]
+10 la eficiencia del AX.25, notar n que est n en una conexi¢n telef¢nica. Para
+que os hag is una idea, se puede enviar una carta de una hoja, en 1 segundo, en
+definitiva, lo que nos da tiempo a [NO]estornudar.[AMARILLO]
+
+
+
+  Hay que destacar, por si acaso alguien cree que esto no sirve para nada,[IZQUIERDA BLANCO]
+que la URE (UNION DE RADIOAFICIONADOS ESPA¥OLES) est  muy interesada por este
+protocolo, ‚l cual les he explicado como funciona, y est n esperando a que lo
+acabe, para probarlo.[NO]
+
+
+  Otro problema que ten¡an en Per£, era que al usar enlaces HF y VHF ten¡an que[IZQUIERDA]
+ser radioaficionados, de ah¡ que tirasen de AX.25. Pero muchos de ellos, no lo
+eran, por lo que usaban para HF, emisoras de CB, y para VHF, mediante el
+gobierno, se alquilaron algunos canales. Pero esto se soluciona, usando el CB-
+PACKET, ya que con una pitufera de CB ya se puede mandar pornograf¡a, o perd¢n
+quise decir, comunicados. [NO]8-D))[AZULCLARO]
+
+
+  No obstante, hay que ser serio, y queda totalmente prohibido, y de hecho ya[IZQUIERDA BLANCO]
+me encargar‚ de implementarlo, el envi¢ de material pornogr fico o delictivo en
+este protocolo o red. Esto no es INTERNET, y personalmente, me encargar‚ de
+ello. Los radioaficionados, tanto los C, B y A, como los CB, poseen un c¢digo
+que est  por encima de las compa¤¡as y monopolios, y como raza aparte, estamos
+para ayudarnos.[NO]
+
+
+  Para conseguir el cuadernillo, pod‚is descargarlo en:
+
+
+
+             http://www.lanzadera.com/ensamblador[CHAR14B VERDEFOSFORITO]
+
+
+
+
+  En la secci¢n de radio, o bien ir al RADIOCLUB ALFA-OMEGA de Mieres del[IZQUIERDA PCT BLANCO]
+CAMINO, que ta a tiru piedra. 8-D))[NO]
+
+
+
+P.S.: [AMARILLO]Los de Wireless eran, son y ser n unos lamers. ¨Qu‚ es Asturias Wireless,[BLANCO]
+una forma de descargar pornograf¡a inal mbrica gratis? 8-D)))[NO]

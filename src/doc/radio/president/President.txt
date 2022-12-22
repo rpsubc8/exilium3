@@ -1,0 +1,110 @@
+[FOTOS 3]
+FOTO_RADIO_PRESIDENT_1 PALETA_RADIO_PRESIDENT_1 66 4
+FOTO_RADIO_PRESIDENT_2 PALETA_RADIO_PRESIDENT_2 39 22
+FOTO_RADIO_PRESIDENT_3 PALETA_RADIO_PRESIDENT_3 39 69
+Packet con Lincoln[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Para todo aquel que tenga una President Lincoln,que sepa que se
+puede hacer AX.25, y cualquier modalidad digital, igual que en el
+resto de transceptores nombrados en n£mero pasados de la diskmag.
+
+
+ Para ello, hay que hacer unas cuantas modificaciones, que aunque pueden[IZQUIERDA]
+parecer engorrosas (comparadas con otros equipos), ser n a la larga muy
+£tiles, y servir n para nuestro cometido.[NO]
+
+
+
+
+
+El microfono[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues  este equipo, posee un conector
+DIN 5 ,frente al DIN 4 normal  de  las
+emisoras de  CB. No  obstante, 2 pines
+(el 4 y el  5) no  sirven para nada en
+nuestro objetivo, que son los de subir
+y bajar canal desde la pastilla(aunque
+en el [BLANCO]futuro si 8-))).[AMARILLO]
+
+
+ Todo  esto  se puede ver en la imagen[BLANCO]
+adjunta.  Por  supuesto  la  vista  es
+respecto al conector de la pastilla, y
+no  de  la  emisora, as¡ que habr  que
+hacer el espejo de los pines,es decir,
+donde marca el 1 de  la pastilla,es el
+5 de  la emisora. As¡ que cuidado,  en
+esto.
+
+
+  Los pines, hacen lo siguiente:
+
+
+   Pin 1 --> Modulaci¢n (donde va la salida de audio del ordenador)[PC GRIS]
+   Pin 2 --> Masa
+   Pin 3 --> TX (PTT, donde va el puerto serie del ordenata)
+
+
+  Ahora s¢lo ten‚is que adaptar el conector que hicisteis para la emisora[IZQUIERDA PCT BLANCO]
+INTEK 200 Plus o similar, a esto. En la President no hace falta hacer un corto
+para escuchar audio, en la parte del micr¢fono, as¡ que habr  que quitar
+componentes. Por tanto, en el pin 1 metemos la salida de audio de la tarjeta
+de sonido (con atenuador 100:1). En el pin 3 metemos los transistores y dem s
+para abrir y cerrar PTT, y el pin2, lo usamos para unir todas las masas.[NO]
+
+
+  Si hab‚is entendido todo, funcionar  perfectamente, ya que a m¡ me tira.
+
+
+
+
+
+
+La salida de audio[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La Lincoln viene dise¤ada para poder
+reproducir  el  audio  por  medio  del
+altavoz interno, y si hay un puente en
+el [BLANCO]conector trasero.[AMARILLO]
+
+
+  Pero  para  poder  recibir  AX.25  y[BLANCO]
+dem s, necesitamos pasar ese audio por
+el ordenador. Para ello,aunque existen
+1000 formas de hacer las cosas,vamos a
+optar  por   la   m s   elegante,  que
+consise  en  hacer un conector externo
+de  audio,  por  medio   del  conector
+trasero. Este conector,se puede ver en
+la [BLANCO]foto adjunta.[AMARILLO]
+
+
+
+  Desde este conector, podemos incluso[BLANCO]
+conectar una llave de morse,como tengo
+yo conectada, con s¢lo unir  los pines
+9 y 7.  Por  supuesto ,  probablemente
+necesitar‚is el uso de unos espadines
+o similares, que encajen a presi¢n.
+
+
+  Para conectar la salida de audio a una fuente exterior, como altavoces,[IZQUIERDA]
+deb‚is de unir los pines 1 y 2, donde el 1 ser  la masa. Aqu¡ es donde
+pondremos el conector externo jack de audio, que en este caso ser  hembra, para
+luego poner un alargador macho que vaya hasta la entrada de audio de la
+tarjeta de sonido. Las combinaciones en este caso, son m£ltiples, ya que puede
+ser tambi‚n macho.[NO]
+
+  Y con esto, ya podemos escuchar audio en nuestro ordenador, desde la emisora.
+En mi caso, he puesto un interruptor en el pin 1 y 7 (el que activa el altavoz
+interno), para as¡ cerrar el audio del altavoz interno, y que pase s¢lo por el
+externo, molestando menos, y ahorrando energ¡a. 8-D))

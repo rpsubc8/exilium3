@@ -1,0 +1,184 @@
+[FOTOS 1]
+FOTO_RADIO_FUENTE PALETA_RADIO_FUENTE 44 70
+Fuente de PC para Radio[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  El t¡tulo ya lo dice todo, pero que mejor que explicarlo para que todo el[IZQUIERDA]
+mundo lo entienda, es decir, para los MEGA-TORPES.[NO]
+
+
+  Pues todo consiste en utilizar una fuente de alimentaci¢n de PC para usar con
+nuestro querido transceptor de Radio.
+
+
+  Ante estos apartados, me inhibo de cualquier responsabilidad por quema de[IZQUIERDA]
+equipos o cosas similares, si se hace alguna animalada sin seguir bien mis
+consejos.[NO]
+
+
+  Las emisoras de radio, suelen emplear fuente de alimentaci¢n lineales,[IZQUIERDA]
+mientras que los ordenadores, las usan conmutadas (4 diodos puente). Sin
+embargo, las dos transforman corriente alterna de 220 V en continua de unos 12
+V.[NO]
+
+  El porque de usar esta fuente, en lugar de una lineal, es muy sencillo:
+
+
+   - M s barata, tanto de primera, como segunda mano[PC AMARILLO]
+   - Menor peso y espacio ocupado
+   - Menor ruido t‚rmico (interferencias a otros equipos, como video)
+   - Mayor potencia eficaz (80% frente al 50% de las lineales)
+   - Menor ruido audible
+   - Menor porcentaje de estacionarias
+   - El puente de diodos protege de posibles cortocircuitos
+
+
+  En cuanto a los inconvenientes est n:[PCT BLANCO]
+
+  - S¢lo nos da 5 V y 12 V (en lineal se necesita 13.5 V)[PC AMARILLO]
+  - No permite conectar un lineal
+  - Se requiere un poco de cabeza y tirar de soldador
+
+
+
+
+
+
+Material necesario[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues todo plan necesita de ANIBAL y el equipo A. 8-D))
+  Lo principal es lo siguiente:
+
+
+   - Fuente de PC AT o ATX (cuando m s moderna mejor)[PC AMARILLO]
+   - Un trozo de cable paralelo de masa y positivo (2 cables)
+   - Un conector RCA hembra
+   - Soldador y manos con forma de pezu¤as 8-D))
+   - Un multitester
+
+
+  Dependiendo de la emisora que teng is, el conector RCA puede necesitarse[PCT BLANCO IZQUIERDA]
+hembra o macho, o quiz s un conector espec¡fico para vuestra emisora. No
+obstante, de lo que no os vais a librar, es de que se necesita un cable para
+corriente positiva, y otro para masa.[NO]
+
+
+  En cuanto a la fuente se requiere una de
+tipo  AT ,  aunque una  ATX  moderna  vale
+tambi‚n. Lo que necesitamos saber fijo, es
+que esta fuente nos de 5 V y 12 V,as¡ como
+un buen amperaje, por ejemplo 9 A.
+
+
+  El voltaje, debemos tirar de multitester, y coger un conector de los de la[IZQUIERDA]
+fuente, en concreto del que se encaja en cualquier dispositivo de 5 ", como por
+ejemplo un CD-ROM. Hay que saber, que:[NO]
+
+
+   - El cable amarillo y el negro de al lado, nos dan 12 V.[PC AMARILLO]
+   - El cable rojo y negro de al lado, nos dan 5 V.
+
+
+  Las emisoras, y los talki's necesitan  12 V, aunque a lo mejor hay alg£n[IZQUIERDA PCT BLANCO]
+aparato que necesita 5 V. Por tanto, con el multitester, medimos el cable
+amarillo y negro, y si nos da 12 V, todo perfecto. Acordaos de poner el
+multitester en modo[NO] Corriente continua.[AMARILLO]
+
+
+  Ya se que las emisoras, necesitan 13.5 V, pero os aseguro que funciona. Por[IZQUIERDA BLANCO]
+supuesto, no lograr‚is llegar a las mismas distancias que tirando de bater¡a de
+coche, pero toda vuestra ciudad la cubrir‚is de sobra.[NO]
+
+
+
+  Pues ahora, s¢lo queda coger el cable con el RCA que os dije soldado,y unirlo[IZQUIERDA]
+a estos pines. No hace falta soldar el cable a los pines, pero si quer‚is,
+mejor. Con que el cable sea gordo, y luego tiremos de cinta aislante, perfecto.
+Pero eso si,el RCA debe estar soldado con el cable. Y luego se proceder  a unir
+el RCA macho de la emisora al[NO] RCA hembra[AMARILLO] que hemos creado.[BLANCO]
+
+
+  Y si le damos al interruptor de la fuente de alimentaci¢n, y encendemos la[IZQUIERDA]
+emisora, todo estar  listo, si lo hemos hecho bien. No obstante, habr  que
+ajustar las estacionarias y dem s, como siempre.[NO]
+
+
+  Hay que destacar, que las estacionarias con este tipo de fuente, son menores.
+
+
+  En cuanto al interruptor de la fuente d PC, suelen venir unidos,pero si no es[IZQUIERDA]
+el caso, deb‚is de fijaros, que es un interruptor que controla dos circuitos,el
+de arriba y el de abajo.[NO]
+  Hay que unir el cable marr¢n y negro por un lado, y por el otro el azul y el[IZQUIERDA]
+blanco. Si os equivoc is, se os bajar n los limitadores de casa,o pod‚is quemar
+la fuente (suele venir preparada).[NO]
+  Antes de probar nada, mirad con el multitester, en modo continuidad, cada uno
+de los dos circuitos que se generan, pero con la fuente apagada (s¢lo
+el interruptor).[NO]
+
+
+
+
+
+
+Advertencia[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Aunque se puede usar a la vez la fuente de PC, para alimentar a nuestro[IZQUIERDA]
+ordenador y a la radio, suele dar mal rollo, por varios motivos:[NO]
+
+
+   - Cada dispositivo, incluido la placa consumen, por lo que nos queda menos[PC AMARILLO IZQUIERDA]
+     potencia para la radio, y viceversa.[NO]
+
+   - En caso de retorno de tierra, la radio, no se quemar , y posiblemente los[IZQUIERDA]
+     dispositivos del PC, tampoco, pero vuestra placa o el MODEM, se ir n de
+     vacaciones un rato.[NO]
+
+
+  Por tanto, mejor que dej‚is una fuente de PC dedicada a vuestra radio, s¢lo.[PCT BLANCO]
+
+
+
+
+
+
+
+Pruebas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Yo lo he probado en un talki ALAN 30 (creo que era ese modelo), y con 12 V[IZQUIERDA PCT BLANCO]
+tiraba perfectamente, que era lo que necesitaba.[NO]
+
+
+  Tambi‚n lo he probado con la emisora INTEK 200 Plus, y tira perfectamente,[IZQUIERDA]
+consiguiendo quitar las interferencias en la pantalla del ordenador cada vez
+que arrancaba la fuente lineal (y su peso era exagerado).[NO]
+
+
+  Adem s hay muchas personas que lo han probado antes que yo. De hecho, me[IZQUIERDA]
+enter‚ por INTERNET despu‚s de haberlo probado yo antes.[NO]
+
+
+  Y esto es aplicable no s¢lo a fuentes de PC, sino que tambi‚n sirven para[IZQUIERDA]
+fuentes de AMIGA o ATARI, siempre y cuando nos den 12 V y unos 7 o 9 Amperios.[NO]
+
+
+  As¡ que si ten‚is un ordenador viejo estropeado, pero la fuente funciona, ya[IZQUIERDA]
+sab‚is, aprovechadla.[NO]
+
+
+  En el libro HANDKBOOK de RADIO, viene m s detallado este experimento, pero[IZQUIERDA]
+tambi‚n viene como convertir la fuente de PC de 12 V en una de 13.5 V, as¡ como
+la posibilidad de subirle el amperaje para poder usar lineales. No obstante,
+habr  que andar con la bobina y soldando, con un mayor riesgo de cargarnos la
+fuente, que para este caso, ten¡amos por suficiente.[NO]

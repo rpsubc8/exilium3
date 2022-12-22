@@ -1,0 +1,221 @@
+[FOTOS 0]
+PLC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues desde hace tiempo, se han realizado no s¢lo pruebas sino, casos reales[IZQUIERDA]
+de transmisiones v¡a red el‚ctrica. Es m s, me acuerdo de unos libros de
+electr¢nica de mi padre, del 79, que ense¤aba a construir un modulador de voz
+anal¢gico usando la [NO]red el‚ctrica.[AMARILLO]
+  Por tanto, al igual que a mi, muy pocos os ver‚is sorprendidos por la[IZQUIERDA BLANCO]
+noticia del PLC.[NO]
+
+
+  ¨Pero qu‚ es?[PC GRIS]
+
+
+  Pues muy sencillo, una forma de comunicaci¢n digital (chapuza) usando la[IZQUIERDA PCT BLANCO]
+red el‚ctrica. Permite usar el canal anal¢gico de la red el‚ctrica, para
+transmitir datos anal¢gicos, acotados digitalmente, es decir, permite enviar
+informaci¢n digital, como se har¡a por otros canales.[NO]
+
+
+  Problema, pues muy sencillo. Cualquiera que entienda un poco de TELECO,[IZQUIERDA]
+sabe, que el ancho de banda necesario para enviar datos digitales cutres
+(1200 bps), debe ser de al menos 8 veces el anal¢gico. Por tanto, para
+conseguir velocidades superiores a los 9600 bps, es decir, superar la
+velocidad del RTC o el ADSL, se requiere un ancho de banda bestial. Y por
+tanto, se han usado frecuencias de entre [BLANCO]2 Mhz y 80 Mhz[AMARILLO]. Hasta aqu¡, supongo[BLANCO]
+que la gente lo entiende.[NO]
+
+
+  Sin embargo, si metemos estas frecuencias por un cable cutre de corriente de[IZQUIERDA]
+la casa (sin apantallar), tenemos un maravilloso DIPOLO. Por tanto, tenemos
+una antena preciosa y gratis, oculta en nuestra casa, que emite entre 2 Mhz y
+80 Mhz, o perd¢n, quise decir, que tapa todas estas frecuencias. ¨Pero hasta
+que punto, las tapa?[NO]
+
+
+
+  Pues una se¤al de 9+ con Radio 5, supongo, que aclarar  vuestras ideas. Si[IZQUIERDA]
+alg£n valiente, se atreve a transmitir con esta se¤al, pues mucha suerte en
+su cruzada ut¢pica.[NO]
+
+
+  Lo peor, a parte de la se¤al, es que estos Sistemas, al igual que las redes[IZQUIERDA]
+WIFI o los m¢viles, se est n sincronizando constantemente. ¨Qu‚ significa
+esto, para un profano en el tema de TELECO e inform tica?, pues muy sencillo:[NO]
+
+
+  Mientras que una persona encienda el PLC, nadie podr  transmitir nada. Cuando
+me refiero a nadie, en realidad quise decir, a cualquier persona que use estas[IZQUIERDA]
+frecuencias, v¡a ‚ter, es decir, los radioaficionados, en concreto:[NO]
+
+
+    CB, EC y EA.[PC GRIS]
+
+
+  ¨Por qu‚ no he puesto a los EB?. Pues muy sencillo, ya que los EB operan en[IZQUIERDA PCT BLANCO]
+144 MHz (2 metros), y por tanto, a no ser alg£n arm¢nico d‚bil, no deber¡a
+afectarles, tanto como en la HF.[NO]
+
+
+  La CB (27 Mhz) se ve afectada totalmente.[PC ROJO]
+
+
+
+  ¨Y qu‚ pasa con la radio comercial? Pues, como los ingenieros electr¢nicos[IZQUIERDA PCT BLANCO]
+piensan en todo, la han tenido en cuenta, y por eso, s¢lo usan frecuencias
+entre los 2 Mhz y 80 Mhz. Puesto que la FM comercial empieza en los 81 Mhz, no
+le afecta (en principio), y la radio digital (DAC), como usa frecuencias
+distintas, tampoco se ve afectada.[NO]
+
+
+  Hay que recordar, que las compa¤¡as el‚ctricas llevan a¤os usando MODEM's de[IZQUIERDA]
+9600 bps, para enviar datos digitales usando la red el‚ctrica, para recoger
+datos del contador. Estos modem's generan interferencias, pero no tan
+elevadas, como sus hom¢logos, los PLC's.[NO]
+
+
+  Bueno, como s¢lo afecta a radioaficionados, no pasa nada, dir‚is muchos. Pues[IZQUIERDA]
+si, ya que los radioaficionados cumplimos unas normas, es decir, unas leyes,
+que el resto de TELECO debe cumplir. Entre ellas, est  que no se puede emitir
+se¤ales tan alt¡simas, como estas en las frecuencias de radioaficionado. Por
+tanto, para una vez que tenemos la ley a nuestro favor, aprovech‚mosla.[NO]
+
+
+  ¨Qu‚ dicen las compa¤¡as?. Pues lo que se esperaba, que son casos aislados,[IZQUIERDA]
+y que a partir de los 15 metros del foco. Pero claro, ¨qu‚ pasa, si el foco,
+es el edificio del al lado, y el de al lado, y as¡?, ¨qu‚ debemos hacer,
+mudarnos? Lo que est  dentro de casa, no debe salir fuera, y 15 metros son
+mucho. Pero en la vida real, tal y como se puede ver en el v¡deo de Zaragoza,
+toda la avenida se ha convertido en un [NO]DIPOLO.[AMARILLO]
+
+
+
+  Lo peor, es que tambi‚n se venden dispositivos basados en PLC, pero para[IZQUIERDA BLANCO]
+montar redes locales, es decir, LAN's, sin falta de tirar cables y taladrar
+paredes. Una vez que se ponen los modem's BPL, se puede transferir datos, pero
+una vez m s interfiriendo al resto de radioaficionados. Recordemos, que los
+radioaficionados no somos como los del WIFI, que navegan por un mundo de
+"TIERRA de nadie".[NO AMARILLO]
+
+
+  Las BPL, son todav¡a peor de detectar, ya que cualquiera en su casa, puede[IZQUIERDA BLANCO]
+montar una, y s¢lo sabr¡amos de su interferencia. Las interferencias del BPL
+y PLC, las generan tambi‚n los dispositivos de dom¢tica para controlar la
+casa. ¨Nunca hab‚is puesto a sintonizar un canal, y en ‚l hab¡a una se¤al de
+9+ y Radio 5, pero ininteligible?, pues se trata de esto.[NO]
+
+
+
+  Cuando decimos que estamos en democracia, significa, que podemos hacer lo[IZQUIERDA]
+que queramos, pero eso s¡, lo que queramos, sin fastidiar al pr¢jimo, ya que
+sino, ser¡a una dictadura, o un caos. Y aqu¡ se est  fastidiando al resto de
+comunidades, por no poner un simple y llano cable COAXIAL (apantallado). En
+un cable coaxial, nos entran casi todas las frecuencias del ‚ter, y s¢lo en
+un trozo de cable, para nosotros. As¡ que acabemos con esa est£pida ley, de
+no poder unir 2 edificios, si no es gracias a las compa¤¡as, y siempre y
+cuando, no constituyan un peligro para el resto de personas.[NO]
+
+
+
+  El PLC, por el contrario, nos permite conectarnos con INTERNET, poniendo el[IZQUIERDA]
+MODEM en casa, y la compa¤¡a el‚ctrica, el concentrador en el transformador,
+para coger a m£ltiples edificios. Entonces, esto es un chollo. Pues s¡, pero
+para las compa¤¡as el‚ctricas, ya que a diferencia de TIMOFONICA, y TELECABLE,
+el tendido el‚ctrico, ya esta puesto, en concreto, lo pone el estado, y lo
+cobra el Ayuntamiento. La empresa el‚ctrica, s¢lo distribuye corriente. Pero
+el INTERNET, s¢lo es hasta la l¡nea del ABONADO, luego la empresa de
+electricidad, debe de conectarse a la red IRIS (domina toda Espa¤a) y as¡
+podemos unirnos a INTERNET. La conexi¢n, supera a la l¡nea RTC y RDSI de un
+solo canal, pero a penas supera a un ADSL de alta velocidad (2 Mb), pero eso
+s¡, el precio, es relativamente inferior, pero esto es muy subjetivo.[NO]
+
+
+  Adem s, para las compa¤¡as el‚ctricas, les saldr  mejor, el echar fuera de[IZQUIERDA]
+INTERNET a un usuario, d ndole una descarga, al estilo de las compa¤¡as
+TIMOFONICAS, cuando quemaban alg£n MODEM (no es una leyenda urbana).[NO]
+
+
+  Hay que recordar, que no s¢lo el PLC genera interferencias, ya que el ADSL[IZQUIERDA]
+tambi‚n las genera, al usar frecuencias elevadas. Pero claro, el cable est 
+mejor apantallado, y las interferencias son menores.[NO]
+
+
+
+  ¨Y el PLC es real? Ya os he dicho que s¡. Y muchos quedr‚is ponerlo, sobre[IZQUIERDA]
+todo si no os gusta la radio, o sois EB (y os importa un bledo el resto). Pero
+en Alemania se intent¢ con anterioridad, y fracas¢. ¨Por qu‚?, ya os lo he
+dicho, porque incumple la ley (es ilegal), al ir en contra de los
+radioaficionados.[NO AMARILLO]
+
+
+
+  ¨Y en Espa¤a? Pues como somos el B del mundo, siempre que hacemos algo[IZQUIERDA BLANCO]
+nuevo, ya es viejo, de hecho, Espa¤a tendr  los £ltimos aviones del 2004, en
+el 2028 (usados). Se ha intentado en Zaragoza, y a sido un ‚xito para los
+usuarios, pero en el v¡deo se puede ver la interferencia generada en la
+avenida. Ahora ha pasado de ser de pruebas, a ponerlo como servicio. Y al
+igual que el WIFI, Castilla y Barcelona se han puesto a hacer pruebas. Qui‚n
+sabe, quiz s, hasta Asturias lo haga. Pero repito, no se est  haciendo nada
+para controlar las interferencias, ya que se est  usando el mismo modelo que
+en Alemania.[NO AMARILLO]
+
+
+
+  Lo m s importante, al igual que las radiaciones que generan los m¢viles,[IZQUIERDA BLANCO]
+¨hasta qu‚ punto estar¡amos dispuestos a cambiar para estar conectados al
+PORNO INTERNET?, es decir, aumentaremos el n£mero de casos de c ncer,
+sacrificaremos las bandas de los radioaficionados, y dem s, por poder CHATEAR
+con personas que ni siquiera son quienes dicen que son.[NO]
+
+
+
+  Las PLC son ilegales, y si los radioaficionados de Espa¤a perdemos, estar [IZQUIERDA]
+demostrado que las ondas de los m¢viles, fr¡en el cerebro, y somos
+deficientes funcionales.[NO]
+
+
+
+  Por tanto, esto va para todos los radioaficionados, si not is una[IZQUIERDA]
+interferencia por el PLC, denunciarla, pero antes, deb‚is de tener los
+papeles en regla. Esto va por lo EC, EB, EA, ED y ECB. Juntos, podremos
+acabar con los intrusos.[NO]
+
+
+  Y si no podemos acabar con ellos, un monos, pero por osmosis, es decir,[IZQUIERDA]
+met mosles interferencias, con nuestros transceptores, haber quien cansa
+antes. Si ellos, no nos meten interferencias, como dicen las empresas,
+nosotros no deber¡amos interferirles, por principio de inducci¢n, ¨o no?.[NO]
+
+  Mientras, igual que hacen los hackers de WIFI, cojamos un esc ner, y[IZQUIERDA]
+pongamos a desencriptar las comunicaciones por [NO]PLC.[AMARILLO]
+
+
+
+  Para conseguir los v¡deos y dem s informaci¢n del PLC, pod‚is visitar esta[IZQUIERDA BLANCO]
+p gina:[NO]
+
+
+
+     http://www.ure.es/plc[XM VERDEFOSFORITO]
+
+
+
+  O bien, esta:[PCT BLANCO]
+
+
+     http://156.35.94.183[XM VERDEFOSFORITO]
+
+
+
+
+P.S. Si quer‚is una INTERNET libre, echad fuera a las empresas (publicidad), a[IZQUIERDA PCT BLANCO]
+los pederastas, y a las compa¤¡as que dan acceso (TIMOFONICA y dem s). El
+estado es capaz y suficiente, de montar la red p£blica, y gratis. Si hay
+alguna persona del GNU, que cree lo contrario, es que no es del GNU. El GNU es
+aplicable a todo, y sino, es que no existe. GNU no es s¢lo para el software.[NO]

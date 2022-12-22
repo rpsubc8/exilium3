@@ -1,0 +1,128 @@
+[FOTOS 0]
+Entrevista de Radio[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues en este art¡culo hemos decidido entrevistar a Juan Diego Rosado, el[IZQUIERDA]
+cual es un radioaficionado de M‚xico, y se encarga de mantener la Red
+Internacional de Ayuda A.C.[NO]
+
+
+1.- ¨Cu l fue tu primer incursi¢n en el mundo de la radio?[BLANCO PC]
+
+      MI PRIMER INCURSION FUE EN EL A¥O DE 1994  CUANDO TENIA UN RADIO 148 GTL[GRISCLARO PCT IZQUIERDA]
+    Y ME HACIA PRESENTE EN LA 27.905 LSB EN DONDE OPERA LA RED INTERNACIONAL
+    DE AYUDA A.C.[NO]
+
+2.- ¨Prefieres la CB (Banda Ciudadana) o te gusta m s otras bandas?[BLANCO PC]
+
+      PARA  MI LA BANDA CIUDADANA ES LO MAXIMO, YA QUE ENCUENTRAS AMISTADES DE[GRISCLARO PCT IZQUIERDA]
+    OTRAS PARTES DEL CONTINENTE AMERICANO Y TAMBIEN DE ESPA¥A[NO]
+
+3.- ¨En vuestro pa¡s (M‚xico), existen ex menes para acceder a las licencias[BLANCO PC]
+    de radioaficionados?[NO]
+
+      CLARO QUE SI, SE HACEN EN LOS CENTROS AUTORIZADOS DE LA SCT MEXICO[GRISCLARO PCT]
+
+4.- ¨C¢mo anda el nivel de ayuda sobre radioafici¢n?[BLANCO PC]
+
+      MUY BUENO, EN LA BANDA DE LOS 40 MTS ESTA LA RED NACIONAL DE EMERGENCIA[GRISCLARO PCT IZQUIERDA]
+    QUE PERTENECE A LA FEDRACION[NO]
+
+5.- ¨El nivel de DX es alto?[PC BLANCO]
+
+      EN LA BANDA CIVIL ES MUY ALTO, PRINCIPALMENTE EN LA 27.665 USB Y 27.905[GRISCLARO PCT IZQUIERDA]
+    LSB[NO]
+
+6.- Actualmente, con el mal uso de las llamadas nuevas tecnolog¡as (m¢viles,[PC BLANCO IZQUIERDA]
+    INTERNET, etc...), ha decrementado el n£mero de radioaficionados, al menos
+    en Espa¤a, ¨qu‚ opinas de esto?[NO]
+
+      LO QUE HA OCACIONADO UN POCO A LA RADIOAFICION EN GENERAL ES EL USO DEL[GRISCLARO PCT IZQUIERDA]
+    INTERNET.[NO]
+
+7.- ¨Perteneces a alg£n grupo de radioaficionados, o prefieres ir por libre?[PC BLANCO]
+
+      PERTENEZCO A GRUPOS ONCEMETRISTAS COMO ES LE CADO DE LA RED NACIONAL DE
+    AYUDA A.C. CUYA PAGINA ES:[NO]
+
+       http://comision3.americas.tripod.com/rnachampoton/[VERDEFOSFORITO XM]
+
+8.- ¨Cu l ha sido tu contacto m s lejano, y el m s amistoso?[PC BLANCO]
+
+      CON UNA PERSONA DE ESPA¥A QUE NO CONOZCO SU NOMBRE[GRISCLARO PCT]
+
+9.- ¨Crees que el Morse debe desaparecer, o por el contrario, que se deba[PC BLANCO IZQUIERDA]
+    ense¤ar su verdadera utilidad?[NO]
+
+      DEPENDEN DE LAS PERSONAS QUE LO USAN[GRISCLARO PCT]
+
+10.- Los PMR's (UHF libre) han llegado al mercado hace tiempo. ¨Qu‚ opinas de[PC BLANCO IZQUIERDA]
+     ellos, crees que desplazar n a la CB, al menos en FM?[NO]
+
+       POR LO PRONTO EN ESTA REGION LA C.B. ESTA DESAPARECIENDO, GRACIAS AL[GRISCLARO PCT IZQUIERDA]
+     VHF[NO]
+
+11.- ¨Has practicado la modalidad de SSTV, en CB (27 Mhz), u otra banda?[PC BLANCO]
+
+       MUY POCO[GRISCLARO PCT]
+
+12.- ¨Y otras modalidades, como RTTY, PSK31, o radio-packet?[PC BLANCO]
+
+       ----------[GRISCLARO PCT]
+
+13.- Actualmente, con programas como eQSO se puede unir el mundo de INTERNET[PC BLANCO IZQUIERDA]
+     con el de los repetidores. ¨Cu l es tu opini¢n sobre esto?[NO]
+
+       ME PARACE MUY BUENO, ES POR ESO QUE MUCHOS RADIOAFICIONADOS USAN EL[GRISCLARO PCT IZQUIERDA]
+     INTERNET[NO]
+
+14.- ¨Eres partidario de unir INTERNET al AX.25 (radio-packet) o por el[PC BLANCO IZQUIERDA]
+     contrario, ser¡a mejor dejar aislados los dos mundos?[NO]
+
+       ES MEJOR AISLAR LOS DOS MUNDOS[GRISCLARO PCT]
+
+15.- ¨Qu‚ S.O. (Sistema Operativo) usas para trabajar con la radio (LINUX,[PC BLANCO IZQUIERDA]
+     WINDOWS, BeOS, QNX, BSD, MAC OS, DOS, etc..)?[NO]
+
+       WINDOWS[GRISCLARO PCT]
+
+16.- Gracias al GNU (Software Libre), se dispone de una gran cantidad de[PC BLANCO IZQUIERDA]
+     software para radioaficionados, sobre todo para montar una red TCP/IP con
+     tramas AX.25, ¨cu l es tu opini¢n?[NO]
+        
+       ----------[GRISCLARO PCT]
+
+17.- ¨Qu‚ opinas sobre el trabajo del grupo SLIDERS con su DISKMAG EXILIUM?[PC BLANCO]
+
+       ME PARECE BIEN[GRISCLARO PCT]
+
+19.- Uno de los miembros del grupo (JJ) ha realizado un programa GNU llamado[PC BLANCO IZQUIERDA]
+     PTTSOUND, que convierte tu ordenador en una especie de SADELTA con
+     efectos sonoros y todo. Si lo has probado, ¨qu‚ te parece?[NO]
+
+       NO LO HE ESCUCHADO[GRISCLARO PCT]
+
+20.- JJ se encuentra construyendo un protocolo nuevo (incompatible con AX.25),[PC BLANCO IZQUIERDA]
+     10 veces m s barato y por ahora, el doble de r pido. Se va a distribuir
+     bajo licencia GNU, y va a ofrecer servicios de mensajes, correo, ftp, y
+     un formato WEB nuevo, optimizado para canales de comunicaci¢n angostos,
+     como es el HF, en CB (27 Mhz). ¨Qu‚ opinas sobre esto?[NO]
+
+       ESTARIA INTERESANTE[GRISCLARO PCT]
+
+21.- ¨Crees que las redes WIRELESS comerciales pueden superar a las redes de[PC BLANCO]
+     los radioaficionados?[NO]
+
+       CREO QUE NO[GRISCLARO PCT]
+
+22.- Y por £ltimo ¨cu les son tus palabras para atraer a la gente al mundo de[PC BLANCO]
+     la radio?[NO]
+
+       BUENO, QUE LA RADIO ES MUY BONITO PARA AYUDAR AL QUE LO NECESITA EN[PCT BLANCO IZQUIERDA]
+     CASOS DE CONTINGFENCIAS, PARA MENSAJES FAMILIARES Y PARA CONOCER MUCHAS
+     PERSONAS, YO LES RECOMIENDO EN LA C.B. LAS FRECUENCIAS 27.665 USB, 27.095
+     LSB.[NO]

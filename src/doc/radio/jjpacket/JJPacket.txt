@@ -1,0 +1,198 @@
+[FOTOS 0]
+JJ Packet[AZULCLARO GRANDE]
+[PCT BLANCO]
+
+
+
+
+
+
+  Pues, desde hace tiempo, vengo avisando de que estoy realizando un protocolo[IZQUIERDA]
+de comunicaciones v¡a radio, para y por los radioaficionados. As¡, que no se
+hagan ilusiones los del WIFI, y dem s. Pretendo y de hecho, estoy realizando
+pruebas, para transmitir datos digitales a trav‚s de un canal anal¢gico de
+fon¡a.[NO AMARILLO]
+
+
+
+  No pretendo echar abajo el AX.25, de hecho, lo uso constantemente, y ha[IZQUIERDA BLANCO]
+conseguido lo que muchos otros protocolos no han conseguido, es decir,
+transformarse en un est ndar en el [NO]mundo de la radio.[AMARILLO]
+
+
+
+  Aunque el AX.25 est  bien para comunicados (mensajes) de DX, cluster y[IZQUIERDA BLANCO]
+dem s, a la hora de enviar balizas de datos, y dem s, la cosa es bastante
+deprimente. Pero tampoco os impresion‚is, ya que el ancho de banda de un
+canal de fon¡a en radio es a lo sumo de 6 Khz. Pero claro, debido a los
+filtros, mejor diremos entre 4 Khz y 5 Khz, y el ruido, sobre todo en HF, nos
+deja en torno a 3 Khz. Es decir, que lo normal en AX.25 es usar 300 bps (30
+bytes/s) en AM y 1200 bps (120 bytes/s) en FM.[NO]
+
+
+
+  Entonces, ¨c¢mo boy a lograr mejores velocidades?. Pues muy sencillo,[IZQUIERDA]
+realizando desde 0, un nuevo protocolo con nueva capa l¢gica (tramas
+reducidas) y nueva capa f¡sica. Claro, como ver‚is esto lleva muchoooOOoo
+tiempoooOOoo, por lo que [NO]"v¡steme despacio, que tengo prisa".[AMARILLO]
+
+
+
+  Ya he realizado el modulador y demodulador de tonos, as¡ como el generador[IZQUIERDA BLANCO]
+de tramas, por lo que la capa f¡sica est  ventilada, as¡ como parte de la
+l¢gica. Sin embargo, ahora estoy con la construcci¢n se servicios. Mientras
+que el TCP IP lo basa en puertos y direcciones IP, yo baso el protocolo en
+direcciones (0 a 63), y servicios. Recordemos, que no pretendo crear una red
+para poder navegar y jugar, sino para desatascar algunos canales cuando est n
+saturados, optimizando la circulaci¢n de datos a[NO]m xima velocidad.[AMARILLO]
+
+
+  He pensado en usar 64 direcciones, porque, pensando en una red local de[IZQUIERDA BLANCO]
+radioaficionados, son excesivas, y partiendo del problema de una red de
+Centroam‚rica. No obstante, como las tramas poseen un n£mero de versi¢n, si
+queremos m s direcciones, s¢lo habr  que crear una nueva versi¢n con esta
+caracter¡stica, al estilo de IPV6 con respecto a IPV6. Es decir, he pensado
+en un futuro, para crear un est ndar.[NO]
+
+
+  La idea de crear un nuevo protocolo, parte de la idea anterior de crear una[IZQUIERDA]
+nueva red de Packet por parte de J NET (radioaficionado Juan). Pero, mejor
+empezar desde abajo, y crear todo nuevo, con [NO]JJ Net (yo mismo).[AMARILLO]
+
+
+  Las tramas, tienen un tama¤o de 8 bytes m¡nimos, al estilo del AX.25. No[IZQUIERDA BLANCO]
+interfiere con el flag de comienzo del AX.25, porque he usado el
+complementario:[NO]
+
+
+
+   1 byte --> [PC AMARILLO]Comienzo de trama[GRIS]
+   2 byte --> [AMARILLO]Versi¢n de protocolo[GRIS]
+              Si usa protocolo o va en crudo
+              Parte de la direcci¢n de origen
+   3 byte --> [AMARILLO]Parte de la direcci¢n origen[GRIS]
+              Parte de la direcci¢n destino
+   4 byte --> [AMARILLO]Tama¤o de los datos[GRIS]
+   5 byte --> [AMARILLO]CRC de 8 bits[GRIS]
+   6 y 7 byte --> [AMARILLO]CRC de 16 bits[GRIS]
+   8 byte --> [AMARILLO]Fin de trama[GRIS]
+
+
+
+  Como se puede ver, el comienzo y fin de la trama, es el mismo flag. Y cabe[IZQUIERDA PCT BLANCO]
+destacar, que he empaquetado todos los datos, para optimizar, a diferencia
+del AX.25 que metia las direcciones en formato ASCII. Adem s he ampliado los
+CRC's, en concreto, uno de 8 bits, y otro con el tama¤o de los datos. Por
+tanto, ahora las tramas son m s seguras, y ocupan much¡simo menos.[NO]
+
+
+  Pero, ¨por qu‚ he reducido las tramas?[PC GRIS]
+
+
+  Pues porque la mitad de informaci¢n del AX.25 sobraba, y estaba pensada para[IZQUIERDA PCT BLANCO]
+comunicaciones con sentimiento constante, cosa que ahora se van a encargar los
+servicios de la capa l¢gica. Adem s, la velocidad del AX.25 es de 1200 bps
+normalmente, por lo que si la trama es grande, ser  muy lento. El CB packet de
+la JJ NET, s¢lo consume (8 bytes * 8 bits = 64 bits m s o menos).[NO]
+
+
+
+
+
+
+Capa fisica[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues he usado modulaci¢n AFSK, es decir, desplazamiento de frecuencia de[IZQUIERDA]
+audio, ya que uso la entrada de micro del transceptor de HF y la tarjeta de
+sonido. Por tanto, no voy a superar el ancho de banda de 5 Khz.[NO]
+
+
+  Uso varias modulaciones, como AFSK (varios tonos) y APSK, pero principalmente[IZQUIERDA]
+trabajo con AFSK de 2 tonos, uno de 1000 Hz y otro de 2000 Hz. Adem s, s¢lo uso
+1 tono para cada uno, en vez de 2 tonos para el segundo tono de 2000 Hz. Esto
+nos permite hacer casi una media:[NO]
+
+
+   (1000 Hz + 2000 Hz) / 2 = 1500 Hz --> 15000 bps[PC AMARILLO]
+
+
+  As¡, tenemos que este protocolo es m s r pido que su antecesor, sobre todo,[IZQUIERDA PCT BLANCO]
+cuanto m s altas sean sus frecuencias. Adem s, si se usan m s de 2 tonos, como
+tengo implementado, mejor velocidad.[NO]
+
+
+
+
+
+Servicios[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Como dije, lo baso todo en servicios. Adem s he creado un bit en la trama[IZQUIERDA]
+para usar o no protocolo. Si se usa protocolo, se entrara en modo servicios, y
+sino, las tramas no se interpretaran, es decir, se recibir  todo en crudo.[NO]
+
+
+  Se permite servicios, de texto crudo, texto empaquetado (4, 5, 6 y 7 bits),[IZQUIERDA]
+correo y ficheros.[NO AMARILLO]
+
+
+  El empaquetamiento de texto, nos permite comprimir el ASCII entre un 25% y un[IZQUIERDA BLANCO]
+50%, ganando en velocidad y capacidad.[NO]
+
+
+  En cuanto a los ficheros y correo, se permite enviar los datos, sin falta de[IZQUIERDA]
+asentimiento, o con asentimiento. Si usamos la primera opci¢n, nos llegar 
+antes, pero pasar  como en INTERNET con las tramas UDP, es decir, no se sabe si
+se ha recibido.[NO]
+
+
+  Por tanto, este protocolo est  pensado para consumir poco el canal, de forma[IZQUIERDA]
+que envie la mayor parte de datos sin asentimiento. Para correos, es m s que
+suficiente, ya que el correo t¡pico no llega a m s de 255 caracteres, y para
+SMS's, nos sobra.[NO]
+
+
+  Para archivos, todo depende del tama¤o. En concreto, a 2400 bps, si enviamos[IZQUIERDA]
+1 KB, tardaremos unos 4 segundos y pico.[NO]
+
+
+
+
+
+
+Estado[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues actualmente, como dije, la capa f¡sica funciona, y he llegado a[IZQUIERDA]
+velocidades de 4000 bps (400 bytes/s). En cuanto a la capa l¢gica, ya he
+implementado el servicio de enviar texto en crudo, empaquetado e incluso
+ficheros, y la cosa funciona, incluso con el squeltch abierto, ya que los
+CRC's hacen su trabajo.[NO]
+
+
+
+  Sin embargo, todav¡a no trabaja todo en tiempo real, es decir, se emite en[IZQUIERDA]
+tiempo real, pero para recibir, se debe leer de archivo WAV, previamente
+grabado por otro programa. Pronto, a¤adir‚ lo que falta, pero paciencia.[NO]
+
+
+
+
+
+
+Multiplataforma[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues he decidido usar las librer¡as ALLEGRO para el sonido, ya que existen[IZQUIERDA]
+para DOS, LINUX, WINDOWS, BeOS, QNX, MAC OS, BSD, Solaris, etc... De esta
+forma, puedo transmitir tonos, y recibirlos, en cualquier Sistema Operativo con
+tarjeta de sonido soportable.[NO]
+
+
+  De esta forma, el CB PACKET de la red JJ NET podr  funcionara en cualquier[IZQUIERDA]
+ordenador PC 386 o superior.[NO]

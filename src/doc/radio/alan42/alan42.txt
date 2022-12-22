@@ -1,0 +1,142 @@
+[FOTOS 2]
+FOTO_RADIO_ALAN42_1 PALETA_RADIO_ALAN42_1 70  7
+FOTO_RADIO_ALAN42_2 PALETA_RADIO_ALAN42_2 20 52
+Packet con ALAN 42[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues, para el que desconozca del tema, dir‚ que el ALAN 42, es un
+TALKIE ,  en  concreto  de  CB. Posee la modalidad de AM y FM, y 40
+preciosos canales de base.
+  Es una pena que no disponga de SSB,pero al menos se puede pinchar,
+y eso nos da un margen de frecuencias alto (recuerdo que esto no es
+muy legal en algunos paises).
+
+
+
+  Pero, ¨de qu‚ sirve un TALKIE, si no lo podemos usar igual que un[IZQUIERDA]
+transceptor de casa?. Pues, os dir‚ que se pueden hacer cosas como el RADIO
+PACKET, pero eso si, sujeto a las mismas normas. Por ahora, no est  permitido
+usar el AX.25 en CB (Espa¤a), pero no se dice nada de otras modalidades. Eso
+si, se pueden usar las frecuencias fuera de la CB (tierra de nadie) para
+operar, pero sin pasarnos, es decir, enviar s¢lo lo necesario (no hacer como
+el WIFI).[NO AMARILLO]
+
+
+
+  Como se puede observar, el ALAN42 posee dos conectores, para introducir una[IZQUIERDA BLANCO]
+pastilla externa. Uno de ellos, con forma de jack, es para la salida de audio
+(mono), es decir, para conectar unos cascos o altavoz. El otro, en forma de
+minijack, es para introducir el audio, es decir, el micr¢fono. Por tanto, para
+recibir AX.25, s¢lo necesitamos introducir un cable de audio normal y
+corriente, mono, que vaya del TALKI a la entrada de tarjeta de sonido. Pero
+para enviar [NO]AX.25[AMARILLO], la cosa se complica.[BLANCO]
+
+
+
+  Haciendo varias pruebas, llegu‚ a la conclusi¢n, de que el minijack tiene 3[IZQUIERDA]
+conectores, siendo la masa, el de la masa com£n, y quedando el segundo
+conector sin uso aparente. Es decir, s¢lo interesa uno de los conectores, el
+que est  m s abajo. Para aclararnos, al desarmar el minijack macho, hay dos
+enganches, uno abajo y otro arriba, y luego la masa. Pues debemos usar el de
+debajo del todo. De hecho si hac‚is un corto con un cable, entre este
+enganche y la masa, se activar  el [NO]PTT[AMARILLO], pero no se modular  nada.[BLANCO]
+
+
+
+  Muchos, pensar‚is en introducir el audio directamente ah¡, pero claro, la[IZQUIERDA]
+tensi¢n de salida de la tarjeta de sonido, es elevada, incluso atenu ndola, y
+nos dar¡a siempre continuidad, es decir, PTT activo todo el rato. Por tanto,
+la soluci¢n, muy clara, siguiendo el [NO]siguiente esquema:[AMARILLO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  El esquema, es el del HANDY TALKIE, y quiz s valga para otros modelos, que[IZQUIERDA BLANCO]
+no sean ALAN. Necesitamos:[NO]
+
+
+
+    - 1 conector DB25 hembra (Puerto serie)[PC GRIS]
+    - 1 carcasa para el conector DB25
+    - 1 diodo 1N4148
+    - 1 transistor BC108
+    - 1 condensador de 10 microFaradios y 50 V
+    - 2 resistencias de 2.2 K
+    - 1 conector minijack macho a‚reo
+
+
+
+  Esto es lo principal, pero se pueden poner m s cosas. En concreto, el[IZQUIERDA PCT BLANCO]
+esquema posee un diodo led, que queda muy chulo al transmitir, pero he tenido
+que quitarlo, porque algunas combinaciones de puerto serie y tarjetas de
+sonido (compatibles), no dan tanta tensi¢n. As¡ que primero quitarlo, y si
+tira bien, lo pon‚is.[NO]
+
+
+  Los diodos y los transistores, valen los compatibles, de hecho, use un[IZQUIERDA]
+compatible al BC108. Y en cuanto al condensador, yo he probado con uno de
+25 Voltios, y tambi‚n tira. Es todo cuesti¢n de la tienda de electr¢nica que
+teng is a mano.[NO AMARILLO]
+
+
+
+  El conector DB25 lo uso, porque al ser m s grande, permite meter m s[IZQUIERDA BLANCO]
+componentes, aunque habr  que limar algo, para poder meter el condensador.[NO]
+
+  Luego pod‚is usar un adaptador de DB25 a DB9, o hacerlo vosotros mismos.
+
+
+
+
+
+
+
+
+Aclaraciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hay que destacar, que el sonido debe estar lo suficientemente alto, para
+activar el PTT, pero sin pasarse, ya que sino, quedar  o sobresaturado, o[IZQUIERDA]
+siempre activo. Si es bajo, no enviar  se¤al, as¡ que a prueba y error.[NO]
+
+
+  Los programas de AX.25 son los mismos que los usados en n£meros pasados, con[IZQUIERDA]
+tarjeta de sonido.[NO]
+
+
+  Hay que destacar, que un TALKIE tiene menos potencia que un transceptor de[IZQUIERDA]
+CB fijo. As¡ que habr  que usar una buena antena, a ser posible una de base,
+con un adaptador de BNC a PL. Adem s, las pilas y las baterias no dan para
+mucho, as¡ que un adaptador de corriente, o mechero de coche, para usar una
+fuente de alimentaci¢n, nos vendr¡an bien.[NO]
+
+
+
+  Si la distancia es corta, no v is a tener problema.[PC GRIS]
+
+
+  Por cierto, no abus‚is del AX.25, es decir, montad una red de mensajer¡a para[PCT BLANCO]
+cosas £tiles, y no para montar un CHAT de INTERNET, sobre vuestros gustos[IZQUIERDA]
+sexuales (esto no es WIFI).[NO]
+
+
+
+  Buena suerte, y prospero PACKET nuevo.

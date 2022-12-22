@@ -1,0 +1,142 @@
+[FOTOS 1]
+FOTO_RADIO_ANTENA PALETA_RADIO_ANTENA 58 109
+Antena inducida para PMR[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues los PMR's se portan muy bien (teniendo en cuenta su tama¤o) si se[IZQUIERDA]
+transmite desde un sitio abierto (el campo) y con buena vista directa al
+equipo receptor, es decir, un sitio alto, por ejemplo, o a [NO]distancias cortas.[AMARILLO]
+
+
+
+  Sin embargo, desde dentro de un edificio, que debe atravesar varios, para[IZQUIERDA BLANCO]
+llegar a su vez a otro edificio, pues la distancia se ve mermada a 500 metros
+o 1 Km, sobre todo si los edificios son de hormig¢n reforzado (tranquilos
+esto le pasa a los 2 metros). Y claro, con la potencia de 0.5 W, pues poco se
+puede hacer. Aunque existen trucos, como meter m s potencia (lineales) y
+dem s, esto ir¡a en contra de la normativa del [NO]PMR.[AMARILLO]
+
+
+
+  Hay que aclarar, que la distancia de transmisi¢n llega mucho m s all  de los[IZQUIERDA BLANCO]
+3 Km, pero claro, abriendo el squeltch (tecla monitor), que por lo normal, es
+bueno para escuchas, pero no para comunicaci¢n constante.[NO]
+
+
+
+  Por tanto, nos queda una opci¢n bastante econ¢mica, f cil y que no va en[IZQUIERDA]
+contra de la normativa PMR. Esto consiste en poner una antena mejor. Si
+optamos por soldarla, estaremos en contra de la normativa de los fabricantes
+de los PMR's, que siguiendo el algoritmo, va en contra de la normativa del
+PMR. Adem s, corremos el riesgo de estropear algo (no se hace responsable la
+casa) y de que no quede est‚tico, ya que tendremos que quitar la antena que
+viene de f brica.[NO AMARILLO]
+
+
+
+  Sin embargo, si optamos por poner una antena inductiva, aunque no logremos[IZQUIERDA BLANCO]
+los resultados tan buenos como sold ndolo, si ganaremos mucho m s que con la
+antena de f brica, y no correremos muchos riesgos. Al ganar en la recepci¢n,
+significa, que sin falta de abrir la tecla monitor, podremos escuchar las
+se¤ales m s d‚biles mejor, pero no os dej‚is llevar, que una cosa es mejorar
+mucho, y otra cosa es poder recibir se¤ales de [NO]300 Km de distancia.[AMARILLO]
+
+
+  En cuanto a la transmisi¢n, la cosa no va a mejorar mucho, pero ya os he[IZQUIERDA BLANCO]
+dicho, que lo importante es recibir, que mientras que la se¤al llegue, por
+d‚bil que sea, se puede filtrar.[NO]
+
+
+
+
+
+Antenas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Si ten‚is duda, sobre la importancia de una buena antena, probad con un[IZQUIERDA]
+talkie de 27 Mhz, y quitadle la porra que trae de f brica, y ponerle una
+buena antena de 3 metros de alto, ya ver‚is como de repente, se puede recibir
+mucho m s, pero claro, esto es igual para el ruido, de tal forma, que tambi‚n
+el ruido se oir  m s. Y claro, si le pon‚is una antena de coche o una base de
+casa (19 metros de alto), pues la cosa, todav¡a gana m s.[NO]
+
+
+  Pues lo mismo pasa para el caso de los PMR's. No obstante, aqu¡ las antenas[IZQUIERDA]
+cambian un poco, ya que estamos en los 446 Mhz, y aqu¡ no se aplican las
+mismas leyes que en [NO]onda corta.[AMARILLO]
+
+
+
+  Si no dispon‚is de una antena, ni a£n queri¢ndolo, pod‚is optar a[IZQUIERDA BLANCO]
+construiros una vosotros mismos, pero de la manera m s f cil, es decir, con
+un trozo de cable, pero eso s¡, bastante largo, de unos 7 metros, y ponerlo
+fuera de la casa.[NO]
+
+
+  Por cierto, no intent‚is usar las antenas caseras WIFI (las de los cartones[IZQUIERDA]
+de leche), porque estas trabajan en frecuencias de por arriba de los 1,2 GHz,
+mientras que los PMR's lo hacen en 446 Mhz.[NO]
+
+
+  En mi caso, he usado una directiva de UHF casera, con 3 directores, un[IZQUIERDA]
+dipolo y un reflector, con aluminio y pl stico. Pero se puede pillar una
+antena ya hecha. Ya os digo, que los resultados, aunque no nos van a permitir
+recibir se¤ales de extraterrestres, si nos permitir n mejorar un poco la
+se¤al, que "a falta de pan, buenas son tortas".[NO] 
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues se requiere lo siguiente:
+
+
+    - 1 trozo de cable coaxial de radio de 58 Ohmios (10 cm o m s)[PC GRIS]
+    - Un conector PL o un BNC
+    - Un trozo de cable para hacer de bobina (50 cm o 1 metro)
+    - Soldador y esta¤o
+
+
+  Y por supuesto, mucha paciencia, y la carga maestra o viga principal, es[IZQUIERDA PCT BLANCO]
+decir, la cinta aislante.[NO]
+
+
+  Se  debe  coger  el  cable cutre, sin apantallar , para
+convertirlo en una bobina inductiva ,  de tal forma , que
+debemos  hacer que gire , con  un  total de entre 10 y 20
+vueltas  (a  prueba  y  error). Despu‚s  se  pelar n  los
+extremos , de tal forma  que  no  se  tiene  en cuenta la
+parte positiva y la masa, es decir, es todo uno.
+
+
+  Despu‚s, se pelar  el cable coaxial, separando la malla
+y la parte interna (positiva), y se soldar n o bien  a un
+conector PL o a uno BNC. En mi caso ,  he  optado al BNC,
+porque sale m s barato, y porque tengo antenas con salida
+BNC.[AMARILLO]
+
+
+
+  Se debe soldar la malla a uno de los extremos de la bobina creada antes, y[IZQUIERDA BLANCO]
+el otro extremo a la otra parte de la bobina. Y terminado. A no, se me
+olvidaba, la cinta aislante, que pod‚is meter un pegote para que la bobina no
+se desintegre. Aseguraos de que la antena del PMR entra por la bobina, ya que
+sino, lo hab‚is fastidiado, ya que se debe inducir a la antena. No hace falta
+que entre muy justa.[NO]
+
+
+  Si en lugar de usar el cable para hacer la bobina, hab‚is optado por un[IZQUIERDA]
+trozo de cobre, pues la cosa mejora un poquito para la recepci¢n, pero no
+para nuestras manos, ya que debemos de hacer que el cobre se convierta en
+bobina, es decir, haciendo nosotros mismos la forma.[NO]
+
+
+  Y con esto, se acabo, as¡ que buena suerte.

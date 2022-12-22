@@ -1,0 +1,53 @@
+[FOTOS 1]
+FOTO_RADIO_TRANSPARENCIAS PALETA_RADIO_TRANSPARENCIAS 60 1
+Diapositivas de Radio[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+  De la misma manera, que existe un libro  sobre la  radio,
+hecho por mi jeta,pues existen unas diapositivas sobre todo
+esto, para que alg£n gracioso pueda dar clases sobre  ello,
+y decir que las  ha  hecho  ‚l, es  decir, para  que  pueda
+abrillantar su apellido de LAMER. [BLANCO]8-D)))[AZULCLARO]
+
+
+  Pues si, existen unas diapositivas en Power Point sobre lo que trata el[IZQUIERDA BLANCO]
+cuadernillo, pero para aquellos que no quieren tragar tanta letra, bien porque
+no sepan leer, o porque no tengan tiempo. Ya se que el Power Point es una
+basura, con su terrible retrazo, movimientos desincronizados y ha tirones, pero
+¨qu‚ quer¡ais que usase, las Stars Office para que se colgase LINUX?. Habr  que
+esperar a que nuestro grupo haga un visor de dispositivas en SDL o ALLEGRO,
+hasta entonces, "chico, chico, lo que hay, MariooOOoo noo eta, venii maniana".[NO]
+8-D))
+
+
+  Pues las diapositivas, muestran los PMR's, LPD's, la radioafici¢n, el PTT[IZQUIERDA]
+SOUND, CB-PACKET, AX.25, fuente de alimentaci¢n adaptada, etc...[NO]
+
+
+  Cuando expuse en p£blico estas transparencias, me traje los cacharros y la[IZQUIERDA]
+chatarra que hab¡a creado, como el interface SB para radiopacket montado en una
+caja de CD virgen, modem's y la COVOX SOUND (nadie sab¡a lo que era). Y eso que
+se me olvido sacar el interface con chip decodificador de RTTY y MORSE. La
+verdad, se rieron m s de los aparatillos, que de lo que hablaba.[NO]
+
+
+  En definitiva, que es m s f cil mirar las transparencias, que leerse el[IZQUIERDA]
+cuadernillo, o lo que es lo mismo, es mejor ver la peli, que leerse el libro,
+sobre todo si es X. [NO]8-D)))[AMARILLO]
+
+
+
+  Las diapositivas, est n en la p gina web:[BLANCO]
+
+
+
+                  http://www.lanzadera.com/ensamblador[CHAR14B VERDEFOSFORITO]
+
+
+
+  en la secci¢n de radio.[PCT BLANCO]
