@@ -1,0 +1,204 @@
+[FOTOS 4]
+FOTO_NUEVOSOS_1 PALETA_NUEVOSOS_1 59 56
+FOTO_NUEVOSOS_2 PALETA_NUEVOSOS_2 59 94
+FOTO_NUEVOSOS_3 PALETA_NUEVOSOS_3 59 123
+FOTO_NUEVOSOS_4 PALETA_NUEVOSOS_4 59 153
+Nuevos OS's[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues ya es bien sabido, que casi cualquier PC del mundo, ha pose¡do o posee,[IZQUIERDA]
+Microsoft Windows instalado, ya sea 3.11, 9x, Me, NT, XP, etc... Desde hace
+muchos a¤os, se lleva intentando introducir LINUX. Pero parece que se ha
+olvidado la ‚poca en la que Microsoft ni Apple eran los reyes, es decir,
+cuando reinaba el GEM (Atari), el CPM, el OS/2, UNIX, DrDOS, etc... Exist¡an
+m£ltiples sistemas operativos, y la mayor¡a [NO]eran incompatibles.[ROJO]
+
+
+
+
+  Actualmente, s¢lo se habla de Windows en el mundo PC, y Mac OS en el de[IZQUIERDA BLANCO]
+Apple. Si alguien quiere otra opci¢n, parece ser que tiene que tragar a la
+fuerza LINUX, como si s¢lo existieran [NO]2 Sistemas Operativos en el mundo.[AMARILLO]
+
+
+
+  Gracias a Dios, apareci¢ BeOS en 1994 cogido de la mano de Be, pero a la[IZQUIERDA BLANCO]
+larga, se ha ido descomponiendo, y actualmente, depende del trabajo de
+terceras personas (BeOS for ever), como la MAX Edition v3, Yellow TAB,
+OpenBeOS.[NO AMARILLO]
+
+
+
+  Pero, ¨existen s¢lo 3 sistemas en el mundo?. Pues no, ya que existen tantos[IZQUIERDA BLANCO]
+sistemas operativos como aplicaciones.[NO]
+
+
+
+  En n£meros pasados vimos, el QNX, que actualmente, ha crecido a su versi¢n[IZQUIERDA]
+6.21. Pero estos sistemas, quiz s son un poco grandes, y queramos hacer
+aplicaciones reducidas y optimas, pudiendo elegir gran variedad de DOS, como
+el DrDOS, OpenDOS, freeDOS, freeDOS 32, etc...[NO AZULCLARO]
+
+
+
+  ¨Pero acaba aqu¡ la cosa?[PC GRIS]
+
+
+
+  Pues no, ya que vamos a ver, otra serie de sistemas que tienen interface[IZQUIERDA PCT BLANCO]
+gr fico, ocupan "poco", y por ahora, funcionan bien.[NO]
+
+
+
+
+
+
+
+AROS 2003[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues muchos sceners conocer n la ‚poca dorada del AMIGA
+(todav¡a sigue existiendo), y por tanto, su AMIGA OS.Pero
+claro, al igual que al MAC OS para Apple,el AMIGA OS est 
+registrado, y por tanto, no se tiene acceso al c¢digo. Es
+decir, en el momento en que la  compa¤¡a  decida  no  dar
+soporte (quiebra), quedar  olvidado, y claro, el AMIGA ya
+ha terminado su ‚poca dorada.[AMARILLO]
+
+
+  Pues un grupo de coders, se unieron, y crearon un Sistema Operativo[IZQUIERDA BLANCO]
+equivalente al AMIGA OS (interface) y de forma parecida de programar, que su
+hom¢logo.[NO AZULCLARO]
+
+
+  Pero, no todo tiene que ser para AMIGA, ya que muchos de nosotros tenemos[IZQUIERDA BLANCO]
+PC. As¡ que de la misma forma, que un d¡a se intent¢ portar el MAC OS para
+PC, hoy se ha portado el AROS 2003 para PC, y como pod‚is ver en la imagen
+que he capturado, funciona muy bien en mi equipo.[NO]
+
+
+  Hay que destacar que al igual que el AMIGA OS, tiene un interface precioso,[IZQUIERDA]
+sencillo, y potente a la vez, al estilo de [NO]BeOS.[AMARILLO]
+
+
+  Posee una serie de demostraciones, de reloj, ventanas, botones, y dem s, que[IZQUIERDA BLANCO]
+pod‚is probar, tanto en m quina real PC, como en emulada con VMWARE, con s¢lo
+freir la ISO.[NO]
+
+
+
+
+
+
+SkyOS[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  En el n£mero pasado de Exilium ,  quer¡a  haber tratado
+sobre ‚l , pero he esperado a este. Pues trabaja sobre un
+n£cleo de LINUX , pero modificado, e intenta competir con
+WINDOWS en apariencia y recursos, ya que incluso tiene un
+editor de registro. Posee varias aplicaciones multimedia,
+e incluso juegos , y navegador web. Se ha portado incluso
+un emulador de [BLANCO]Nintendo 64.[AMARILLO]
+
+
+  Pero su  baza principal , est  en  el  soporte  de  los[BLANCO]
+puertos USB, que hoy en d¡a son bastante usados.
+
+
+  Se trata pues de un Sistema Operativo prometedor. Pero lamentablemente no[IZQUIERDA]
+es ni GNU, ni OpenSource, ni gratis. En concreto, s¢lo se puede bajar la
+versi¢n 4 de forma gratuita. A partir de la 5, es de pago.[NO]
+
+
+
+
+
+
+
+Menuet[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  ¨Que se  puede  decir de  este sistema , que no se haya
+dicho  ya? Es perfecto ,  ya  que combina el  GNU  con el
+ensamblador , algo que ya se  ten¡a olvidado en el  mbito
+GNU (99% en C). Permite tener aspecto multimedia, con una
+velocidad sorprendente, y unos requisitos m¡nimos, ya que
+le sobre el espacio de un [NO]disquete (1.44 MB).[AMARILLO]
+
+
+  Actualmente va por su versi¢n 0.75,y aparecen m s y m s[BLANCO]
+aplicaciones, as¡ como la documentaci¢n pertinente.
+
+
+  As¡ podemos desarrollar aplicaciones empotradas con una apariencia visual[IZQUIERDA]
+buena, y sin sacrificar en velocidad, y estabilidad. Podemos programar
+directamente sobre el sistema, o bien, con compiladores cruzados de C, PASCAL
+o ensamblador, con las librer¡as correspondientes.[NO]
+
+
+  Se dispone de documentos para usar el STACK de los protocolos de red, los[IZQUIERDA]
+servicios de ventanas, sonido, y dem s. En definitiva, que ser¡a uno de los
+mejores Sistemas Operativos para la [NO]Demoscene.[AMARILLO]
+
+
+
+
+
+
+
+React OS[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues  se  trata  de  una  continuaci¢n  del NT , ya que
+Microsoft acaba  de  dar  por  acabado el soporte para el
+mismo. ¨Qui‚n sabe?, quiz s hagan lo mismo con el Windows
+3.11, el Windows 9x, y dem s.
+
+
+  Al estar su n£cleo basado en NT , tendremos los  mismos
+archivos de  arranque  que  su  predecesor. Una  vez  que
+arranquemos  de   CDROM , nos  pedir   que  elijamos  una
+partici¢n para instalarlo, que ser  en modo FAT. En pocos
+minutos, lo tendremos instalado, y al arrancar, podremos ver una consola, al[IZQUIERDA]
+estilo de la que trae el [NO]NT.[GRIS]
+
+
+  Trae consigo un ejemplo de una ventana, como se puede ver en la foto, que[IZQUIERDA BLANCO]
+se puede cargar desde el shell.[NO]
+
+  Como est  basado en NT, soporta DLL's, EXE's y COM's.
+
+  Su licencia no es [NO]GNU.[AZULCLARO]
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues acab is de ver estos sistemas. Pero tranquilos, todav¡a quedan m s,[IZQUIERDA]
+como el BSD, Solaris, RTOS, Ateos, TheOS, etc...[NO]
+
+  Sin embargo, pretendo introducir, un concepto:
+
+
+  "No necesitamos de Microsoft ni de Apple para poder vivir, ¨o quiz s si?"[PC GRIS]
+
+
+  Los scener's del DOS, al principio rechazaban la idea de realizar sus[IZQUIERDA PCT BLANCO]
+producciones para WIN, pero ahora, todo se hace con WIN32 (Microsoft JAVA,
+OpenGL para WIN, Microsoft C++, etc...). Por tanto, tomemos el poder que
+hace tiempo se perdi¢, y hagamos demos en sistemas alternativos, para
+demostrar que en Sistemas Operativos, Microsoft ha perdido.[NO]
