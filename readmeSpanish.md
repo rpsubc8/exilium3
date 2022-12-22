@@ -12,6 +12,8 @@ Artículos a destacar:
 <ul>
  <li>Entrevista a Codepixel, derethor(Javier Loureiro) del grupo Centolos y Solstice</li>
  <li>Revista extinta Technoid de BeOS</li>
+ <li>Diskmag Hugi 24</li>
+ <li>Diskmag Pain 1001</li>
  <li>Diskmag ONLINE extinta CPC OXYGEN</li>
  <li>Programar en DX-CREATOR</li>
  <li>Uso del PTTSound en hamradio</li>
