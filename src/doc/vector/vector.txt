@@ -1,0 +1,55 @@
+[FOTOS 2]
+FOTO_VECTOR_1 PALETA_VECTOR_1 58 5
+FOTO_VECTOR_2 PALETA_VECTOR_2 58 35
+Distro Vector[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+  Pues desde hace tiempo ,  me ha pasado  por  la  cabeza
+hacer una distro, que contuviera todo aquello que siempre
+hab¡a  deseado que tuviese un DOS , es decir , como yo lo
+tengo instalado [NO](FreeDOS con a¤adidos).[AMARILLO]
+
+
+Por tanto, ¨qu‚ mejor que hacer una propia distro?, ya que[BLANCO]
+hoy est n tan de moda en el mundo de [NO]LINUX y BeOS.[AMARILLO]
+
+
+  El nombre que va a tener es el de V‚ctor. ¨por qu‚?, alg£n d¡a lo sabr‚is.[BLANCO]
+
+
+  Estoy encarg ndome de hacer un instalador gr fico que consuma poco y que a[IZQUIERDA]
+a la vez sea bonito, as¡ que aqu¡ dejo unas fotos, donde se puede elegir el
+idioma y el tipo de ordenador en donde se va a instalar el DOS.[NO]
+
+
+
+  A s¡, por si no lo sab‚is, esta distro va a contener el paquete b sico de[IZQUIERDA]
+FreeDOS (GNU), pero con a¤adidos multimedia, para poder reproducir MP3, AVI,
+MPEG, DIVX, etc..., as¡ como para poder pixelar, y por supuesto el software
+de radioaficionado [NO](HAM RADIO).[AMARILLO]
+
+
+
+  Mientras que un LINUX, con un CDROM se tiene  poco , un[BLANCO]
+DOS , tiene  excesivo , entr ndonos  tambi‚n  emuladores,
+juegos y diskmags, as¡ como las demos.
+
+
+  Por  supuesto  se  intentar  meter lo m ximo posible de
+GNU, indicando en caso contrario a que licencia pertenece
+el programa.
+
+
+  Con  esta  distro  no  pretendo hacer la competencia al
+FreeDOS , al contrario. De hecho, pretendo darle un toque
+de  color , con  un  instalador y dem s herramientas  que
+faciliten el manejo, a usuarios inexpertos.
+
+
+  A lo largo de Exilium, ir‚ comentando los progresos.

@@ -1,0 +1,103 @@
+[FOTOS 0]
+USB bajo DOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues, muchos de vosotros, ya habr‚is abandonado el DOS, debido a la falta de[IZQUIERDA]
+drivers para este Sistema Operativo. Y claro, en parte ten‚is raz¢n, pero
+gracias a Dios, el DOS no posee drivers de hardware que no sigue un
+est ndar. Por tanto, si no existe el driver, es que no es [NO]est ndar.[AMARILLO]
+
+
+
+  Y claro, el USB, hoy por hoy, existe para el DOS. As¡ que si ten‚is un[IZQUIERDA BLANCO]
+l piz (FLASH usb), discos duros, grabadoras, c maras digitales, y dem s que
+usen el USB, podr‚is usar la memoria FLASH que viene con ellos, como una
+unidad de disco, al estilo de otros [NO]Sistemas Operativos.[AMARILLO]
+
+
+
+  Para ello, necesitaremos un driver, realizado por un Japon‚s, y que[IZQUIERDA BLANCO]
+contiene los siguientes archivos:[NO]
+
+
+
+   USBASPI.SYS[PC GRIS]
+   RAMFD.SYS
+   DI10000DD.SYS
+
+
+
+  Estos archivos deben cargarse desde el fichero CONFIG.SYS, aunque existen[IZQUIERDA PCT BLANCO]
+utilidades rusas que nos permiten cargar estos archivos en caliente.[NO]
+
+
+  El primer fichero, el USBASPY, es algo as¡ como el controlador de CDROM que[IZQUIERDA]
+suele venir con cualquier fabricante para DOS, o bien el gen‚rico SAMPLE.SYS.[NO]
+
+  Permite las siguientes opciones:
+
+
+   /e --> [PC AMARILLO]Soporte para USB 2.0[GRIS]
+   /o --> [AMARILLO]Soporte para USB 1.0 nuevo[GRIS]
+   /u --> [AMARILLO]soporte para USB 1.0 viejo[GRIS]
+
+
+  Por tanto, si queremos soporte para USB 2.0, pondremos la siguiente l¡nea en[IZQUIERDA PCT BLANCO]
+el CONFIG.SYS:[NO]
+
+
+   Device = usbaspy /e[PC AMARILLO]
+
+
+  Si no ponemos opciones, funcionar  con lo t¡pico.[PCT BLANCO]
+  Permite m s opciones, como:
+
+
+   /w --> [PC AMARILLO]espera para mostrar un mensaje de intercambio de dispositivos USB[GRIS]
+   /v --> [AMARILLO]Modo de depuraci¢n, donde muestra informaci¢n[GRIS]
+   /l --> [AMARILLO]el n£mero de dispositivo USB[GRIS]
+
+
+  Pues con esto, ya tenemos el dispositivo, que si todo va bien, nos dir [IZQUIERDA PCT BLANCO]
+incluso el nombre del mismo.[NO]
+
+
+  Pero ahora queda poner unir el controlador con un dispositivo de ficheros, es
+decir, poderlo montar como unidad. Esto, en los CDROMS, se usa el comando[IZQUIERDA]
+MSCDEX.[NO AMARILLO]
+
+
+
+  Pero aqu¡, debemos usar el archivo DI10000DD.SYS, tambi‚n desde el[IZQUIERDA BLANCO]
+CONFIG.SYS, de la siguiente forma:[NO]
+
+
+   Device = DI10000DD.SYS[PC AMARILLO]
+
+
+  Y en el acto, nos indicar  la partici¢n y tama¤o del mismo disco FLASH que[IZQUIERDA PCT BLANCO]
+tenga nuestro dispositivo.[NO]
+
+
+
+  Bueno, por si ten‚is dudas, esto funciona, ya que lo he probado en mi c mara[IZQUIERDA]
+digital WOXTER DC 100, y en un l piz de 256 MB USB 2.0. He probado a recibir
+datos y a enviarlos, tanto de la cámara, como del lápiz, y todo funciona
+perfectamente.[NO AMARILLO]
+
+
+
+  ¨Por qu‚ es mejor el DOS?. Pues, porque la transferencia ocurre en el acto, a[IZQUIERDA BLANCO]
+diferencia de LINUX (hay que montarlo como root, y hacer sync) y en Windows
+(desmontar el l piz). Adem s, el sistema arranca en el acto, as¡ como los
+controladores. Y por supuesto, no hay que esperar a que lo reconozca como
+Plug & Play.[NO]
+
+
+
+  El fichero RAMFD.SYS, sirve para las unidades de disquete de puerto USB, as¡[IZQUIERDA]
+que si la ten‚is, probadlo.[NO]
