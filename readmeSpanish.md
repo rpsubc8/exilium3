@@ -1,6 +1,6 @@
 # Diskmag Exilium 3 (Enero 2005)
 
-Aproximádamente, en Enero del 2005 nuestro grupo <b>Sliders</b> publicó el número 3 de la Diskmag Exilium en nuestro propio FTP.<br>
+Aproximadamente, en Enero del 2005 nuestro grupo <b>Sliders</b> publicó el número 3 de la Diskmag Exilium en nuestro propio FTP.<br>
 Posteriormente, varios miembros de la demoscene, lo publicaron en <b>pouet.net</b> y <b>scene.org</b>.
 
 <ul>
